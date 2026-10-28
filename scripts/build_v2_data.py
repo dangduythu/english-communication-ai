@@ -475,10 +475,22 @@ for l in lessons:
  exercises.append({'id':f'{l["id"]}-choice','lessonId':l['id'],'type':'choice','prompt':f'Chọn nghĩa của “{entry["en"]}”.','options':options,'answer':entry['vi'],'vocabId':entry['id'],'explanation':f'“{entry["en"]}” trong bài này có nghĩa là “{entry["vi"]}”.','context':entry['example']})
  ex=next(e for e in l['examples'] if match(entry['en'],e['en']))
  blanked=re.sub(r'(?<![a-z])'+re.escape(entry['en'])+r'(?![a-z])','____',ex['en'],count=1,flags=re.I)
- exercises.append({'id':f'{l["id"]}-cloze','lessonId':l['id'],'type':'cloze','prompt':blanked,'hint':ex['vi'],'answer':match(entry['en'],ex['en']).group(),'vocabId':entry['id'],'correctSentence':ex['en'],'explanation':f'Điền “{entry["en"]}” ({entry["vi"]}). Cấu trúc bài học: {l["formula"]}'})
- ex=l['examples'][2];tokens=ex['en'].split();indices=list(range(len(tokens)));rng.shuffle(indices)
+ exercises.append({'id':f'{l["id"]}-cloze','lessonId':l['id'],'type':'cloze','prompt':blanked,'hint':ex['vi'],'answer':match(entry['en'],ex['en']).group(),'vocabId':entry['id'],'correctSentence':ex['en'],'explanation':f'Điền “{entry["en"]}” với nghĩa “{entry["vi"]}” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu.'})
+ ex=l['examples'][2]
+ sentence=ex['en'].lower()
+ if re.match(r'^(how|what|where|when|why|which) (is|are|was|were|do|does|did|can|could|will|would|have|has)\b',sentence):
+  rule='Câu hỏi dùng từ hỏi trước trợ động từ hoặc động từ to be, rồi đến chủ ngữ và phần còn lại.'
+ elif re.match(r'^(is|are|was|were|do|does|did|can|could|will|would|have|has)\b',sentence):
+  rule='Câu hỏi Yes/No thường đặt trợ động từ hoặc động từ to be trước chủ ngữ.'
+ elif sentence.startswith("let's "):
+  rule="Lời đề nghị dùng Let's + động từ nguyên mẫu, sau đó là phần bổ sung."
+ elif sentence.startswith('please '):
+  rule='Lời yêu cầu lịch sự dùng Please + động từ nguyên mẫu và phần bổ sung.'
+ else:
+  rule='Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.'
+ tokens=ex['en'].split();indices=list(range(len(tokens)));rng.shuffle(indices)
  if indices==list(range(len(tokens))):indices=indices[1:]+indices[:1]
- exercises.append({'id':f'{l["id"]}-order','lessonId':l['id'],'type':'order','prompt':'Sắp xếp các từ theo nghĩa tiếng Việt.','hint':ex['vi'],'answer':ex['en'],'tokens':[tokens[i] for i in indices],'explanation':f'Cấu trúc cần luyện: {l["formula"]}','correctSentence':ex['en']})
+ exercises.append({'id':f'{l["id"]}-order','lessonId':l['id'],'type':'order','prompt':'Sắp xếp các từ theo nghĩa tiếng Việt.','hint':ex['vi'],'answer':ex['en'],'tokens':[tokens[i] for i in indices],'explanation':rule,'correctSentence':ex['en']})
 (root/'data/vocabulary.json').write_text(json.dumps({'entries':list(bank.values()),'byLesson':links},ensure_ascii=False,indent=2)+'\n')
 (root/'data/exercises.json').write_text(json.dumps(exercises,ensure_ascii=False,indent=2)+'\n')
 print(f'{len(bank)} vocabulary entries; {len(exercises)} exercises; all {len(links)} lessons linked; minimum {min(map(len,links.values()))} entries per lesson')

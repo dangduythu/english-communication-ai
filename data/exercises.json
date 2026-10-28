@@ -24,7 +24,7 @@
     "answer": "production line",
     "vocabId": "v-a827f279cb24",
     "correctSentence": "How are things on the production line?",
-    "explanation": "Điền “production line” (dây chuyền sản xuất). Cấu trúc bài học: I'm fine, thanks. / I'm a bit busy today."
+    "explanation": "Điền “production line” với nghĩa “dây chuyền sản xuất” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "1-order",
@@ -39,7 +39,7 @@
       "is",
       "going?"
     ],
-    "explanation": "Cấu trúc cần luyện: I'm fine, thanks. / I'm a bit busy today.",
+    "explanation": "Câu hỏi dùng từ hỏi trước trợ động từ hoặc động từ to be, rồi đến chủ ngữ và phần còn lại.",
     "correctSentence": "How is work going?"
   },
   {
@@ -67,7 +67,7 @@
     "answer": "Nice to meet you",
     "vocabId": "v-a2a75a27ba7f",
     "correctSentence": "Nice to meet you, I'm Minh.",
-    "explanation": "Điền “nice to meet you” (rất vui được gặp bạn). Cấu trúc bài học: Nice to meet you, too."
+    "explanation": "Điền “nice to meet you” với nghĩa “rất vui được gặp bạn” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "2-order",
@@ -83,7 +83,7 @@
       "to",
       "meet"
     ],
-    "explanation": "Cấu trúc cần luyện: Nice to meet you, too.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "Nice to meet your team."
   },
   {
@@ -111,7 +111,7 @@
     "answer": "colleague",
     "vocabId": "v-ace6752be4cc",
     "correctSentence": "This is my colleague, Lan.",
-    "explanation": "Điền “colleague” (đồng nghiệp). Cấu trúc bài học: This is + name/thing."
+    "explanation": "Điền “colleague” với nghĩa “đồng nghiệp” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "3-order",
@@ -126,7 +126,7 @@
       "my",
       "This"
     ],
-    "explanation": "Cấu trúc cần luyện: This is + name/thing.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "This is my daughter."
   },
   {
@@ -154,7 +154,7 @@
     "answer": "department",
     "vocabId": "v-eb3c62690ec9",
     "correctSentence": "Which department do you work in?",
-    "explanation": "Điền “department” (phòng ban). Cấu trúc bài học: I work as + job. / I work in + department."
+    "explanation": "Điền “department” với nghĩa “phòng ban” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "4-order",
@@ -171,7 +171,7 @@
       "in?",
       "Which"
     ],
-    "explanation": "Cấu trúc cần luyện: I work as + job. / I work in + department.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "Which department do you work in?"
   },
   {
@@ -199,7 +199,7 @@
     "answer": "colleague",
     "vocabId": "v-ace6752be4cc",
     "correctSentence": "Where is your colleague from?",
-    "explanation": "Điền “colleague” (đồng nghiệp). Cấu trúc bài học: I'm from + place."
+    "explanation": "Điền “colleague” với nghĩa “đồng nghiệp” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "5-order",
@@ -215,7 +215,7 @@
       "is",
       "colleague"
     ],
-    "explanation": "Cấu trúc cần luyện: I'm from + place.",
+    "explanation": "Câu hỏi dùng từ hỏi trước trợ động từ hoặc động từ to be, rồi đến chủ ngữ và phần còn lại.",
     "correctSentence": "Where is your colleague from?"
   },
   {
@@ -243,7 +243,7 @@
     "answer": "productive",
     "vocabId": "v-f3f806213d7f",
     "correctSentence": "It was productive.",
-    "explanation": "Điền “productive” (hiệu quả; có năng suất). Cấu trúc bài học: It was + adjective."
+    "explanation": "Điền “productive” với nghĩa “hiệu quả; có năng suất” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "6-order",
@@ -257,7 +257,7 @@
       "productive.",
       "It"
     ],
-    "explanation": "Cấu trúc cần luyện: It was + adjective.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "It was productive."
   },
   {
@@ -285,7 +285,7 @@
     "answer": "Have a good",
     "vocabId": "v-d3abab60bb0b",
     "correctSentence": "Have a good day!",
-    "explanation": "Điền “have a good” (chúc một ... tốt lành). Cấu trúc bài học: Have a good + time/day/weekend."
+    "explanation": "Điền “have a good” với nghĩa “chúc một ... tốt lành” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "7-order",
@@ -300,7 +300,7 @@
       "trip!",
       "safe"
     ],
-    "explanation": "Cấu trúc cần luyện: Have a good + time/day/weekend.",
+    "explanation": "Câu hỏi Yes/No thường đặt trợ động từ hoặc động từ to be trước chủ ngữ.",
     "correctSentence": "Have a safe trip!"
   },
   {
@@ -328,7 +328,7 @@
     "answer": "target",
     "vocabId": "v-0e8a3ad980ec",
     "correctSentence": "What is the target yield?",
-    "explanation": "Điền “target” (mục tiêu). Cấu trúc bài học: It is + noun/adjective."
+    "explanation": "Điền “target” với nghĩa “mục tiêu” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "8-order",
@@ -343,7 +343,7 @@
       "plan?",
       "What"
     ],
-    "explanation": "Cấu trúc cần luyện: It is + noun/adjective.",
+    "explanation": "Câu hỏi dùng từ hỏi trước trợ động từ hoặc động từ to be, rồi đến chủ ngữ và phần còn lại.",
     "correctSentence": "What is your plan?"
   },
   {
@@ -371,7 +371,7 @@
     "answer": "team leader",
     "vocabId": "v-788497e72fe5",
     "correctSentence": "Who is the new team leader?",
-    "explanation": "Điền “team leader” (trưởng nhóm). Cấu trúc bài học: ... is + person."
+    "explanation": "Điền “team leader” với nghĩa “trưởng nhóm” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "9-order",
@@ -386,7 +386,7 @@
       "is",
       "Who"
     ],
-    "explanation": "Cấu trúc cần luyện: ... is + person.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "Who is available now?"
   },
   {
@@ -414,7 +414,7 @@
     "answer": "pharmacy",
     "vocabId": "v-adfa59cc50d2",
     "correctSentence": "Where is the nearest pharmacy?",
-    "explanation": "Điền “pharmacy” (nhà thuốc). Cấu trúc bài học: It is + place."
+    "explanation": "Điền “pharmacy” với nghĩa “nhà thuốc” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "10-order",
@@ -430,7 +430,7 @@
       "defect",
       "is"
     ],
-    "explanation": "Cấu trúc cần luyện: It is + place.",
+    "explanation": "Câu hỏi dùng từ hỏi trước trợ động từ hoặc động từ to be, rồi đến chủ ngữ và phần còn lại.",
     "correctSentence": "Where is the defect located?"
   },
   {
@@ -458,7 +458,7 @@
     "answer": "deadline",
     "vocabId": "v-e23839cd729a",
     "correctSentence": "When is the deadline?",
-    "explanation": "Điền “deadline” (hạn chót). Cấu trúc bài học: It is at/on + time/date."
+    "explanation": "Điền “deadline” với nghĩa “hạn chót” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "11-order",
@@ -473,7 +473,7 @@
       "your",
       "is"
     ],
-    "explanation": "Cấu trúc cần luyện: It is at/on + time/date.",
+    "explanation": "Câu hỏi dùng từ hỏi trước trợ động từ hoặc động từ to be, rồi đến chủ ngữ và phần còn lại.",
     "correctSentence": "When is your birthday?"
   },
   {
@@ -501,7 +501,7 @@
     "answer": "machine",
     "vocabId": "v-7817c52b2560",
     "correctSentence": "Why is the machine stopped?",
-    "explanation": "Điền “machine” (máy móc). Cấu trúc bài học: Because + clause."
+    "explanation": "Điền “machine” với nghĩa “máy móc” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "12-order",
@@ -518,7 +518,7 @@
       "the",
       "Why"
     ],
-    "explanation": "Cấu trúc cần luyện: Because + clause.",
+    "explanation": "Câu hỏi dùng từ hỏi trước trợ động từ hoặc động từ to be, rồi đến chủ ngữ và phần còn lại.",
     "correctSentence": "Why is the room so cold?"
   },
   {
@@ -546,7 +546,7 @@
     "answer": "machine",
     "vocabId": "v-7817c52b2560",
     "correctSentence": "How do I reset the machine?",
-    "explanation": "Điền “machine” (máy móc). Cấu trúc bài học: First..., then..."
+    "explanation": "Điền “machine” với nghĩa “máy móc” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "13-order",
@@ -563,7 +563,7 @@
       "do",
       "report?"
     ],
-    "explanation": "Cấu trúc cần luyện: First..., then...",
+    "explanation": "Câu hỏi dùng từ hỏi trước trợ động từ hoặc động từ to be, rồi đến chủ ngữ và phần còn lại.",
     "correctSentence": "How do I export the report?"
   },
   {
@@ -591,7 +591,7 @@
     "answer": "supplier",
     "vocabId": "v-e2979e759574",
     "correctSentence": "Which supplier do you prefer?",
-    "explanation": "Điền “supplier” (nhà cung cấp). Cấu trúc bài học: I prefer + noun / V-ing."
+    "explanation": "Điền “supplier” với nghĩa “nhà cung cấp” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "14-order",
@@ -607,7 +607,7 @@
       "Which",
       "do"
     ],
-    "explanation": "Cấu trúc cần luyện: I prefer + noun / V-ing.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "Which supplier do you prefer?"
   },
   {
@@ -635,7 +635,7 @@
     "answer": "defects",
     "vocabId": "v-378eaf1e9d34",
     "correctSentence": "How many defects were found?",
-    "explanation": "Điền “defects” (các lỗi sản phẩm). Cấu trúc bài học: There are + number + plural noun."
+    "explanation": "Điền “defects” với nghĩa “các lỗi sản phẩm” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "15-order",
@@ -652,7 +652,7 @@
       "have?",
       "How"
     ],
-    "explanation": "Cấu trúc cần luyện: There are + number + plural noun.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "How many children do you have?"
   },
   {
@@ -680,7 +680,7 @@
     "answer": "material",
     "vocabId": "v-97912524f347",
     "correctSentence": "How much material is left?",
-    "explanation": "Điền “material” (vật liệu). Cấu trúc bài học: It costs ... / We need ..."
+    "explanation": "Điền “material” với nghĩa “vật liệu” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "16-order",
@@ -696,7 +696,7 @@
       "How",
       "is"
     ],
-    "explanation": "Cấu trúc cần luyện: It costs ... / We need ...",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "How much material is left?"
   },
   {
@@ -724,7 +724,7 @@
     "answer": "supplier",
     "vocabId": "v-e2979e759574",
     "correctSentence": "How often do you meet the supplier?",
-    "explanation": "Điền “supplier” (nhà cung cấp). Cấu trúc bài học: I ... every day/twice a week."
+    "explanation": "Điền “supplier” với nghĩa “nhà cung cấp” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "17-order",
@@ -741,7 +741,7 @@
       "per",
       "check"
     ],
-    "explanation": "Cấu trúc cần luyện: I ... every day/twice a week.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We check it twice per shift."
   },
   {
@@ -769,7 +769,7 @@
     "answer": "training",
     "vocabId": "v-0a2b9827e548",
     "correctSentence": "How long is the training?",
-    "explanation": "Điền “training” (đào tạo). Cấu trúc bài học: For + duration. / It takes + duration."
+    "explanation": "Điền “training” với nghĩa “đào tạo” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "18-order",
@@ -785,7 +785,7 @@
       "the",
       "long"
     ],
-    "explanation": "Cấu trúc cần luyện: For + duration. / It takes + duration.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "How long is the training?"
   },
   {
@@ -813,7 +813,7 @@
     "answer": "airport",
     "vocabId": "v-6b5465bf0bcc",
     "correctSentence": "How far is the airport?",
-    "explanation": "Điền “airport” (sân bay). Cấu trúc bài học: It's + distance + away."
+    "explanation": "Điền “airport” với nghĩa “sân bay” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "19-order",
@@ -829,7 +829,7 @@
       "is",
       "the"
     ],
-    "explanation": "Cấu trúc cần luyện: It's + distance + away.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "How far is the airport?"
   },
   {
@@ -857,7 +857,7 @@
     "answer": "meeting",
     "vocabId": "v-bd7580126b94",
     "correctSentence": "What time does the meeting begin?",
-    "explanation": "Điền “meeting” (cuộc họp). Cấu trúc bài học: At + clock time."
+    "explanation": "Điền “meeting” với nghĩa “cuộc họp” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "20-order",
@@ -874,7 +874,7 @@
       "meeting",
       "does"
     ],
-    "explanation": "Cấu trúc cần luyện: At + clock time.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "What time does the meeting begin?"
   },
   {
@@ -902,7 +902,7 @@
     "answer": "night shift",
     "vocabId": "v-6b03dd117d95",
     "correctSentence": "A sensor failed during the night shift.",
-    "explanation": "Điền “night shift” (ca đêm). Cấu trúc bài học: Subject + past verb."
+    "explanation": "Điền “night shift” với nghĩa “ca đêm” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "21-order",
@@ -918,7 +918,7 @@
       "happened",
       "the"
     ],
-    "explanation": "Cấu trúc cần luyện: Subject + past verb.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "What happened after the test?"
   },
   {
@@ -946,7 +946,7 @@
     "answer": "process",
     "vocabId": "v-c2e2d6621334",
     "correctSentence": "It means the process is under control.",
-    "explanation": "Điền “process” (quy trình). Cấu trúc bài học: It means + explanation."
+    "explanation": "Điền “process” với nghĩa “quy trình” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "22-order",
@@ -962,7 +962,7 @@
       "What",
       "this"
     ],
-    "explanation": "Cấu trúc cần luyện: It means + explanation.",
+    "explanation": "Câu hỏi dùng từ hỏi trước trợ động từ hoặc động từ to be, rồi đến chủ ngữ và phần còn lại.",
     "correctSentence": "What does this warning mean?"
   },
   {
@@ -990,7 +990,7 @@
     "answer": "training",
     "vocabId": "v-0a2b9827e548",
     "correctSentence": "What kind of training do you prefer?",
-    "explanation": "Điền “training” (đào tạo). Cấu trúc bài học: A kind of + noun."
+    "explanation": "Điền “training” với nghĩa “đào tạo” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "23-order",
@@ -1007,7 +1007,7 @@
       "this?",
       "defect"
     ],
-    "explanation": "Cấu trúc cần luyện: A kind of + noun.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "What kind of defect is this?"
   },
   {
@@ -1035,7 +1035,7 @@
     "answer": "defects",
     "vocabId": "v-378eaf1e9d34",
     "correctSentence": "Are there any defects in this lot?",
-    "explanation": "Điền “defects” (các lỗi sản phẩm). Cấu trúc bài học: Yes, there is/are. / No, there isn't/aren't."
+    "explanation": "Điền “defects” với nghĩa “các lỗi sản phẩm” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "24-order",
@@ -1051,7 +1051,7 @@
       "nearby?",
       "there"
     ],
-    "explanation": "Cấu trúc cần luyện: Yes, there is/are. / No, there isn't/aren't.",
+    "explanation": "Câu hỏi Yes/No thường đặt trợ động từ hoặc động từ to be trước chủ ngữ.",
     "correctSentence": "Is there a supermarket nearby?"
   },
   {
@@ -1079,7 +1079,7 @@
     "answer": "checklist",
     "vocabId": "v-ff744cd08217",
     "correctSentence": "Do you use this checklist every day?",
-    "explanation": "Điền “checklist” (danh sách kiểm tra). Cấu trúc bài học: Yes, I do. / No, I don't."
+    "explanation": "Điền “checklist” với nghĩa “danh sách kiểm tra” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "25-order",
@@ -1094,7 +1094,7 @@
       "you",
       "Do"
     ],
-    "explanation": "Cấu trúc cần luyện: Yes, I do. / No, I don't.",
+    "explanation": "Câu hỏi Yes/No thường đặt trợ động từ hoặc động từ to be trước chủ ngữ.",
     "correctSentence": "Do you need help?"
   },
   {
@@ -1122,7 +1122,7 @@
     "answer": "contact",
     "vocabId": "v-1a73af9e7ae0",
     "correctSentence": "Did you contact QA?",
-    "explanation": "Điền “contact” (liên hệ). Cấu trúc bài học: Yes, I did. / No, I didn't."
+    "explanation": "Điền “contact” với nghĩa “liên hệ” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "26-order",
@@ -1137,7 +1137,7 @@
       "QA?",
       "you"
     ],
-    "explanation": "Cấu trúc cần luyện: Yes, I did. / No, I didn't.",
+    "explanation": "Câu hỏi Yes/No thường đặt trợ động từ hoặc động từ to be trước chủ ngữ.",
     "correctSentence": "Did you contact QA?"
   },
   {
@@ -1165,7 +1165,7 @@
     "answer": "received",
     "vocabId": "v-38428a698ab1",
     "correctSentence": "Have you received the shipment yet?",
-    "explanation": "Điền “received” (đã nhận). Cấu trúc bài học: Yes, I have. / Not yet."
+    "explanation": "Điền “received” với nghĩa “đã nhận” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "27-order",
@@ -1182,7 +1182,7 @@
       "yet?",
       "Have"
     ],
-    "explanation": "Cấu trúc cần luyện: Yes, I have. / Not yet.",
+    "explanation": "Câu hỏi Yes/No thường đặt trợ động từ hoặc động từ to be trước chủ ngữ.",
     "correctSentence": "Have you checked the samples yet?"
   },
   {
@@ -1210,7 +1210,7 @@
     "answer": "available",
     "vocabId": "v-7b231a50a498",
     "correctSentence": "Are you available this afternoon?",
-    "explanation": "Điền “available” (có sẵn; còn trống). Cấu trúc bài học: Yes, I am. / No, I'm not."
+    "explanation": "Điền “available” với nghĩa “có sẵn; còn trống” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "28-order",
@@ -1227,7 +1227,7 @@
       "about",
       "result?"
     ],
-    "explanation": "Cấu trúc cần luyện: Yes, I am. / No, I'm not.",
+    "explanation": "Câu hỏi Yes/No thường đặt trợ động từ hoặc động từ to be trước chủ ngữ.",
     "correctSentence": "Are you sure about the result?"
   },
   {
@@ -1255,7 +1255,7 @@
     "answer": "report",
     "vocabId": "v-a27297bde973",
     "correctSentence": "Can you review the report?",
-    "explanation": "Điền “report” (báo cáo). Cấu trúc bài học: Yes, I can. / Sorry, I can't."
+    "explanation": "Điền “report” với nghĩa “báo cáo” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "29-order",
@@ -1271,7 +1271,7 @@
       "report?",
       "the"
     ],
-    "explanation": "Cấu trúc cần luyện: Yes, I can. / Sorry, I can't.",
+    "explanation": "Câu hỏi Yes/No thường đặt trợ động từ hoặc động từ to be trước chủ ngữ.",
     "correctSentence": "Can you review the report?"
   },
   {
@@ -1299,7 +1299,7 @@
     "answer": "shipment",
     "vocabId": "v-f51a32c7f8fd",
     "correctSentence": "Could you tell me when the shipment arrives?",
-    "explanation": "Điền “shipment” (lô hàng; việc giao hàng). Cấu trúc bài học: Could you tell me + wh-clause?"
+    "explanation": "Điền “shipment” với nghĩa “lô hàng; việc giao hàng” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "30-order",
@@ -1318,7 +1318,7 @@
       "Could",
       "when"
     ],
-    "explanation": "Cấu trúc cần luyện: Could you tell me + wh-clause?",
+    "explanation": "Câu hỏi Yes/No thường đặt trợ động từ hoặc động từ to be trước chủ ngữ.",
     "correctSentence": "Could you tell me when the shipment arrives?"
   },
   {
@@ -1346,7 +1346,7 @@
     "answer": "Would you mind",
     "vocabId": "v-a4a24b883961",
     "correctSentence": "Would you mind closing the door?",
-    "explanation": "Điền “would you mind” (bạn có phiền không). Cấu trúc bài học: Would you mind + V-ing? / Not at all."
+    "explanation": "Điền “would you mind” với nghĩa “bạn có phiền không” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "31-order",
@@ -1363,7 +1363,7 @@
       "Would",
       "you"
     ],
-    "explanation": "Cấu trúc cần luyện: Would you mind + V-ing? / Not at all.",
+    "explanation": "Câu hỏi Yes/No thường đặt trợ động từ hoặc động từ to be trước chủ ngữ.",
     "correctSentence": "Would you mind checking this file?"
   },
   {
@@ -1391,7 +1391,7 @@
     "answer": "available",
     "vocabId": "v-7b231a50a498",
     "correctSentence": "Do you know if the manager is available?",
-    "explanation": "Điền “available” (có sẵn; còn trống). Cấu trúc bài học: Do you know if + subject + verb?"
+    "explanation": "Điền “available” với nghĩa “có sẵn; còn trống” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "32-order",
@@ -1410,7 +1410,7 @@
       "Do",
       "running?"
     ],
-    "explanation": "Cấu trúc cần luyện: Do you know if + subject + verb?",
+    "explanation": "Câu hỏi Yes/No thường đặt trợ động từ hoặc động từ to be trước chủ ngữ.",
     "correctSentence": "Do you know if the machine is running?"
   },
   {
@@ -1438,7 +1438,7 @@
     "answer": "process",
     "vocabId": "v-c2e2d6621334",
     "correctSentence": "What's the difference between the old and new process?",
-    "explanation": "Điền “process” (quy trình). Cấu trúc bài học: The main difference is ..."
+    "explanation": "Điền “process” với nghĩa “quy trình” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "33-order",
@@ -1454,7 +1454,7 @@
       "main",
       "thickness."
     ],
-    "explanation": "Cấu trúc cần luyện: The main difference is ...",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "The main difference is thickness."
   },
   {
@@ -1482,7 +1482,7 @@
     "answer": "responsible",
     "vocabId": "v-37926bac1086",
     "correctSentence": "I'm responsible for Line 1.",
-    "explanation": "Điền “responsible” (chịu trách nhiệm). Cấu trúc bài học: I am + adjective/noun."
+    "explanation": "Điền “responsible” với nghĩa “chịu trách nhiệm” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "34-order",
@@ -1498,7 +1498,7 @@
       "for",
       "Line"
     ],
-    "explanation": "Cấu trúc cần luyện: I am + adjective/noun.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I'm responsible for Line 1."
   },
   {
@@ -1526,7 +1526,7 @@
     "answer": "improvement",
     "vocabId": "v-a1e3124328de",
     "correctSentence": "I have an idea for improvement.",
-    "explanation": "Điền “improvement” (sự cải tiến). Cấu trúc bài học: I have + noun."
+    "explanation": "Điền “improvement” với nghĩa “sự cải tiến” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "35-order",
@@ -1543,7 +1543,7 @@
       "a",
       "have"
     ],
-    "explanation": "Cấu trúc cần luyện: I have + noun.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I have a meeting at two."
   },
   {
@@ -1571,7 +1571,7 @@
     "answer": "approval",
     "vocabId": "v-59494695a317",
     "correctSentence": "I need your approval.",
-    "explanation": "Điền “approval” (sự phê duyệt). Cấu trúc bài học: I need + noun / to + verb."
+    "explanation": "Điền “approval” với nghĩa “sự phê duyệt” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "36-order",
@@ -1586,7 +1586,7 @@
       "We",
       "need"
     ],
-    "explanation": "Cấu trúc cần luyện: I need + noun / to + verb.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We need more data."
   },
   {
@@ -1614,7 +1614,7 @@
     "answer": "root cause",
     "vocabId": "v-6730f85c1352",
     "correctSentence": "I want to understand the root cause.",
-    "explanation": "Điền “root cause” (nguyên nhân gốc rễ). Cấu trúc bài học: I want to + V."
+    "explanation": "Điền “root cause” với nghĩa “nguyên nhân gốc rễ” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "37-order",
@@ -1631,7 +1631,7 @@
       "the",
       "discuss"
     ],
-    "explanation": "Cấu trúc cần luyện: I want to + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I want to discuss the issue."
   },
   {
@@ -1659,7 +1659,7 @@
     "answer": "question",
     "vocabId": "v-3b2be2e26344",
     "correctSentence": "I'd like to ask a question.",
-    "explanation": "Điền “question” (câu hỏi). Cấu trúc bài học: I'd like to + V."
+    "explanation": "Điền “question” với nghĩa “câu hỏi” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "38-order",
@@ -1676,7 +1676,7 @@
       "share",
       "results."
     ],
-    "explanation": "Cấu trúc cần luyện: I'd like to + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I'd like to share the results."
   },
   {
@@ -1704,7 +1704,7 @@
     "answer": "information",
     "vocabId": "v-83dd9d6af43f",
     "correctSentence": "I'd like more information.",
-    "explanation": "Điền “information” (thông tin). Cấu trúc bài học: I'd like + noun."
+    "explanation": "Điền “information” với nghĩa “thông tin” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "39-order",
@@ -1719,7 +1719,7 @@
       "your",
       "feedback."
     ],
-    "explanation": "Cấu trúc cần luyện: I'd like + noun.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I'd like your feedback."
   },
   {
@@ -1747,7 +1747,7 @@
     "answer": "reading",
     "vocabId": "v-227f38db8f94",
     "correctSentence": "I like reading books.",
-    "explanation": "Điền “reading” (việc đọc). Cấu trúc bài học: I like + noun / V-ing."
+    "explanation": "Điền “reading” với nghĩa “việc đọc” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "40-order",
@@ -1763,7 +1763,7 @@
       "data.",
       "like"
     ],
-    "explanation": "Cấu trúc cần luyện: I like + noun / V-ing.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I like working with data."
   },
   {
@@ -1791,7 +1791,7 @@
     "answer": "meeting",
     "vocabId": "v-bd7580126b94",
     "correctSentence": "We usually hold a daily meeting.",
-    "explanation": "Điền “meeting” (cuộc họp). Cấu trúc bài học: I usually + V."
+    "explanation": "Điền “meeting” với nghĩa “cuộc họp” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "41-order",
@@ -1810,7 +1810,7 @@
       "the",
       "data"
     ],
-    "explanation": "Cấu trúc cần luyện: I usually + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I usually review the data in the morning."
   },
   {
@@ -1838,7 +1838,7 @@
     "answer": "problem",
     "vocabId": "v-a5a0d15d4ae8",
     "correctSentence": "This problem rarely occurs.",
-    "explanation": "Điền “problem” (vấn đề; khó khăn). Cấu trúc bài học: Subject + adverb + V."
+    "explanation": "Điền “problem” với nghĩa “vấn đề; khó khăn” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "42-order",
@@ -1853,7 +1853,7 @@
       "skip",
       "never"
     ],
-    "explanation": "Cấu trúc cần luyện: Subject + adverb + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I never skip breakfast."
   },
   {
@@ -1881,7 +1881,7 @@
     "answer": "action plan",
     "vocabId": "v-56019fb78ba4",
     "correctSentence": "I'm going to explain the action plan.",
-    "explanation": "Điền “action plan” (kế hoạch hành động). Cấu trúc bài học: be going to + V."
+    "explanation": "Điền “action plan” với nghĩa “kế hoạch hành động” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "43-order",
@@ -1898,7 +1898,7 @@
       "We're",
       "test."
     ],
-    "explanation": "Cấu trúc cần luyện: be going to + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We're going to run another test."
   },
   {
@@ -1926,7 +1926,7 @@
     "answer": "monitor",
     "vocabId": "v-9796809f7dae",
     "correctSentence": "We'll monitor the line closely.",
-    "explanation": "Điền “monitor” (theo dõi). Cấu trúc bài học: will + V."
+    "explanation": "Điền “monitor” với nghĩa “theo dõi” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "44-order",
@@ -1942,7 +1942,7 @@
       "the",
       "monitor"
     ],
-    "explanation": "Cấu trúc cần luyện: will + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We'll monitor the line closely."
   },
   {
@@ -1970,7 +1970,7 @@
     "answer": "learning",
     "vocabId": "v-ea9ffb6eb4a5",
     "correctSentence": "I'm currently learning English.",
-    "explanation": "Điền “learning” (việc học). Cấu trúc bài học: be + V-ing."
+    "explanation": "Điền “learning” với nghĩa “việc học” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "45-order",
@@ -1985,7 +1985,7 @@
       "We're",
       "the"
     ],
-    "explanation": "Cấu trúc cần luyện: be + V-ing.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We're investigating the issue."
   },
   {
@@ -2013,7 +2013,7 @@
     "answer": "check",
     "vocabId": "v-d56d985300d4",
     "correctSentence": "We used to check this manually.",
-    "explanation": "Điền “check” (kiểm tra). Cấu trúc bài học: used to + V."
+    "explanation": "Điền “check” với nghĩa “kiểm tra” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "46-order",
@@ -2030,7 +2030,7 @@
       "manually.",
       "this"
     ],
-    "explanation": "Cấu trúc cần luyện: used to + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We used to check this manually."
   },
   {
@@ -2058,7 +2058,7 @@
     "answer": "English",
     "vocabId": "v-1b669334dae8",
     "correctSentence": "I'm not used to speaking English in meetings.",
-    "explanation": "Điền “English” (tiếng Anh). Cấu trúc bài học: be used to + noun / V-ing."
+    "explanation": "Điền “English” với nghĩa “tiếng Anh” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "47-order",
@@ -2074,7 +2074,7 @@
       "the",
       "to"
     ],
-    "explanation": "Cấu trúc cần luyện: be used to + noun / V-ing.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "She's used to the noise."
   },
   {
@@ -2102,7 +2102,7 @@
     "answer": "Operators",
     "vocabId": "v-697823d30868",
     "correctSentence": "Operators have to wear gloves.",
-    "explanation": "Điền “operators” (những người vận hành). Cấu trúc bài học: have to + V."
+    "explanation": "Điền “operators” với nghĩa “những người vận hành” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "48-order",
@@ -2119,7 +2119,7 @@
       "stop",
       "line."
     ],
-    "explanation": "Cấu trúc cần luyện: have to + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We have to stop the line."
   },
   {
@@ -2147,7 +2147,7 @@
     "answer": "replace",
     "vocabId": "v-3cacc7bfac0a",
     "correctSentence": "We don't have to replace the whole part.",
-    "explanation": "Điền “replace” (thay thế). Cấu trúc bài học: don't have to + V."
+    "explanation": "Điền “replace” với nghĩa “thay thế” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "49-order",
@@ -2166,7 +2166,7 @@
       "whole",
       "We"
     ],
-    "explanation": "Cấu trúc cần luyện: don't have to + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We don't have to replace the whole part."
   },
   {
@@ -2194,7 +2194,7 @@
     "answer": "confirm",
     "vocabId": "v-d0c4047caa5b",
     "correctSentence": "We can't confirm the cause yet.",
-    "explanation": "Điền “confirm” (xác nhận). Cấu trúc bài học: can / can't + V."
+    "explanation": "Điền “confirm” với nghĩa “xác nhận” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "50-order",
@@ -2210,7 +2210,7 @@
       "I",
       "explain"
     ],
-    "explanation": "Cấu trúc cần luyện: can / can't + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I can explain the process."
   },
   {
@@ -2238,7 +2238,7 @@
     "answer": "finish",
     "vocabId": "v-2cce4a92f41f",
     "correctSentence": "Will you be able to finish today?",
-    "explanation": "Điền “finish” (hoàn thành; kết thúc). Cấu trúc bài học: be able to + V."
+    "explanation": "Điền “finish” với nghĩa “hoàn thành; kết thúc” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "51-order",
@@ -2255,7 +2255,7 @@
       "able",
       "reach"
     ],
-    "explanation": "Cấu trúc cần luyện: be able to + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I wasn't able to reach him."
   },
   {
@@ -2283,7 +2283,7 @@
     "answer": "decision",
     "vocabId": "v-8501a34f34de",
     "correctSentence": "We shouldn't rush the decision.",
-    "explanation": "Điền “decision” (quyết định). Cấu trúc bài học: should + V."
+    "explanation": "Điền “decision” với nghĩa “quyết định” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "52-order",
@@ -2300,7 +2300,7 @@
       "should",
       "We"
     ],
-    "explanation": "Cấu trúc cần luyện: should + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We should check the vacuum level."
   },
   {
@@ -2328,7 +2328,7 @@
     "answer": "procedure",
     "vocabId": "v-d0b5fd347939",
     "correctSentence": "We must follow the procedure.",
-    "explanation": "Điền “procedure” (quy trình hướng dẫn). Cấu trúc bài học: must + V."
+    "explanation": "Điền “procedure” với nghĩa “quy trình hướng dẫn” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "53-order",
@@ -2344,7 +2344,7 @@
       "We",
       "the"
     ],
-    "explanation": "Cấu trúc cần luyện: must + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We must follow the procedure."
   },
   {
@@ -2372,7 +2372,7 @@
     "answer": "related to",
     "vocabId": "v-fa8f906a23fd",
     "correctSentence": "The issue might be related to vacuum.",
-    "explanation": "Điền “related to” (liên quan đến). Cấu trúc bài học: might / may + V."
+    "explanation": "Điền “related to” với nghĩa “liên quan đến” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "54-order",
@@ -2390,7 +2390,7 @@
       "issue",
       "be"
     ],
-    "explanation": "Cấu trúc cần luyện: might / may + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "The issue might be related to vacuum."
   },
   {
@@ -2418,7 +2418,7 @@
     "answer": "sample",
     "vocabId": "v-8151325dcdba",
     "correctSentence": "QA has already approved the sample.",
-    "explanation": "Điền “sample” (mẫu). Cấu trúc bài học: have already + past participle."
+    "explanation": "Điền “sample” với nghĩa “mẫu” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "55-order",
@@ -2434,7 +2434,7 @@
       "We've",
       "checked"
     ],
-    "explanation": "Cấu trúc cần luyện: have already + past participle.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We've already checked Line 3."
   },
   {
@@ -2462,7 +2462,7 @@
     "answer": "night shift",
     "vocabId": "v-6b03dd117d95",
     "correctSentence": "I haven't checked the night shift data yet.",
-    "explanation": "Điền “night shift” (ca đêm). Cấu trúc bài học: haven't + past participle + yet."
+    "explanation": "Điền “night shift” với nghĩa “ca đêm” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "56-order",
@@ -2479,7 +2479,7 @@
       "haven't",
       "yet."
     ],
-    "explanation": "Cấu trúc cần luyện: haven't + past participle + yet.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We haven't received the sample yet."
   },
   {
@@ -2507,7 +2507,7 @@
     "answer": "completed",
     "vocabId": "v-231e564db4cd",
     "correctSentence": "We've just completed the test.",
-    "explanation": "Điền “completed” (đã hoàn thành). Cấu trúc bài học: have just + past participle."
+    "explanation": "Điền “completed” với nghĩa “đã hoàn thành” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "57-order",
@@ -2523,7 +2523,7 @@
       "completed",
       "the"
     ],
-    "explanation": "Cấu trúc cần luyện: have just + past participle.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We've just completed the test."
   },
   {
@@ -2551,7 +2551,7 @@
     "answer": "monitoring",
     "vocabId": "v-c1ab9924ecda",
     "correctSentence": "We've been monitoring this issue since Monday.",
-    "explanation": "Điền “monitoring” (việc theo dõi). Cấu trúc bài học: have/has been + V-ing + since/for."
+    "explanation": "Điền “monitoring” với nghĩa “việc theo dõi” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "58-order",
@@ -2569,7 +2569,7 @@
       "Monday.",
       "this"
     ],
-    "explanation": "Cấu trúc cần luyện: have/has been + V-ing + since/for.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We've been monitoring this issue since Monday."
   },
   {
@@ -2597,7 +2597,7 @@
     "answer": "defects",
     "vocabId": "v-378eaf1e9d34",
     "correctSentence": "There are several defects in the lot.",
-    "explanation": "Điền “defects” (các lỗi sản phẩm). Cấu trúc bài học: There is + singular / There are + plural."
+    "explanation": "Điền “defects” với nghĩa “các lỗi sản phẩm” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "59-order",
@@ -2614,7 +2614,7 @@
       "There's",
       "problem"
     ],
-    "explanation": "Cấu trúc cần luyện: There is + singular / There are + plural.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "There's a problem with the sensor."
   },
   {
@@ -2642,7 +2642,7 @@
     "answer": "replace",
     "vocabId": "v-3cacc7bfac0a",
     "correctSentence": "How long does it take to replace the part?",
-    "explanation": "Điền “replace” (thay thế). Cấu trúc bài học: It takes + time + to + V."
+    "explanation": "Điền “replace” với nghĩa “thay thế” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "60-order",
@@ -2661,7 +2661,7 @@
       "hours",
       "test."
     ],
-    "explanation": "Cấu trúc cần luyện: It takes + time + to + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "It takes two hours to finish the test."
   },
   {
@@ -2689,7 +2689,7 @@
     "answer": "important",
     "vocabId": "v-5b4009518b37",
     "correctSentence": "It's important to follow the rules.",
-    "explanation": "Điền “important” (quan trọng). Cấu trúc bài học: It's + adjective + to + V."
+    "explanation": "Điền “important” với nghĩa “quan trọng” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "61-order",
@@ -2706,7 +2706,7 @@
       "It's",
       "to"
     ],
-    "explanation": "Cấu trúc cần luyện: It's + adjective + to + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "It's important to follow the rules."
   },
   {
@@ -2734,7 +2734,7 @@
     "answer": "cost reduction",
     "vocabId": "v-8288cac5588a",
     "correctSentence": "The manager is interested in cost reduction.",
-    "explanation": "Điền “cost reduction” (giảm chi phí). Cấu trúc bài học: be interested in + noun / V-ing."
+    "explanation": "Điền “cost reduction” với nghĩa “giảm chi phí” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "62-order",
@@ -2750,7 +2750,7 @@
       "interested",
       "in"
     ],
-    "explanation": "Cấu trúc cần luyện: be interested in + noun / V-ing.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We're interested in this solution."
   },
   {
@@ -2778,7 +2778,7 @@
     "answer": "English",
     "vocabId": "v-1b669334dae8",
     "correctSentence": "She's good at English.",
-    "explanation": "Điền “English” (tiếng Anh). Cấu trúc bài học: be good at + noun / V-ing."
+    "explanation": "Điền “English” với nghĩa “tiếng Anh” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "63-order",
@@ -2794,7 +2794,7 @@
       "I'm",
       "analyzing"
     ],
-    "explanation": "Cấu trúc cần luyện: be good at + noun / V-ing.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I'm good at analyzing data."
   },
   {
@@ -2822,7 +2822,7 @@
     "answer": "root cause",
     "vocabId": "v-6730f85c1352",
     "correctSentence": "I'm trying to find the root cause.",
-    "explanation": "Điền “root cause” (nguyên nhân gốc rễ). Cấu trúc bài học: be trying to + V."
+    "explanation": "Điền “root cause” với nghĩa “nguyên nhân gốc rễ” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "64-order",
@@ -2838,7 +2838,7 @@
       "to",
       "trying"
     ],
-    "explanation": "Cấu trúc cần luyện: be trying to + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We're trying to reduce scrap."
   },
   {
@@ -2866,7 +2866,7 @@
     "answer": "on time",
     "vocabId": "v-5a94729cd8f5",
     "correctSentence": "We managed to finish on time.",
-    "explanation": "Điền “on time” (đúng giờ). Cấu trúc bài học: managed to + V."
+    "explanation": "Điền “on time” với nghĩa “đúng giờ” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "65-order",
@@ -2883,7 +2883,7 @@
       "finish",
       "on"
     ],
-    "explanation": "Cấu trúc cần luyện: managed to + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We managed to finish on time."
   },
   {
@@ -2911,7 +2911,7 @@
     "answer": "checklist",
     "vocabId": "v-ff744cd08217",
     "correctSentence": "We forgot to update the checklist.",
-    "explanation": "Điền “checklist” (danh sách kiểm tra). Cấu trúc bài học: forgot to + V."
+    "explanation": "Điền “checklist” với nghĩa “danh sách kiểm tra” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "66-order",
@@ -2928,7 +2928,7 @@
       "the",
       "to"
     ],
-    "explanation": "Cấu trúc cần luyện: forgot to + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I forgot to attach the file."
   },
   {
@@ -2956,7 +2956,7 @@
     "answer": "meeting",
     "vocabId": "v-bd7580126b94",
     "correctSentence": "I remember meeting her last year.",
-    "explanation": "Điền “meeting” (cuộc họp). Cấu trúc bài học: remember + V-ing."
+    "explanation": "Điền “meeting” với nghĩa “cuộc họp” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "67-order",
@@ -2972,7 +2972,7 @@
       "this",
       "checking"
     ],
-    "explanation": "Cấu trúc cần luyện: remember + V-ing.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I remember checking this value."
   },
   {
@@ -3000,7 +3000,7 @@
     "answer": "feedback",
     "vocabId": "v-ef15f48c9654",
     "correctSentence": "We look forward to receiving your feedback.",
-    "explanation": "Điền “feedback” (ý kiến phản hồi). Cấu trúc bài học: look forward to + noun / V-ing."
+    "explanation": "Điền “feedback” với nghĩa “ý kiến phản hồi” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "68-order",
@@ -3018,7 +3018,7 @@
       "you.",
       "to"
     ],
-    "explanation": "Cấu trúc cần luyện: look forward to + noun / V-ing.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We look forward to working with you."
   },
   {
@@ -3046,7 +3046,7 @@
     "answer": "change",
     "vocabId": "v-7550b672e162",
     "correctSentence": "I think we should change the plan.",
-    "explanation": "Điền “change” (thay đổi). Cấu trúc bài học: I think + clause."
+    "explanation": "Điền “change” với nghĩa “thay đổi” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "69-order",
@@ -3062,7 +3062,7 @@
       "too",
       "it's"
     ],
-    "explanation": "Cấu trúc cần luyện: I think + clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I think it's too expensive."
   },
   {
@@ -3090,7 +3090,7 @@
     "answer": "root cause",
     "vocabId": "v-6730f85c1352",
     "correctSentence": "I don't think this is the root cause.",
-    "explanation": "Điền “root cause” (nguyên nhân gốc rễ). Cấu trúc bài học: I don't think + clause."
+    "explanation": "Điền “root cause” với nghĩa “nguyên nhân gốc rễ” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "70-order",
@@ -3108,7 +3108,7 @@
       "I",
       "think"
     ],
-    "explanation": "Cấu trúc cần luyện: I don't think + clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I don't think we have enough time."
   },
   {
@@ -3136,7 +3136,7 @@
     "answer": "believe",
     "vocabId": "v-94ec44c4f4ad",
     "correctSentence": "I believe we can improve yield.",
-    "explanation": "Điền “believe” (tin tưởng). Cấu trúc bài học: I believe + clause."
+    "explanation": "Điền “believe” với nghĩa “tin tưởng” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "71-order",
@@ -3151,7 +3151,7 @@
       "right.",
       "believe"
     ],
-    "explanation": "Cấu trúc cần luyện: I believe + clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I believe she's right."
   },
   {
@@ -3179,7 +3179,7 @@
     "answer": "In my opinion",
     "vocabId": "v-fc940843d0bc",
     "correctSentence": "In my opinion, the first option is better.",
-    "explanation": "Điền “in my opinion” (theo ý kiến của tôi). Cấu trúc bài học: In my opinion, + clause."
+    "explanation": "Điền “in my opinion” với nghĩa “theo ý kiến của tôi” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "72-order",
@@ -3197,7 +3197,7 @@
       "too",
       "opinion,"
     ],
-    "explanation": "Cấu trúc cần luyện: In my opinion, + clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "In my opinion, this is too risky."
   },
   {
@@ -3225,7 +3225,7 @@
     "answer": "acceptable",
     "vocabId": "v-cab5b6e0a675",
     "correctSentence": "From my point of view, the cost is acceptable.",
-    "explanation": "Điền “acceptable” (có thể chấp nhận). Cấu trúc bài học: From my point of view, + clause."
+    "explanation": "Điền “acceptable” với nghĩa “có thể chấp nhận” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "73-order",
@@ -3244,7 +3244,7 @@
       "point",
       "first."
     ],
-    "explanation": "Cấu trúc cần luyện: From my point of view, + clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "From my point of view, safety comes first."
   },
   {
@@ -3272,7 +3272,7 @@
     "answer": "supplier",
     "vocabId": "v-e2979e759574",
     "correctSentence": "As far as I know, the supplier hasn't replied.",
-    "explanation": "Điền “supplier” (nhà cung cấp). Cấu trúc bài học: As far as I know, + clause."
+    "explanation": "Điền “supplier” với nghĩa “nhà cung cấp” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "74-order",
@@ -3293,7 +3293,7 @@
       "I",
       "as"
     ],
-    "explanation": "Cấu trúc cần luyện: As far as I know, + clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "As far as I know, the line is running normally."
   },
   {
@@ -3321,7 +3321,7 @@
     "answer": "recurring",
     "vocabId": "v-e1a31b3e461a",
     "correctSentence": "It seems that the issue is recurring.",
-    "explanation": "Điền “recurring” (tái diễn). Cấu trúc bài học: It seems that + clause."
+    "explanation": "Điền “recurring” với nghĩa “tái diễn” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "75-order",
@@ -3339,7 +3339,7 @@
       "unstable.",
       "is"
     ],
-    "explanation": "Cấu trúc cần luyện: It seems that + clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "It seems that the sensor is unstable."
   },
   {
@@ -3367,7 +3367,7 @@
     "answer": "decision",
     "vocabId": "v-8501a34f34de",
     "correctSentence": "I feel that this decision is too quick.",
-    "explanation": "Điền “decision” (quyết định). Cấu trúc bài học: I feel that + clause."
+    "explanation": "Điền “decision” với nghĩa “quyết định” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "76-order",
@@ -3385,7 +3385,7 @@
       "feel",
       "the"
     ],
-    "explanation": "Cấu trúc cần luyện: I feel that + clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I feel that the team needs support."
   },
   {
@@ -3413,7 +3413,7 @@
     "answer": "decision",
     "vocabId": "v-8501a34f34de",
     "correctSentence": "I agree with the manager's decision.",
-    "explanation": "Điền “decision” (quyết định). Cấu trúc bài học: I agree with + person/idea."
+    "explanation": "Điền “decision” với nghĩa “quyết định” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "77-order",
@@ -3430,7 +3430,7 @@
       "agree",
       "I"
     ],
-    "explanation": "Cấu trúc cần luyện: I agree with + person/idea.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I completely agree with this approach."
   },
   {
@@ -3458,7 +3458,7 @@
     "answer": "disagree",
     "vocabId": "v-f584439dd0ea",
     "correctSentence": "I disagree with that conclusion.",
-    "explanation": "Điền “disagree” (không đồng ý). Cấu trúc bài học: I disagree with + person/idea."
+    "explanation": "Điền “disagree” với nghĩa “không đồng ý” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "78-order",
@@ -3475,7 +3475,7 @@
       "the",
       "timeline."
     ],
-    "explanation": "Cấu trúc cần luyện: I disagree with + person/idea.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I disagree with the proposed timeline."
   },
   {
@@ -3503,7 +3503,7 @@
     "answer": "evidence",
     "vocabId": "v-100ec4462dec",
     "correctSentence": "I partly agree, but we need more evidence.",
-    "explanation": "Điền “evidence” (bằng chứng). Cấu trúc bài học: I partly agree, but + clause."
+    "explanation": "Điền “evidence” với nghĩa “bằng chứng” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "79-order",
@@ -3523,7 +3523,7 @@
       "agree,",
       "a"
     ],
-    "explanation": "Cấu trúc cần luyện: I partly agree, but + clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I partly agree, but cost is still a concern."
   },
   {
@@ -3551,7 +3551,7 @@
     "answer": "meeting",
     "vocabId": "v-bd7580126b94",
     "correctSentence": "I suggest inviting QA to the meeting.",
-    "explanation": "Điền “meeting” (cuộc họp). Cấu trúc bài học: I suggest + V-ing / that + subject + V."
+    "explanation": "Điền “meeting” với nghĩa “cuộc họp” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "80-order",
@@ -3568,7 +3568,7 @@
       "a",
       "small"
     ],
-    "explanation": "Cấu trúc cần luyện: I suggest + V-ing / that + subject + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I suggest running a small trial."
   },
   {
@@ -3596,7 +3596,7 @@
     "answer": "material",
     "vocabId": "v-97912524f347",
     "correctSentence": "Why don't we test another material?",
-    "explanation": "Điền “material” (vật liệu). Cấu trúc bài học: Why don't we + V?"
+    "explanation": "Điền “material” với nghĩa “vật liệu” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "81-order",
@@ -3613,7 +3613,7 @@
       "material?",
       "don't"
     ],
-    "explanation": "Cấu trúc cần luyện: Why don't we + V?",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "Why don't we test another material?"
   },
   {
@@ -3641,7 +3641,7 @@
     "answer": "frequency",
     "vocabId": "v-48a8832d1417",
     "correctSentence": "How about increasing the check frequency?",
-    "explanation": "Điền “frequency” (tần suất). Cấu trúc bài học: How about + V-ing?"
+    "explanation": "Điền “frequency” với nghĩa “tần suất” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "82-order",
@@ -3658,7 +3658,7 @@
       "increasing",
       "frequency?"
     ],
-    "explanation": "Cấu trúc cần luyện: How about + V-ing?",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "How about increasing the check frequency?"
   },
   {
@@ -3686,7 +3686,7 @@
     "answer": "decision",
     "vocabId": "v-8501a34f34de",
     "correctSentence": "We'd better not delay the decision.",
-    "explanation": "Điền “decision” (quyết định). Cấu trúc bài học: had better + V."
+    "explanation": "Điền “decision” với nghĩa “quyết định” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "83-order",
@@ -3703,7 +3703,7 @@
       "better",
       "You'd"
     ],
-    "explanation": "Cấu trúc cần luyện: had better + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "You'd better save the file first."
   },
   {
@@ -3731,7 +3731,7 @@
     "answer": "deadline",
     "vocabId": "v-e23839cd729a",
     "correctSentence": "The reason is that the deadline changed.",
-    "explanation": "Điền “deadline” (hạn chót). Cấu trúc bài học: The reason is that + clause."
+    "explanation": "Điền “deadline” với nghĩa “hạn chót” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "84-order",
@@ -3749,7 +3749,7 @@
       "was",
       "traffic"
     ],
-    "explanation": "Cấu trúc cần luyện: The reason is that + clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "The reason is that traffic was heavy."
   },
   {
@@ -3777,7 +3777,7 @@
     "answer": "because of",
     "vocabId": "v-e05584535f18",
     "correctSentence": "The road is closed because of flooding.",
-    "explanation": "Điền “because of” (bởi vì; do). Cấu trúc bài học: Because of + noun / V-ing."
+    "explanation": "Điền “because of” với nghĩa “bởi vì; do” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "85-order",
@@ -3796,7 +3796,7 @@
       "weather.",
       "canceled"
     ],
-    "explanation": "Cấu trúc cần luyện: Because of + noun / V-ing.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "The meeting was canceled because of the weather."
   },
   {
@@ -3824,7 +3824,7 @@
     "answer": "variation",
     "vocabId": "v-1ca7c5fd3464",
     "correctSentence": "The defect was due to material variation.",
-    "explanation": "Điền “variation” (sự biến thiên). Cấu trúc bài học: Due to + noun phrase."
+    "explanation": "Điền “variation” với nghĩa “sự biến thiên” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "86-order",
@@ -3842,7 +3842,7 @@
       "The",
       "illness."
     ],
-    "explanation": "Cấu trúc cần luyện: Due to + noun phrase.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "The meeting was postponed due to illness."
   },
   {
@@ -3870,7 +3870,7 @@
     "answer": "increased",
     "vocabId": "v-fc399f91c8b8",
     "correctSentence": "Costs increased. Therefore, we must review the budget.",
-    "explanation": "Điền “increased” (đã tăng). Cấu trúc bài học: Clause. Therefore, + clause."
+    "explanation": "Điền “increased” với nghĩa “đã tăng” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "87-order",
@@ -3890,7 +3890,7 @@
       "we",
       "yet."
     ],
-    "explanation": "Cấu trúc cần luyện: Clause. Therefore, + clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "The data is incomplete. Therefore, we can't conclude yet."
   },
   {
@@ -3918,7 +3918,7 @@
     "answer": "monitoring",
     "vocabId": "v-c1ab9924ecda",
     "correctSentence": "The test passed. However, more monitoring is needed.",
-    "explanation": "Điền “monitoring” (việc theo dõi). Cấu trúc bài học: Clause. However, + clause."
+    "explanation": "Điền “monitoring” với nghĩa “việc theo dõi” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "88-order",
@@ -3936,7 +3936,7 @@
       "I'm",
       "However,"
     ],
-    "explanation": "Cấu trúc cần luyện: Clause. However, + clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I want to go. However, I'm busy."
   },
   {
@@ -3964,7 +3964,7 @@
     "answer": "Although",
     "vocabId": "v-dea713fc735e",
     "correctSentence": "Although I'm tired, I'll finish it.",
-    "explanation": "Điền “although” (mặc dù). Cấu trúc bài học: Although + clause, main clause."
+    "explanation": "Điền “although” với nghĩa “mặc dù” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "89-order",
@@ -3982,7 +3982,7 @@
       "Although",
       "target."
     ],
-    "explanation": "Cấu trúc cần luyện: Although + clause, main clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "Although the rate improved, we're below target."
   },
   {
@@ -4010,7 +4010,7 @@
     "answer": "On the other hand",
     "vocabId": "v-73710e07ad77",
     "correctSentence": "This option is cheap. On the other hand, it's slower.",
-    "explanation": "Điền “on the other hand” (mặt khác). Cấu trúc bài học: On the other hand, + clause."
+    "explanation": "Điền “on the other hand” với nghĩa “mặt khác” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "90-order",
@@ -4031,7 +4031,7 @@
       "hand,",
       "the"
     ],
-    "explanation": "Cấu trúc cần luyện: On the other hand, + clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I like city life. On the other hand, it's noisy."
   },
   {
@@ -4059,7 +4059,7 @@
     "answer": "for example",
     "vocabId": "v-7e2fb968a45f",
     "correctSentence": "We need healthy habits, for example, regular exercise.",
-    "explanation": "Điền “for example” (ví dụ). Cấu trúc bài học: For example, + instance."
+    "explanation": "Điền “for example” với nghĩa “ví dụ” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "91-order",
@@ -4079,7 +4079,7 @@
       "boxes.",
       "reusing"
     ],
-    "explanation": "Cấu trúc cần luyện: For example, + instance.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We can reduce waste, for example, by reusing boxes."
   },
   {
@@ -4107,7 +4107,7 @@
     "answer": "In addition",
     "vocabId": "v-f669be6f4697",
     "correctSentence": "The tool is fast. In addition, it's easy to use.",
-    "explanation": "Điền “in addition” (ngoài ra). Cấu trúc bài học: In addition, + clause."
+    "explanation": "Điền “in addition” với nghĩa “ngoài ra” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "92-order",
@@ -4126,7 +4126,7 @@
       "speaks",
       "Korean."
     ],
-    "explanation": "Cấu trúc cần luyện: In addition, + clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "She speaks English. In addition, she speaks Korean."
   },
   {
@@ -4154,7 +4154,7 @@
     "answer": "In other words",
     "vocabId": "v-321d2aeba490",
     "correctSentence": "The data is inconsistent. In other words, we can't trust it yet.",
-    "explanation": "Điền “in other words” (nói cách khác). Cấu trúc bài học: In other words, + simpler statement."
+    "explanation": "Điền “in other words” với nghĩa “nói cách khác” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "93-order",
@@ -4177,7 +4177,7 @@
       "is",
       "In"
     ],
-    "explanation": "Cấu trúc cần luyện: In other words, + simpler statement.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "The line is at capacity. In other words, we can't add output."
   },
   {
@@ -4205,7 +4205,7 @@
     "answer": "focus on",
     "vocabId": "v-b6953ddde01e",
     "correctSentence": "What I mean is we should focus on prevention.",
-    "explanation": "Điền “focus on” (tập trung vào). Cấu trúc bài học: What I mean is + clause."
+    "explanation": "Điền “focus on” với nghĩa “tập trung vào” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "94-order",
@@ -4225,7 +4225,7 @@
       "three",
       "What"
     ],
-    "explanation": "Cấu trúc cần luyện: What I mean is + clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "What I mean is don't stop all three lines."
   },
   {
@@ -4253,7 +4253,7 @@
     "answer": "variation",
     "vocabId": "v-1ca7c5fd3464",
     "correctSentence": "The main point is to control variation.",
-    "explanation": "Điền “variation” (sự biến thiên). Cấu trúc bài học: The main point is + noun/clause."
+    "explanation": "Điền “variation” với nghĩa “sự biến thiên” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "95-order",
@@ -4272,7 +4272,7 @@
       "handling",
       "point"
     ],
-    "explanation": "Cấu trúc cần luyện: The main point is + noun/clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "The main point is to reduce handling steps."
   },
   {
@@ -4300,7 +4300,7 @@
     "answer": "approval",
     "vocabId": "v-59494695a317",
     "correctSentence": "To be clear, we need approval first.",
-    "explanation": "Điền “approval” (sự phê duyệt). Cấu trúc bài học: To be clear, + clause."
+    "explanation": "Điền “approval” với nghĩa “sự phê duyệt” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "96-order",
@@ -4318,7 +4318,7 @@
       "clear,",
       "first."
     ],
-    "explanation": "Cấu trúc cần luyện: To be clear, + clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "To be clear, we need approval first."
   },
   {
@@ -4346,7 +4346,7 @@
     "answer": "supplier",
     "vocabId": "v-e2979e759574",
     "correctSentence": "I'm not sure if the supplier has stock.",
-    "explanation": "Điền “supplier” (nhà cung cấp). Cấu trúc bài học: I'm not sure if + clause."
+    "explanation": "Điền “supplier” với nghĩa “nhà cung cấp” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "97-order",
@@ -4365,7 +4365,7 @@
       "stock.",
       "I'm"
     ],
-    "explanation": "Cấu trúc cần luyện: I'm not sure if + clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I'm not sure if the supplier has stock."
   },
   {
@@ -4393,7 +4393,7 @@
     "answer": "It depends on",
     "vocabId": "v-a9e7c6816e41",
     "correctSentence": "It depends on the weather.",
-    "explanation": "Điền “it depends on” (điều đó phụ thuộc vào). Cấu trúc bài học: It depends on + noun / wh-clause."
+    "explanation": "Điền “it depends on” với nghĩa “điều đó phụ thuộc vào” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "98-order",
@@ -4412,7 +4412,7 @@
       "how",
       "It"
     ],
-    "explanation": "Cấu trúc cần luyện: It depends on + noun / wh-clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "It depends on how much time we have."
   },
   {
@@ -4440,7 +4440,7 @@
     "answer": "stay home",
     "vocabId": "v-217965bd1ded",
     "correctSentence": "If it rains, I'll stay home.",
-    "explanation": "Điền “stay home” (ở nhà). Cấu trúc bài học: If + present, will + V."
+    "explanation": "Điền “stay home” với nghĩa “ở nhà” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "99-order",
@@ -4458,7 +4458,7 @@
       "If",
       "you"
     ],
-    "explanation": "Cấu trúc cần luyện: If + present, will + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "If you need help, I'll support you."
   },
   {
@@ -4486,7 +4486,7 @@
     "answer": "take a break",
     "vocabId": "v-7afc62b8cbf8",
     "correctSentence": "If I were you, I'd take a break.",
-    "explanation": "Điền “take a break” (nghỉ giải lao). Cấu trúc bài học: If + past, would + V."
+    "explanation": "Điền “take a break” với nghĩa “nghỉ giải lao” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "100-order",
@@ -4507,7 +4507,7 @@
       "ask",
       "I'd"
     ],
-    "explanation": "Cấu trúc cần luyện: If + past, would + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "If I were the manager, I'd ask for more data."
   },
   {
@@ -4535,7 +4535,7 @@
     "answer": "go out",
     "vocabId": "v-52f7f7cc6f8d",
     "correctSentence": "Unless it rains, we'll go out.",
-    "explanation": "Điền “go out” (đi ra ngoài). Cấu trúc bài học: Unless = if ... not."
+    "explanation": "Điền “go out” với nghĩa “đi ra ngoài” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "101-order",
@@ -4553,7 +4553,7 @@
       "I",
       "check"
     ],
-    "explanation": "Cấu trúc cần luyện: Unless = if ... not.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I won't sign unless I check it."
   },
   {
@@ -4581,7 +4581,7 @@
     "answer": "closed",
     "vocabId": "v-ea88fbaa99b7",
     "correctSentence": "Please keep the door closed.",
-    "explanation": "Điền “closed” (đã đóng cửa). Cấu trúc bài học: Please + V."
+    "explanation": "Điền “closed” với nghĩa “đã đóng cửa” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "102-order",
@@ -4596,7 +4596,7 @@
       "check",
       "attachment."
     ],
-    "explanation": "Cấu trúc cần luyện: Please + V.",
+    "explanation": "Lời yêu cầu lịch sự dùng Please + động từ nguyên mẫu và phần bổ sung.",
     "correctSentence": "Please check the attachment."
   },
   {
@@ -4624,7 +4624,7 @@
     "answer": "schedule",
     "vocabId": "v-11e9ba26c91a",
     "correctSentence": "Could you please confirm the schedule?",
-    "explanation": "Điền “schedule” (lịch trình). Cấu trúc bài học: Could you please + V?"
+    "explanation": "Điền “schedule” với nghĩa “lịch trình” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "103-order",
@@ -4641,7 +4641,7 @@
       "Could",
       "the"
     ],
-    "explanation": "Cấu trúc cần luyện: Could you please + V?",
+    "explanation": "Câu hỏi Yes/No thường đặt trợ động từ hoặc động từ to be trước chủ ngữ.",
     "correctSentence": "Could you please check the machine?"
   },
   {
@@ -4669,7 +4669,7 @@
     "answer": "early",
     "vocabId": "v-818743b967a1",
     "correctSentence": "Can I leave a little early?",
-    "explanation": "Điền “early” (sớm). Cấu trúc bài học: Can I + V?"
+    "explanation": "Điền “early” với nghĩa “sớm” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "104-order",
@@ -4686,7 +4686,7 @@
       "I",
       "Can"
     ],
-    "explanation": "Cấu trúc cần luyện: Can I + V?",
+    "explanation": "Câu hỏi Yes/No thường đặt trợ động từ hoặc động từ to be trước chủ ngữ.",
     "correctSentence": "Can I leave a little early?"
   },
   {
@@ -4714,7 +4714,7 @@
     "answer": "colleague",
     "vocabId": "v-ace6752be4cc",
     "correctSentence": "May I introduce my colleague?",
-    "explanation": "Điền “colleague” (đồng nghiệp). Cấu trúc bài học: May I + V?"
+    "explanation": "Điền “colleague” với nghĩa “đồng nghiệp” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "105-order",
@@ -4730,7 +4730,7 @@
       "see",
       "document?"
     ],
-    "explanation": "Cấu trúc cần luyện: May I + V?",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "May I see the document?"
   },
   {
@@ -4758,7 +4758,7 @@
     "answer": "explain",
     "vocabId": "v-f7c1380a0d71",
     "correctSentence": "Would you like me to explain it?",
-    "explanation": "Điền “explain” (giải thích). Cấu trúc bài học: Would you like + noun / to + V?"
+    "explanation": "Điền “explain” với nghĩa “giải thích” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "106-order",
@@ -4777,7 +4777,7 @@
       "report?",
       "you"
     ],
-    "explanation": "Cấu trúc cần luyện: Would you like + noun / to + V?",
+    "explanation": "Câu hỏi Yes/No thường đặt trợ động từ hoặc động từ to be trước chủ ngữ.",
     "correctSentence": "Would you like a copy of the report?"
   },
   {
@@ -4805,7 +4805,7 @@
     "answer": "call you back",
     "vocabId": "v-0a73b5cb692c",
     "correctSentence": "Let me call you back.",
-    "explanation": "Điền “call you back” (gọi lại cho bạn). Cấu trúc bài học: Let me + V."
+    "explanation": "Điền “call you back” với nghĩa “gọi lại cho bạn” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "107-order",
@@ -4821,7 +4821,7 @@
       "the",
       "me"
     ],
-    "explanation": "Cấu trúc cần luyện: Let me + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "Let me explain the situation."
   },
   {
@@ -4849,7 +4849,7 @@
     "answer": "Let me know",
     "vocabId": "v-85973bd151f0",
     "correctSentence": "Let me know when you arrive.",
-    "explanation": "Điền “let me know” (hãy cho tôi biết). Cấu trúc bài học: Let me know + clause / if ..."
+    "explanation": "Điền “let me know” với nghĩa “hãy cho tôi biết” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "108-order",
@@ -4865,7 +4865,7 @@
       "your",
       "know"
     ],
-    "explanation": "Cấu trúc cần luyện: Let me know + clause / if ...",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "Let me know your decision."
   },
   {
@@ -4893,7 +4893,7 @@
     "answer": "Thank you",
     "vocabId": "v-897a1c598764",
     "correctSentence": "Thank you for your help.",
-    "explanation": "Điền “thank you” (cảm ơn). Cấu trúc bài học: Thank you for + noun / V-ing."
+    "explanation": "Điền “thank you” với nghĩa “cảm ơn” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "109-order",
@@ -4909,7 +4909,7 @@
       "you",
       "Thank"
     ],
-    "explanation": "Cấu trúc cần luyện: Thank you for + noun / V-ing.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "Thank you for the update."
   },
   {
@@ -4937,7 +4937,7 @@
     "answer": "inconvenience",
     "vocabId": "v-85a71acd1961",
     "correctSentence": "Sorry for the inconvenience.",
-    "explanation": "Điền “inconvenience” (sự bất tiện). Cấu trúc bài học: Sorry for + noun / V-ing."
+    "explanation": "Điền “inconvenience” với nghĩa “sự bất tiện” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "110-order",
@@ -4952,7 +4952,7 @@
       "confusion.",
       "the"
     ],
-    "explanation": "Cấu trúc cần luyện: Sorry for + noun / V-ing.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "Sorry for the confusion."
   },
   {
@@ -4980,7 +4980,7 @@
     "answer": "information",
     "vocabId": "v-83dd9d6af43f",
     "correctSentence": "I'm afraid I don't have that information.",
-    "explanation": "Điền “information” (thông tin). Cấu trúc bài học: I'm afraid + clause."
+    "explanation": "Điền “information” với nghĩa “thông tin” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "111-order",
@@ -4997,7 +4997,7 @@
       "more",
       "need"
     ],
-    "explanation": "Cấu trúc cần luyện: I'm afraid + clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I'm afraid we need more time."
   },
   {
@@ -5025,7 +5025,7 @@
     "answer": "Excuse me",
     "vocabId": "v-25018d83422a",
     "correctSentence": "Excuse me, is this seat taken?",
-    "explanation": "Điền “excuse me” (xin phép; xin lỗi để gây chú ý). Cấu trúc bài học: Excuse me, + question."
+    "explanation": "Điền “excuse me” với nghĩa “xin phép; xin lỗi để gây chú ý” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "112-order",
@@ -5042,7 +5042,7 @@
       "me,",
       "you"
     ],
-    "explanation": "Cấu trúc cần luyện: Excuse me, + question.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "Excuse me, could you repeat that?"
   },
   {
@@ -5070,7 +5070,7 @@
     "answer": "No problem",
     "vocabId": "v-7bf7ca17c6c6",
     "correctSentence": "No problem, I can wait.",
-    "explanation": "Điền “no problem” (không có vấn đề gì). Cấu trúc bài học: No problem. / That's okay."
+    "explanation": "Điền “no problem” với nghĩa “không có vấn đề gì” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "113-order",
@@ -5086,7 +5086,7 @@
       "I'll",
       "it."
     ],
-    "explanation": "Cấu trúc cần luyện: No problem. / That's okay.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "No problem, I'll check it."
   },
   {
@@ -5114,7 +5114,7 @@
     "answer": "You're welcome",
     "vocabId": "v-d1b38a28131e",
     "correctSentence": "You're welcome!",
-    "explanation": "Điền “you're welcome” (không có gì (đáp lại lời cảm ơn)). Cấu trúc bài học: You're welcome. / My pleasure."
+    "explanation": "Điền “you're welcome” với nghĩa “không có gì (đáp lại lời cảm ơn)” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "114-order",
@@ -5127,7 +5127,7 @@
       "pleasure.",
       "My"
     ],
-    "explanation": "Cấu trúc cần luyện: You're welcome. / My pleasure.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "My pleasure."
   },
   {
@@ -5155,7 +5155,7 @@
     "answer": "another way",
     "vocabId": "v-6eae00bd772b",
     "correctSentence": "Could you explain it another way?",
-    "explanation": "Điền “another way” (một cách khác). Cấu trúc bài học: Certainly. / Of course."
+    "explanation": "Điền “another way” với nghĩa “một cách khác” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "115-order",
@@ -5173,7 +5173,7 @@
       "little",
       "speak"
     ],
-    "explanation": "Cấu trúc cần luyện: Certainly. / Of course.",
+    "explanation": "Câu hỏi Yes/No thường đặt trợ động từ hoặc động từ to be trước chủ ngữ.",
     "correctSentence": "Could you speak a little more slowly?"
   },
   {
@@ -5201,7 +5201,7 @@
     "answer": "clarify",
     "vocabId": "v-ef8fe782bf94",
     "correctSentence": "Could you clarify what you mean?",
-    "explanation": "Điền “clarify” (làm rõ). Cấu trúc bài học: I mean + explanation."
+    "explanation": "Điền “clarify” với nghĩa “làm rõ” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "116-order",
@@ -5220,7 +5220,7 @@
       "we",
       "mean"
     ],
-    "explanation": "Cấu trúc cần luyện: I mean + explanation.",
+    "explanation": "Câu hỏi Yes/No thường đặt trợ động từ hoặc động từ to be trước chủ ngữ.",
     "correctSentence": "Do you mean we should stop the line?"
   },
   {
@@ -5248,7 +5248,7 @@
     "answer": "prefer",
     "vocabId": "v-866e90dff0f0",
     "correctSentence": "I'd prefer four o'clock, if possible.",
-    "explanation": "Điền “prefer” (thích hơn). Cấu trúc bài học: Yes, that's fine. / I'd prefer ..."
+    "explanation": "Điền “prefer” với nghĩa “thích hơn” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "117-order",
@@ -5268,7 +5268,7 @@
       "Is",
       "okay?"
     ],
-    "explanation": "Cấu trúc cần luyện: Yes, that's fine. / I'd prefer ...",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We can start with Line 2. Is that okay?"
   },
   {
@@ -5296,7 +5296,7 @@
     "answer": "extension",
     "vocabId": "v-f98961015a0a",
     "correctSentence": "Would it be possible to get an extension?",
-    "explanation": "Điền “extension” (sự gia hạn). Cấu trúc bài học: Would it be possible to + V?"
+    "explanation": "Điền “extension” với nghĩa “sự gia hạn” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "118-order",
@@ -5315,7 +5315,7 @@
       "an",
       "to"
     ],
-    "explanation": "Cấu trúc cần luyện: Would it be possible to + V?",
+    "explanation": "Câu hỏi Yes/No thường đặt trợ động từ hoặc động từ to be trước chủ ngữ.",
     "correctSentence": "Would it be possible to get an extension?"
   },
   {
@@ -5343,7 +5343,7 @@
     "answer": "appreciate",
     "vocabId": "v-6e546a8ece83",
     "correctSentence": "I'd appreciate it if you replied today.",
-    "explanation": "Điền “appreciate” (trân trọng; đánh giá cao). Cấu trúc bài học: I'd appreciate it if + past-form clause."
+    "explanation": "Điền “appreciate” với nghĩa “trân trọng; đánh giá cao” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "119-order",
@@ -5362,7 +5362,7 @@
       "kept",
       "me"
     ],
-    "explanation": "Cấu trúc cần luyện: I'd appreciate it if + past-form clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I'd appreciate it if you kept me informed."
   },
   {
@@ -5390,7 +5390,7 @@
     "answer": "Feel free to",
     "vocabId": "v-7d3867a5ef22",
     "correctSentence": "Feel free to ask questions.",
-    "explanation": "Điền “feel free to” (cứ tự nhiên). Cấu trúc bài học: Feel free to + V."
+    "explanation": "Điền “feel free to” với nghĩa “cứ tự nhiên” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "120-order",
@@ -5407,7 +5407,7 @@
       "chair.",
       "free"
     ],
-    "explanation": "Cấu trúc cần luyện: Feel free to + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "Feel free to use this chair."
   },
   {
@@ -5435,7 +5435,7 @@
     "answer": "improvement",
     "vocabId": "v-a1e3124328de",
     "correctSentence": "I'm responsible for process improvement.",
-    "explanation": "Điền “improvement” (sự cải tiến). Cấu trúc bài học: be responsible for + noun / V-ing."
+    "explanation": "Điền “improvement” với nghĩa “sự cải tiến” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "121-order",
@@ -5452,7 +5452,7 @@
       "team.",
       "PE"
     ],
-    "explanation": "Cấu trúc cần luyện: be responsible for + noun / V-ing.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I'm responsible for the PE team."
   },
   {
@@ -5480,7 +5480,7 @@
     "answer": "night shift",
     "vocabId": "v-6b03dd117d95",
     "correctSentence": "Who's in charge of the night shift?",
-    "explanation": "Điền “night shift” (ca đêm). Cấu trúc bài học: be in charge of + noun / V-ing."
+    "explanation": "Điền “night shift” với nghĩa “ca đêm” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "122-order",
@@ -5497,7 +5497,7 @@
       "of",
       "in"
     ],
-    "explanation": "Cấu trúc cần luyện: be in charge of + noun / V-ing.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I'm in charge of this project."
   },
   {
@@ -5525,7 +5525,7 @@
     "answer": "customer complaint",
     "vocabId": "v-5545a3812ab6",
     "correctSentence": "She's working on the customer complaint.",
-    "explanation": "Điền “customer complaint” (khiếu nại của khách hàng). Cấu trúc bài học: be working on + noun / V-ing."
+    "explanation": "Điền “customer complaint” với nghĩa “khiếu nại của khách hàng” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "123-order",
@@ -5542,7 +5542,7 @@
       "a",
       "We're"
     ],
-    "explanation": "Cấu trúc cần luyện: be working on + noun / V-ing.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We're working on a cost-down project."
   },
   {
@@ -5570,7 +5570,7 @@
     "answer": "inspection",
     "vocabId": "v-90f9b69fcbf8",
     "correctSentence": "We're planning to increase inspection frequency.",
-    "explanation": "Điền “inspection” (kiểm tra chất lượng). Cấu trúc bài học: be planning to + V."
+    "explanation": "Điền “inspection” với nghĩa “kiểm tra chất lượng” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "124-order",
@@ -5587,7 +5587,7 @@
       "frequency.",
       "to"
     ],
-    "explanation": "Cấu trúc cần luyện: be planning to + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We're planning to increase inspection frequency."
   },
   {
@@ -5615,7 +5615,7 @@
     "answer": "labor cost",
     "vocabId": "v-706b5235e9f3",
     "correctSentence": "Our target is to save labor cost.",
-    "explanation": "Điền “labor cost” (chi phí nhân công). Cấu trúc bài học: Our target is to + V."
+    "explanation": "Điền “labor cost” với nghĩa “chi phí nhân công” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "125-order",
@@ -5633,7 +5633,7 @@
       "target",
       "is"
     ],
-    "explanation": "Cấu trúc cần luyện: Our target is to + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "Our target is to finish by Friday."
   },
   {
@@ -5661,7 +5661,7 @@
     "answer": "root cause",
     "vocabId": "v-6730f85c1352",
     "correctSentence": "Let's focus on the root cause first.",
-    "explanation": "Điền “root cause” (nguyên nhân gốc rễ). Cấu trúc bài học: focus on + noun / V-ing."
+    "explanation": "Điền “root cause” với nghĩa “nguyên nhân gốc rễ” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "126-order",
@@ -5678,7 +5678,7 @@
       "prevention.",
       "focus"
     ],
-    "explanation": "Cấu trúc cần luyện: focus on + noun / V-ing.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We need to focus on prevention."
   },
   {
@@ -5706,7 +5706,7 @@
     "answer": "on track",
     "vocabId": "v-464e4361f38b",
     "correctSentence": "The current status is on track.",
-    "explanation": "Điền “on track” (đúng tiến độ). Cấu trúc bài học: The current status is + noun/adjective."
+    "explanation": "Điền “on track” với nghĩa “đúng tiến độ” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "127-order",
@@ -5723,7 +5723,7 @@
       "current",
       "status"
     ],
-    "explanation": "Cấu trúc cần luyện: The current status is + noun/adjective.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "The current status is pending approval."
   },
   {
@@ -5751,7 +5751,7 @@
     "answer": "completed",
     "vocabId": "v-231e564db4cd",
     "correctSentence": "We have completed the trial.",
-    "explanation": "Điền “completed” (đã hoàn thành). Cấu trúc bài học: have completed + noun."
+    "explanation": "Điền “completed” với nghĩa “đã hoàn thành” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "128-order",
@@ -5767,7 +5767,7 @@
       "have",
       "We"
     ],
-    "explanation": "Cấu trúc cần luyện: have completed + noun.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We have completed the report."
   },
   {
@@ -5795,7 +5795,7 @@
     "answer": "approval",
     "vocabId": "v-59494695a317",
     "correctSentence": "We're still waiting for QA approval.",
-    "explanation": "Điền “approval” (sự phê duyệt). Cấu trúc bài học: be still waiting for + noun."
+    "explanation": "Điền “approval” với nghĩa “sự phê duyệt” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "129-order",
@@ -5813,7 +5813,7 @@
       "still",
       "supplier's"
     ],
-    "explanation": "Cấu trúc cần luyện: be still waiting for + noun.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We're still waiting for the supplier's feedback."
   },
   {
@@ -5841,7 +5841,7 @@
     "answer": "deadline",
     "vocabId": "v-e23839cd729a",
     "correctSentence": "The deadline is Friday.",
-    "explanation": "Điền “deadline” (hạn chót). Cấu trúc bài học: The deadline is + date/time."
+    "explanation": "Điền “deadline” với nghĩa “hạn chót” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "130-order",
@@ -5860,7 +5860,7 @@
       "is",
       "The"
     ],
-    "explanation": "Cấu trúc cần luyện: The deadline is + date/time.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "The deadline is the end of this month."
   },
   {
@@ -5888,7 +5888,7 @@
     "answer": "ahead of schedule",
     "vocabId": "v-8bb7858a79d6",
     "correctSentence": "We're ahead of schedule.",
-    "explanation": "Điền “ahead of schedule” (sớm hơn tiến độ). Cấu trúc bài học: We're behind / on / ahead of schedule."
+    "explanation": "Điền “ahead of schedule” với nghĩa “sớm hơn tiến độ” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "131-order",
@@ -5903,7 +5903,7 @@
       "ahead",
       "We're"
     ],
-    "explanation": "Cấu trúc cần luyện: We're behind / on / ahead of schedule.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We're ahead of schedule."
   },
   {
@@ -5931,7 +5931,7 @@
     "answer": "on track",
     "vocabId": "v-464e4361f38b",
     "correctSentence": "We're on track to meet the target.",
-    "explanation": "Điền “on track” (đúng tiến độ). Cấu trúc bài học: be on track to + V."
+    "explanation": "Điền “on track” với nghĩa “đúng tiến độ” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "132-order",
@@ -5949,7 +5949,7 @@
       "The",
       "is"
     ],
-    "explanation": "Cấu trúc cần luyện: be on track to + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "The team is on track to deliver."
   },
   {
@@ -5977,7 +5977,7 @@
     "answer": "variation",
     "vocabId": "v-1ca7c5fd3464",
     "correctSentence": "The data shows that variation is increasing.",
-    "explanation": "Điền “variation” (sự biến thiên). Cấu trúc bài học: The data shows that + clause."
+    "explanation": "Điền “variation” với nghĩa “sự biến thiên” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "133-order",
@@ -5996,7 +5996,7 @@
       "defect",
       "The"
     ],
-    "explanation": "Cấu trúc cần luyện: The data shows that + clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "The data shows that the defect rate dropped."
   },
   {
@@ -6024,7 +6024,7 @@
     "answer": "According to",
     "vocabId": "v-3afbcfb4c94c",
     "correctSentence": "According to the report, the yield increased.",
-    "explanation": "Điền “according to” (theo như). Cấu trúc bài học: According to + source, + clause."
+    "explanation": "Điền “according to” với nghĩa “theo như” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "134-order",
@@ -6043,7 +6043,7 @@
       "schedule,",
       "to"
     ],
-    "explanation": "Cấu trúc cần luyện: According to + source, + clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "According to the schedule, we start at eight."
   },
   {
@@ -6071,7 +6071,7 @@
     "answer": "Compared with",
     "vocabId": "v-319f64f420c6",
     "correctSentence": "Compared with yesterday, yield improved.",
-    "explanation": "Điền “compared with” (so với). Cấu trúc bài học: Compared with + noun, + clause."
+    "explanation": "Điền “compared with” với nghĩa “so với” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "135-order",
@@ -6090,7 +6090,7 @@
       "old",
       "with"
     ],
-    "explanation": "Cấu trúc cần luyện: Compared with + noun, + clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "Compared with the old process, this is faster."
   },
   {
@@ -6118,7 +6118,7 @@
     "answer": "productivity",
     "vocabId": "v-0d117e422ae6",
     "correctSentence": "There is an increase in productivity.",
-    "explanation": "Điền “productivity” (năng suất). Cấu trúc bài học: There is an increase/decrease in + noun."
+    "explanation": "Điền “productivity” với nghĩa “năng suất” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "136-order",
@@ -6135,7 +6135,7 @@
       "increase",
       "is"
     ],
-    "explanation": "Cấu trúc cần luyện: There is an increase/decrease in + noun.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "There is an increase in productivity."
   },
   {
@@ -6163,7 +6163,7 @@
     "answer": "Temperature",
     "vocabId": "v-7033e90fcdda",
     "correctSentence": "Temperature increased from 60 to 65 degrees Celsius.",
-    "explanation": "Điền “temperature” (nhiệt độ). Cấu trúc bài học: It increased/decreased from A to B."
+    "explanation": "Điền “temperature” với nghĩa “nhiệt độ” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "137-order",
@@ -6182,7 +6182,7 @@
       "decreased",
       "seconds."
     ],
-    "explanation": "Cấu trúc cần luyện: It increased/decreased from A to B.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "Cycle time decreased from 30 to 25 seconds."
   },
   {
@@ -6210,7 +6210,7 @@
     "answer": "cost reduction",
     "vocabId": "v-8288cac5588a",
     "correctSentence": "We achieved a cost reduction.",
-    "explanation": "Điền “cost reduction” (giảm chi phí). Cấu trúc bài học: We achieved + result/target."
+    "explanation": "Điền “cost reduction” với nghĩa “giảm chi phí” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "138-order",
@@ -6226,7 +6226,7 @@
       "reduction.",
       "achieved"
     ],
-    "explanation": "Cấu trúc cần luyện: We achieved + result/target.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We achieved a cost reduction."
   },
   {
@@ -6254,7 +6254,7 @@
     "answer": "lack of",
     "vocabId": "v-dfe4754bfccf",
     "correctSentence": "The key issue is lack of data.",
-    "explanation": "Điền “lack of” (sự thiếu). Cấu trúc bài học: The key issue is + noun/clause."
+    "explanation": "Điền “lack of” với nghĩa “sự thiếu” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "139-order",
@@ -6271,7 +6271,7 @@
       "issue",
       "repeat"
     ],
-    "explanation": "Cấu trúc cần luyện: The key issue is + noun/clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "The key issue is repeat defects."
   },
   {
@@ -6299,7 +6299,7 @@
     "answer": "root cause",
     "vocabId": "v-6730f85c1352",
     "correctSentence": "The root cause is a damaged sensor.",
-    "explanation": "Điền “root cause” (nguyên nhân gốc rễ). Cấu trúc bài học: The root cause is + noun/clause."
+    "explanation": "Điền “root cause” với nghĩa “nguyên nhân gốc rễ” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "140-order",
@@ -6317,7 +6317,7 @@
       "yet.",
       "cause"
     ],
-    "explanation": "Cấu trúc cần luyện: The root cause is + noun/clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We haven't confirmed the root cause yet."
   },
   {
@@ -6345,7 +6345,7 @@
     "answer": "night shift",
     "vocabId": "v-6b03dd117d95",
     "correctSentence": "We suspect that the issue started on the night shift.",
-    "explanation": "Điền “night shift” (ca đêm). Cấu trúc bài học: We suspect that + clause."
+    "explanation": "Điền “night shift” với nghĩa “ca đêm” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "141-order",
@@ -6362,7 +6362,7 @@
       "that",
       "We"
     ],
-    "explanation": "Cấu trúc cần luyện: We suspect that + clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We suspect that handling caused damage."
   },
   {
@@ -6390,7 +6390,7 @@
     "answer": "conditions",
     "vocabId": "v-f8eb525d26e1",
     "correctSentence": "We need to verify the test conditions.",
-    "explanation": "Điền “conditions” (các điều kiện). Cấu trúc bài học: need to verify + noun/wh-clause."
+    "explanation": "Điền “conditions” với nghĩa “các điều kiện” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "142-order",
@@ -6409,7 +6409,7 @@
       "to",
       "whether"
     ],
-    "explanation": "Cấu trúc cần luyện: need to verify + noun/wh-clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We need to verify whether the issue recurs."
   },
   {
@@ -6437,7 +6437,7 @@
     "answer": "operator",
     "vocabId": "v-fe96dd39756a",
     "correctSentence": "We found that the operator skipped a step.",
-    "explanation": "Điền “operator” (người vận hành). Cấu trúc bài học: We found that + clause."
+    "explanation": "Điền “operator” với nghĩa “người vận hành” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "143-order",
@@ -6456,7 +6456,7 @@
       "skipped",
       "found"
     ],
-    "explanation": "Cấu trúc cần luyện: We found that + clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We found that the operator skipped a step."
   },
   {
@@ -6484,7 +6484,7 @@
     "answer": "power failure",
     "vocabId": "v-2e8974b2e621",
     "correctSentence": "The delay was caused by a power failure.",
-    "explanation": "Điền “power failure” (mất điện). Cấu trúc bài học: be caused by + noun."
+    "explanation": "Điền “power failure” với nghĩa “mất điện” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "144-order",
@@ -6501,7 +6501,7 @@
       "The",
       "caused"
     ],
-    "explanation": "Cấu trúc cần luyện: be caused by + noun.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "The scratch was caused by handling."
   },
   {
@@ -6529,7 +6529,7 @@
     "answer": "related to",
     "vocabId": "v-fa8f906a23fd",
     "correctSentence": "The defect may be related to humidity.",
-    "explanation": "Điền “related to” (liên quan đến). Cấu trúc bài học: may be related to + noun."
+    "explanation": "Điền “related to” với nghĩa “liên quan đến” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "145-order",
@@ -6548,7 +6548,7 @@
       "equipment.",
       "to"
     ],
-    "explanation": "Cấu trúc cần luyện: may be related to + noun.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "The failure may be related to aging equipment."
   },
   {
@@ -6576,7 +6576,7 @@
     "answer": "inspection",
     "vocabId": "v-90f9b69fcbf8",
     "correctSentence": "We've taken action to improve inspection.",
-    "explanation": "Điền “inspection” (kiểm tra chất lượng). Cấu trúc bài học: have taken action to + V."
+    "explanation": "Điền “inspection” với nghĩa “kiểm tra chất lượng” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "146-order",
@@ -6593,7 +6593,7 @@
       "action",
       "improve"
     ],
-    "explanation": "Cấu trúc cần luyện: have taken action to + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We've taken action to improve inspection."
   },
   {
@@ -6621,7 +6621,7 @@
     "answer": "recurrence",
     "vocabId": "v-82bea5645079",
     "correctSentence": "The action is effective because no recurrence was observed.",
-    "explanation": "Điền “recurrence” (sự tái diễn). Cấu trúc bài học: The action is effective because + clause."
+    "explanation": "Điền “recurrence” với nghĩa “sự tái diễn” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "147-order",
@@ -6640,7 +6640,7 @@
       "output",
       "is"
     ],
-    "explanation": "Cấu trúc cần luyện: The action is effective because + clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "The action is effective because output is stable."
   },
   {
@@ -6668,7 +6668,7 @@
     "answer": "As a result",
     "vocabId": "v-74d348a2d9fd",
     "correctSentence": "We improved the setup. As a result, scrap decreased.",
-    "explanation": "Điền “as a result” (kết quả là). Cấu trúc bài học: As a result, + clause."
+    "explanation": "Điền “as a result” với nghĩa “kết quả là” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "148-order",
@@ -6688,7 +6688,7 @@
       "As",
       "a"
     ],
-    "explanation": "Cấu trúc cần luyện: As a result, + clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "The team trained operators. As a result, mistakes decreased."
   },
   {
@@ -6716,7 +6716,7 @@
     "answer": "continue",
     "vocabId": "v-eee0bbba4ff9",
     "correctSentence": "We will continue to monitor yield.",
-    "explanation": "Điền “continue” (tiếp tục). Cấu trúc bài học: will continue to + V."
+    "explanation": "Điền “continue” với nghĩa “tiếp tục” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "149-order",
@@ -6734,7 +6734,7 @@
       "QA.",
       "We"
     ],
-    "explanation": "Cấu trúc cần luyện: will continue to + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We will continue to work with QA."
   },
   {
@@ -6762,7 +6762,7 @@
     "answer": "action plan",
     "vocabId": "v-56019fb78ba4",
     "correctSentence": "Please keep me updated on the action plan.",
-    "explanation": "Điền “action plan” (kế hoạch hành động). Cấu trúc bài học: keep someone updated on + noun."
+    "explanation": "Điền “action plan” với nghĩa “kế hoạch hành động” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "150-order",
@@ -6780,7 +6780,7 @@
       "updated",
       "shipment."
     ],
-    "explanation": "Cấu trúc cần luyện: keep someone updated on + noun.",
+    "explanation": "Lời yêu cầu lịch sự dùng Please + động từ nguyên mẫu và phần bổ sung.",
     "correctSentence": "Please keep me updated on the shipment."
   },
   {
@@ -6808,7 +6808,7 @@
     "answer": "corrective action",
     "vocabId": "v-ff4141bf61e1",
     "correctSentence": "I'll follow up on the corrective action.",
-    "explanation": "Điền “corrective action” (hành động khắc phục). Cấu trúc bài học: follow up on + noun."
+    "explanation": "Điền “corrective action” với nghĩa “hành động khắc phục” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "151-order",
@@ -6826,7 +6826,7 @@
       "the",
       "up"
     ],
-    "explanation": "Cấu trúc cần luyện: follow up on + noun.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I'll follow up on the pending tasks."
   },
   {
@@ -6854,7 +6854,7 @@
     "answer": "decision",
     "vocabId": "v-8501a34f34de",
     "correctSentence": "Could you confirm the final decision?",
-    "explanation": "Điền “decision” (quyết định). Cấu trúc bài học: Could you confirm + noun/wh-clause?"
+    "explanation": "Điền “decision” với nghĩa “quyết định” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "152-order",
@@ -6872,7 +6872,7 @@
       "Could",
       "passed?"
     ],
-    "explanation": "Cấu trúc cần luyện: Could you confirm + noun/wh-clause?",
+    "explanation": "Câu hỏi Yes/No thường đặt trợ động từ hoặc động từ to be trước chủ ngữ.",
     "correctSentence": "Could you confirm whether the test passed?"
   },
   {
@@ -6900,7 +6900,7 @@
     "answer": "approval",
     "vocabId": "v-59494695a317",
     "correctSentence": "We need your approval to proceed.",
-    "explanation": "Điền “approval” (sự phê duyệt). Cấu trúc bài học: need approval to + V."
+    "explanation": "Điền “approval” với nghĩa “sự phê duyệt” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "153-order",
@@ -6919,7 +6919,7 @@
       "approval",
       "change"
     ],
-    "explanation": "Cấu trúc cần luyện: need approval to + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We need your approval to change the supplier."
   },
   {
@@ -6947,7 +6947,7 @@
     "answer": "sample size",
     "vocabId": "v-1e6b54b281c6",
     "correctSentence": "I recommend increasing the sample size.",
-    "explanation": "Điền “sample size” (cỡ mẫu). Cấu trúc bài học: recommend + V-ing / that ..."
+    "explanation": "Điền “sample size” với nghĩa “cỡ mẫu” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "154-order",
@@ -6964,7 +6964,7 @@
       "unstable",
       "the"
     ],
-    "explanation": "Cấu trúc cần luyện: recommend + V-ing / that ...",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I recommend replacing the unstable lot."
   },
   {
@@ -6992,7 +6992,7 @@
     "answer": "traceability",
     "vocabId": "v-928c6786e637",
     "correctSentence": "The benefit is better traceability.",
-    "explanation": "Điền “traceability” (khả năng truy xuất nguồn gốc). Cấu trúc bài học: The benefit is + noun/clause."
+    "explanation": "Điền “traceability” với nghĩa “khả năng truy xuất nguồn gốc” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "155-order",
@@ -7008,7 +7008,7 @@
       "traceability.",
       "The"
     ],
-    "explanation": "Cấu trúc cần luyện: The benefit is + noun/clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "The benefit is better traceability."
   },
   {
@@ -7036,7 +7036,7 @@
     "answer": "contamination",
     "vocabId": "v-dcd5e5991d0c",
     "correctSentence": "The risk is increased contamination.",
-    "explanation": "Điền “contamination” (sự nhiễm bẩn). Cấu trúc bài học: The risk is + noun/clause."
+    "explanation": "Điền “contamination” với nghĩa “sự nhiễm bẩn” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "156-order",
@@ -7052,7 +7052,7 @@
       "training.",
       "risk"
     ],
-    "explanation": "Cấu trúc cần luyện: The risk is + noun/clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "The risk is insufficient training."
   },
   {
@@ -7080,7 +7080,7 @@
     "answer": "recurring",
     "vocabId": "v-e1a31b3e461a",
     "correctSentence": "We need to prevent defects from recurring.",
-    "explanation": "Điền “recurring” (tái diễn). Cấu trúc bài học: prevent + noun + from + V-ing."
+    "explanation": "Điền “recurring” với nghĩa “tái diễn” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "157-order",
@@ -7098,7 +7098,7 @@
       "shifting.",
       "to"
     ],
-    "explanation": "Cấu trúc cần luyện: prevent + noun + from + V-ing.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We need to prevent parts from shifting."
   },
   {
@@ -7126,7 +7126,7 @@
     "answer": "informed",
     "vocabId": "v-8c9922f76b3a",
     "correctSentence": "Please make sure that everyone is informed.",
-    "explanation": "Điền “informed” (được thông báo). Cấu trúc bài học: make sure that + clause."
+    "explanation": "Điền “informed” với nghĩa “được thông báo” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "158-order",
@@ -7145,7 +7145,7 @@
       "are",
       "samples"
     ],
-    "explanation": "Cấu trúc cần luyện: make sure that + clause.",
+    "explanation": "Lời yêu cầu lịch sự dùng Please + động từ nguyên mẫu và phần bổ sung.",
     "correctSentence": "Please make sure that the samples are labeled."
   },
   {
@@ -7173,7 +7173,7 @@
     "answer": "samples",
     "vocabId": "v-433cdfecfbc5",
     "correctSentence": "Let's take a closer look at the failed samples.",
-    "explanation": "Điền “samples” (các mẫu). Cấu trúc bài học: take a closer look at + noun."
+    "explanation": "Điền “samples” với nghĩa “các mẫu” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "159-order",
@@ -7194,7 +7194,7 @@
       "take",
       "3."
     ],
-    "explanation": "Cấu trúc cần luyện: take a closer look at + noun.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We need to take a closer look at Line 3."
   },
   {
@@ -7222,7 +7222,7 @@
     "answer": "preventive actions",
     "vocabId": "v-bd9ce03c9a89",
     "correctSentence": "We should prioritize preventive actions.",
-    "explanation": "Điền “preventive actions” (các hành động phòng ngừa). Cấu trúc bài học: prioritize + noun / V-ing."
+    "explanation": "Điền “preventive actions” với nghĩa “các hành động phòng ngừa” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "160-order",
@@ -7240,7 +7240,7 @@
       "highest",
       "loss"
     ],
-    "explanation": "Cấu trúc cần luyện: prioritize + noun / V-ing.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "We should prioritize the highest loss items."
   },
   {
@@ -7268,7 +7268,7 @@
     "answer": "meeting",
     "vocabId": "v-bd7580126b94",
     "correctSentence": "Let's wrap up the meeting.",
-    "explanation": "Điền “meeting” (cuộc họp). Cấu trúc bài học: Let's + V."
+    "explanation": "Điền “meeting” với nghĩa “cuộc họp” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "161-order",
@@ -7283,7 +7283,7 @@
       "yesterday's",
       "Let's"
     ],
-    "explanation": "Cấu trúc cần luyện: Let's + V.",
+    "explanation": "Lời đề nghị dùng Let's + động từ nguyên mẫu, sau đó là phần bổ sung.",
     "correctSentence": "Let's review yesterday's results."
   },
   {
@@ -7311,7 +7311,7 @@
     "answer": "action plan",
     "vocabId": "v-56019fb78ba4",
     "correctSentence": "The purpose is to agree on the action plan.",
-    "explanation": "Điền “action plan” (kế hoạch hành động). Cấu trúc bài học: The purpose ... is to + V."
+    "explanation": "Điền “action plan” với nghĩa “kế hoạch hành động” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "162-order",
@@ -7329,7 +7329,7 @@
       "results.",
       "to"
     ],
-    "explanation": "Cấu trúc cần luyện: The purpose ... is to + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "The purpose is to share test results."
   },
   {
@@ -7357,7 +7357,7 @@
     "answer": "customer",
     "vocabId": "v-b39f008e318e",
     "correctSentence": "Let's go through the customer comments.",
-    "explanation": "Điền “customer” (khách hàng). Cấu trúc bài học: go through + noun."
+    "explanation": "Điền “customer” với nghĩa “khách hàng” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "163-order",
@@ -7374,7 +7374,7 @@
       "through",
       "go"
     ],
-    "explanation": "Cấu trúc cần luyện: go through + noun.",
+    "explanation": "Lời đề nghị dùng Let's + động từ nguyên mẫu, sau đó là phần bổ sung.",
     "correctSentence": "Let's go through each action item."
   },
   {
@@ -7402,7 +7402,7 @@
     "answer": "cost saving",
     "vocabId": "v-88a1cf74bc57",
     "correctSentence": "I'd like to highlight the cost saving.",
-    "explanation": "Điền “cost saving” (tiết kiệm chi phí). Cấu trúc bài học: I'd like to highlight + noun."
+    "explanation": "Điền “cost saving” với nghĩa “tiết kiệm chi phí” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "164-order",
@@ -7420,7 +7420,7 @@
       "highlight",
       "a"
     ],
-    "explanation": "Cấu trúc cần luyện: I'd like to highlight + noun.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I'd like to highlight a potential risk."
   },
   {
@@ -7448,7 +7448,7 @@
     "answer": "action plan",
     "vocabId": "v-56019fb78ba4",
     "correctSentence": "Could you walk us through the action plan?",
-    "explanation": "Điền “action plan” (kế hoạch hành động). Cấu trúc bài học: walk someone through + noun."
+    "explanation": "Điền “action plan” với nghĩa “kế hoạch hành động” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "165-order",
@@ -7466,7 +7466,7 @@
       "chart?",
       "you"
     ],
-    "explanation": "Cấu trúc cần luyện: walk someone through + noun.",
+    "explanation": "Câu hỏi Yes/No thường đặt trợ động từ hoặc động từ to be trước chủ ngữ.",
     "correctSentence": "Could you walk us through the chart?"
   },
   {
@@ -7494,7 +7494,7 @@
     "answer": "definition",
     "vocabId": "v-f3f1dd33eb2a",
     "correctSentence": "Can we clarify the definition of failure?",
-    "explanation": "Điền “definition” (định nghĩa). Cấu trúc bài học: Can we clarify + noun?"
+    "explanation": "Điền “definition” với nghĩa “định nghĩa” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "166-order",
@@ -7512,7 +7512,7 @@
       "Can",
       "clarify"
     ],
-    "explanation": "Cấu trúc cần luyện: Can we clarify + noun?",
+    "explanation": "Câu hỏi Yes/No thường đặt trợ động từ hoặc động từ to be trước chủ ngữ.",
     "correctSentence": "Can we clarify the definition of failure?"
   },
   {
@@ -7540,7 +7540,7 @@
     "answer": "test result",
     "vocabId": "v-4377215cccd0",
     "correctSentence": "What are your thoughts on the test result?",
-    "explanation": "Điền “test result” (kết quả kiểm thử). Cấu trúc bài học: What are your thoughts on + noun?"
+    "explanation": "Điền “test result” với nghĩa “kết quả kiểm thử” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "167-order",
@@ -7558,7 +7558,7 @@
       "the",
       "schedule?"
     ],
-    "explanation": "Cấu trúc cần luyện: What are your thoughts on + noun?",
+    "explanation": "Câu hỏi dùng từ hỏi trước trợ động từ hoặc động từ to be, rồi đến chủ ngữ và phần còn lại.",
     "correctSentence": "What are your thoughts on the schedule?"
   },
   {
@@ -7586,7 +7586,7 @@
     "answer": "single owner",
     "vocabId": "v-6d88728d41dd",
     "correctSentence": "Can we agree on a single owner?",
-    "explanation": "Điền “single owner” (một người phụ trách duy nhất). Cấu trúc bài học: agree on + noun."
+    "explanation": "Điền “single owner” với nghĩa “một người phụ trách duy nhất” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "168-order",
@@ -7603,7 +7603,7 @@
       "the",
       "we"
     ],
-    "explanation": "Cấu trúc cần luyện: agree on + noun.",
+    "explanation": "Câu hỏi Yes/No thường đặt trợ động từ hoặc động từ to be trước chủ ngữ.",
     "correctSentence": "Can we agree on the deadline?"
   },
   {
@@ -7631,7 +7631,7 @@
     "answer": "team leader",
     "vocabId": "v-788497e72fe5",
     "correctSentence": "Let's assign the training to the team leader.",
-    "explanation": "Điền “team leader” (trưởng nhóm). Cấu trúc bài học: assign + task + to + person."
+    "explanation": "Điền “team leader” với nghĩa “trưởng nhóm” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "169-order",
@@ -7648,7 +7648,7 @@
       "the",
       "to"
     ],
-    "explanation": "Cấu trúc cần luyện: assign + task + to + person.",
+    "explanation": "Lời đề nghị dùng Let's + động từ nguyên mẫu, sau đó là phần bổ sung.",
     "correctSentence": "Let's assign the inspection to QA."
   },
   {
@@ -7676,7 +7676,7 @@
     "answer": "customer",
     "vocabId": "v-b39f008e318e",
     "correctSentence": "Could you take care of the customer reply?",
-    "explanation": "Điền “customer” (khách hàng). Cấu trúc bài học: take care of + noun."
+    "explanation": "Điền “customer” với nghĩa “khách hàng” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "170-order",
@@ -7694,7 +7694,7 @@
       "take",
       "you"
     ],
-    "explanation": "Cấu trúc cần luyện: take care of + noun.",
+    "explanation": "Câu hỏi Yes/No thường đặt trợ động từ hoặc động từ to be trước chủ ngữ.",
     "correctSentence": "Could you take care of the report?"
   },
   {
@@ -7722,7 +7722,7 @@
     "answer": "follow up",
     "vocabId": "v-af153c298286",
     "correctSentence": "Let's follow up tomorrow.",
-    "explanation": "Điền “follow up” (theo dõi tiếp; đôn đốc). Cấu trúc bài học: follow up + time / on something."
+    "explanation": "Điền “follow up” với nghĩa “theo dõi tiếp; đôn đốc” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "171-order",
@@ -7739,7 +7739,7 @@
       "on",
       "pending"
     ],
-    "explanation": "Cấu trúc cần luyện: follow up + time / on something.",
+    "explanation": "Lời đề nghị dùng Let's + động từ nguyên mẫu, sau đó là phần bổ sung.",
     "correctSentence": "Let's follow up on pending actions."
   },
   {
@@ -7767,7 +7767,7 @@
     "answer": "summarize",
     "vocabId": "v-e7e5cb2f5eb7",
     "correctSentence": "To summarize, we have three actions.",
-    "explanation": "Điền “summarize” (tóm tắt). Cấu trúc bài học: To summarize, + clause."
+    "explanation": "Điền “summarize” với nghĩa “tóm tắt” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "172-order",
@@ -7784,7 +7784,7 @@
       "evidence.",
       "need"
     ],
-    "explanation": "Cấu trúc cần luyện: To summarize, + clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "To summarize, we need more evidence."
   },
   {
@@ -7812,7 +7812,7 @@
     "answer": "management",
     "vocabId": "v-982d46d22d95",
     "correctSentence": "The next step is to report to management.",
-    "explanation": "Điền “management” (ban quản lý). Cấu trúc bài học: The next step is to + V."
+    "explanation": "Điền “management” với nghĩa “ban quản lý” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "173-order",
@@ -7830,7 +7830,7 @@
       "operators.",
       "train"
     ],
-    "explanation": "Cấu trúc cần luyện: The next step is to + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "The next step is to train operators."
   },
   {
@@ -7858,7 +7858,7 @@
     "answer": "requirement",
     "vocabId": "v-15320ae28eb8",
     "correctSentence": "Let's keep the customer requirement in mind.",
-    "explanation": "Điền “requirement” (yêu cầu). Cấu trúc bài học: keep + noun + in mind."
+    "explanation": "Điền “requirement” với nghĩa “yêu cầu” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "174-order",
@@ -7876,7 +7876,7 @@
       "keep",
       "Let's"
     ],
-    "explanation": "Cấu trúc cần luyện: keep + noun + in mind.",
+    "explanation": "Lời đề nghị dùng Let's + động từ nguyên mẫu, sau đó là phần bổ sung.",
     "correctSentence": "Let's keep the customer requirement in mind."
   },
   {
@@ -7904,7 +7904,7 @@
     "answer": "customer complaint",
     "vocabId": "v-5545a3812ab6",
     "correctSentence": "Let's move on to the customer complaint.",
-    "explanation": "Điền “customer complaint” (khiếu nại của khách hàng). Cấu trúc bài học: move on to + noun."
+    "explanation": "Điền “customer complaint” với nghĩa “khiếu nại của khách hàng” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "175-order",
@@ -7923,7 +7923,7 @@
       "to",
       "plan?"
     ],
-    "explanation": "Cấu trúc cần luyện: move on to + noun.",
+    "explanation": "Câu hỏi Yes/No thường đặt trợ động từ hoặc động từ to be trước chủ ngữ.",
     "correctSentence": "Can we move on to the action plan?"
   },
   {
@@ -7951,7 +7951,7 @@
     "answer": "on hold",
     "vocabId": "v-062be3459e84",
     "correctSentence": "Let's put this topic on hold.",
-    "explanation": "Điền “on hold” (tạm hoãn). Cấu trúc bài học: put + noun + on hold."
+    "explanation": "Điền “on hold” với nghĩa “tạm hoãn” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "176-order",
@@ -7968,7 +7968,7 @@
       "the",
       "hold."
     ],
-    "explanation": "Cấu trúc cần luyện: put + noun + on hold.",
+    "explanation": "Lời đề nghị dùng Let's + động từ nguyên mẫu, sau đó là phần bổ sung.",
     "correctSentence": "Let's put the change on hold."
   },
   {
@@ -7996,7 +7996,7 @@
     "answer": "chicken rice",
     "vocabId": "v-710e35bac934",
     "correctSentence": "I'd like to order chicken rice.",
-    "explanation": "Điền “chicken rice” (cơm gà). Cấu trúc bài học: I'd like to order + food/drink."
+    "explanation": "Điền “chicken rice” với nghĩa “cơm gà” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "177-order",
@@ -8014,7 +8014,7 @@
       "order",
       "I'd"
     ],
-    "explanation": "Cấu trúc cần luyện: I'd like to order + food/drink.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I'd like to order a hot coffee."
   },
   {
@@ -8042,7 +8042,7 @@
     "answer": "window seat",
     "vocabId": "v-1435b2082842",
     "correctSentence": "Could I have a window seat?",
-    "explanation": "Điền “window seat” (ghế cạnh cửa sổ). Cấu trúc bài học: Could I have + noun?"
+    "explanation": "Điền “window seat” với nghĩa “ghế cạnh cửa sổ” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "178-order",
@@ -8059,7 +8059,7 @@
       "I",
       "have"
     ],
-    "explanation": "Cấu trúc cần luyện: Could I have + noun?",
+    "explanation": "Câu hỏi Yes/No thường đặt trợ động từ hoặc động từ to be trước chủ ngữ.",
     "correctSentence": "Could I have the bill, please?"
   },
   {
@@ -8087,7 +8087,7 @@
     "answer": "daughter",
     "vocabId": "v-6490e67e8283",
     "correctSentence": "I'm looking for a gift for my daughter.",
-    "explanation": "Điền “daughter” (con gái). Cấu trúc bài học: be looking for + noun."
+    "explanation": "Điền “daughter” với nghĩa “con gái” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "179-order",
@@ -8104,7 +8104,7 @@
       "I'm",
       "a"
     ],
-    "explanation": "Cấu trúc cần luyện: be looking for + noun.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I'm looking for a blue shirt."
   },
   {
@@ -8132,7 +8132,7 @@
     "answer": "train station",
     "vocabId": "v-cda0f61ff9e5",
     "correctSentence": "How do I get to the train station?",
-    "explanation": "Điền “train station” (ga tàu). Cấu trúc bài học: How do I get to + place?"
+    "explanation": "Điền “train station” với nghĩa “ga tàu” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "180-order",
@@ -8151,7 +8151,7 @@
       "to",
       "do"
     ],
-    "explanation": "Cấu trúc cần luyện: How do I get to + place?",
+    "explanation": "Câu hỏi dùng từ hỏi trước trợ động từ hoặc động từ to be, rồi đến chủ ngữ và phần còn lại.",
     "correctSentence": "How do I get to the city center?"
   },
   {
@@ -8179,7 +8179,7 @@
     "answer": "window",
     "vocabId": "v-320ad267d8d9",
     "correctSentence": "Is it okay if I open the window?",
-    "explanation": "Điền “window” (cửa sổ). Cấu trúc bài học: Is it okay if I + V?"
+    "explanation": "Điền “window” với nghĩa “cửa sổ” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "181-order",
@@ -8198,7 +8198,7 @@
       "you",
       "if"
     ],
-    "explanation": "Cấu trúc cần luyện: Is it okay if I + V?",
+    "explanation": "Câu hỏi Yes/No thường đặt trợ động từ hoặc động từ to be trước chủ ngữ.",
     "correctSentence": "Is it okay if I call you later?"
   },
   {
@@ -8226,7 +8226,7 @@
     "answer": "day off",
     "vocabId": "v-549a03e6231c",
     "correctSentence": "I'm thinking of taking a day off.",
-    "explanation": "Điền “day off” (ngày nghỉ). Cấu trúc bài học: be thinking of + V-ing."
+    "explanation": "Điền “day off” với nghĩa “ngày nghỉ” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "182-order",
@@ -8243,7 +8243,7 @@
       "I'm",
       "of"
     ],
-    "explanation": "Cấu trúc cần luyện: be thinking of + V-ing.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I'm thinking of changing my schedule."
   },
   {
@@ -8271,7 +8271,7 @@
     "answer": "stay home",
     "vocabId": "v-217965bd1ded",
     "correctSentence": "I'd rather stay home than go out.",
-    "explanation": "Điền “stay home” (ở nhà). Cấu trúc bài học: would rather + V + than + V."
+    "explanation": "Điền “stay home” với nghĩa “ở nhà” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "183-order",
@@ -8287,7 +8287,7 @@
       "I'd",
       "rather"
     ],
-    "explanation": "Cấu trúc cần luyện: would rather + V + than + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I'd rather call than text."
   },
   {
@@ -8315,7 +8315,7 @@
     "answer": "approval",
     "vocabId": "v-59494695a317",
     "correctSentence": "It would be better to wait for approval.",
-    "explanation": "Điền “approval” (sự phê duyệt). Cấu trúc bài học: It would be better to + V."
+    "explanation": "Điền “approval” với nghĩa “sự phê duyệt” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "184-order",
@@ -8335,7 +8335,7 @@
       "better",
       "first."
     ],
-    "explanation": "Cấu trúc cần luyện: It would be better to + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "It would be better to check the data first."
   },
   {
@@ -8363,7 +8363,7 @@
     "answer": "vacation",
     "vocabId": "v-18c0f103187c",
     "correctSentence": "I can't wait to go on vacation.",
-    "explanation": "Điền “vacation” (kỳ nghỉ). Cấu trúc bài học: can't wait to + V."
+    "explanation": "Điền “vacation” với nghĩa “kỳ nghỉ” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "185-order",
@@ -8381,7 +8381,7 @@
       "this",
       "to"
     ],
-    "explanation": "Cấu trúc cần luyện: can't wait to + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I can't wait to try this food."
   },
   {
@@ -8409,7 +8409,7 @@
     "answer": "free time",
     "vocabId": "v-c6871ef69a12",
     "correctSentence": "I wish I had more free time.",
-    "explanation": "Điền “free time” (thời gian rảnh). Cấu trúc bài học: I wish + past-form clause."
+    "explanation": "Điền “free time” với nghĩa “thời gian rảnh” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "186-order",
@@ -8425,7 +8425,7 @@
       "raining.",
       "I"
     ],
-    "explanation": "Cấu trúc cần luyện: I wish + past-form clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I wish it weren't raining."
   },
   {
@@ -8453,7 +8453,7 @@
     "answer": "weekend",
     "vocabId": "v-505eabdfb808",
     "correctSentence": "I hope you have a great weekend.",
-    "explanation": "Điền “weekend” (cuối tuần). Cấu trúc bài học: I hope + clause."
+    "explanation": "Điền “weekend” với nghĩa “cuối tuần” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "187-order",
@@ -8470,7 +8470,7 @@
       "well.",
       "goes"
     ],
-    "explanation": "Cấu trúc cần luyện: I hope + clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I hope the test goes well."
   },
   {
@@ -8498,7 +8498,7 @@
     "answer": "sequence",
     "vocabId": "v-92504616ed59",
     "correctSentence": "What if we change the sequence?",
-    "explanation": "Điền “sequence” (trình tự). Cấu trúc bài học: What if + clause?"
+    "explanation": "Điền “sequence” với nghĩa “trình tự” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "188-order",
@@ -8514,7 +8514,7 @@
       "the",
       "What"
     ],
-    "explanation": "Cấu trúc cần luyện: What if + clause?",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "What if the test fails?"
   },
   {
@@ -8542,7 +8542,7 @@
     "answer": "assumptions",
     "vocabId": "v-1b42e4bbc090",
     "correctSentence": "I prefer data to assumptions.",
-    "explanation": "Điền “assumptions” (các giả định). Cấu trúc bài học: prefer + noun/V-ing + to + noun/V-ing."
+    "explanation": "Điền “assumptions” với nghĩa “các giả định” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "189-order",
@@ -8560,7 +8560,7 @@
       "evening",
       "meetings"
     ],
-    "explanation": "Cấu trúc cần luyện: prefer + noun/V-ing + to + noun/V-ing.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I prefer morning meetings to evening meetings."
   },
   {
@@ -8588,7 +8588,7 @@
     "answer": "complicated",
     "vocabId": "v-d27c7a190bdd",
     "correctSentence": "It sounds more complicated than expected.",
-    "explanation": "Điền “complicated” (phức tạp). Cấu trúc bài học: It sounds + adjective."
+    "explanation": "Điền “complicated” với nghĩa “phức tạp” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "190-order",
@@ -8603,7 +8603,7 @@
       "risky.",
       "sounds"
     ],
-    "explanation": "Cấu trúc cần luyện: It sounds + adjective.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "It sounds too risky."
   },
   {
@@ -8631,7 +8631,7 @@
     "answer": "product",
     "vocabId": "v-38a007151abe",
     "correctSentence": "It looks like a good product.",
-    "explanation": "Điền “product” (sản phẩm). Cấu trúc bài học: It looks like + noun/clause."
+    "explanation": "Điền “product” với nghĩa “sản phẩm” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "191-order",
@@ -8649,7 +8649,7 @@
       "line",
       "It"
     ],
-    "explanation": "Cấu trúc cần luyện: It looks like + noun/clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "It looks like the line has stopped."
   },
   {
@@ -8677,7 +8677,7 @@
     "answer": "suggestions",
     "vocabId": "v-7ca5c1bf6d37",
     "correctSentence": "I was wondering if you have any suggestions.",
-    "explanation": "Điền “suggestions” (các gợi ý). Cấu trúc bài học: I was wondering if + clause."
+    "explanation": "Điền “suggestions” với nghĩa “các gợi ý” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "192-order",
@@ -8697,7 +8697,7 @@
       "could",
       "move"
     ],
-    "explanation": "Cấu trúc cần luyện: I was wondering if + clause.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I was wondering if we could move the meeting."
   },
   {
@@ -8725,7 +8725,7 @@
     "answer": "understanding",
     "vocabId": "v-14a9d766458d",
     "correctSentence": "I have trouble understanding fast English.",
-    "explanation": "Điền “understanding” (việc hiểu). Cấu trúc bài học: have trouble + V-ing."
+    "explanation": "Điền “understanding” với nghĩa “việc hiểu” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "193-order",
@@ -8742,7 +8742,7 @@
       "have",
       "this"
     ],
-    "explanation": "Cấu trúc cần luyện: have trouble + V-ing.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I have trouble opening this file."
   },
   {
@@ -8770,7 +8770,7 @@
     "answer": "investing",
     "vocabId": "v-1c3471ca3188",
     "correctSentence": "It's worth investing in training.",
-    "explanation": "Điền “investing” (việc đầu tư). Cấu trúc bài học: be worth + V-ing."
+    "explanation": "Điền “investing” với nghĩa “việc đầu tư” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "194-order",
@@ -8785,7 +8785,7 @@
       "again.",
       "checking"
     ],
-    "explanation": "Cấu trúc cần luyện: be worth + V-ing.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "It's worth checking again."
   },
   {
@@ -8813,7 +8813,7 @@
     "answer": "vacation",
     "vocabId": "v-18c0f103187c",
     "correctSentence": "I can't afford to take a long vacation.",
-    "explanation": "Điền “vacation” (kỳ nghỉ). Cấu trúc bài học: can't afford to + V."
+    "explanation": "Điền “vacation” với nghĩa “kỳ nghỉ” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "195-order",
@@ -8831,7 +8831,7 @@
       "I",
       "to"
     ],
-    "explanation": "Cấu trúc cần luyện: can't afford to + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I can't afford to be late again."
   },
   {
@@ -8859,7 +8859,7 @@
     "answer": "on time",
     "vocabId": "v-5a94729cd8f5",
     "correctSentence": "I'd like everyone to join on time.",
-    "explanation": "Điền “on time” (đúng giờ). Cấu trúc bài học: I'd like + person + to + V."
+    "explanation": "Điền “on time” với nghĩa “đúng giờ” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "196-order",
@@ -8878,7 +8878,7 @@
       "the",
       "check"
     ],
-    "explanation": "Cấu trúc cần luyện: I'd like + person + to + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "I'd like the team to check the line."
   },
   {
@@ -8906,7 +8906,7 @@
     "answer": "take a break",
     "vocabId": "v-7afc62b8cbf8",
     "correctSentence": "It's time to take a break.",
-    "explanation": "Điền “take a break” (nghỉ giải lao). Cấu trúc bài học: It's time to + V."
+    "explanation": "Điền “take a break” với nghĩa “nghỉ giải lao” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
   },
   {
     "id": "197-order",
@@ -8923,7 +8923,7 @@
       "It's",
       "the"
     ],
-    "explanation": "Cấu trúc cần luyện: It's time to + V.",
+    "explanation": "Đối chiếu nghĩa tiếng Việt và ghép các cụm từ theo thứ tự trong câu mẫu; chú ý vị trí chủ ngữ, động từ và phần bổ sung.",
     "correctSentence": "It's time to check the samples."
   }
 ]
