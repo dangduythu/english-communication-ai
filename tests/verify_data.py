@@ -36,3 +36,6 @@ for lesson in data:
   if q['type']=='order':assert Counter(q['tokens'])==Counter(q['answer'].split())
 assert len(exercises)==591 and len({q['id'] for q in exercises})==591
 print('PASS V2: 432 linked bilingual entries, 591 grounded exercises, five or six entries and three exercise types per lesson')
+meeting=next(w for w in vocab['entries'] if w['en']=='meeting')
+assert 'nice meeting' not in meeting['example'].lower(), 'noun meeting must not use a greeting gerund as its example'
+assert 2 not in meeting['lessonIds'], 'greeting gerund is not the noun meaning meeting'

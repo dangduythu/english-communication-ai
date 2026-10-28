@@ -20,7 +20,7 @@ function validState(d){
 }
 let storageError=false;
 function load(){try{const raw=JSON.parse(localStorage.getItem(STORAGE));if(raw&&!validState(raw)){loadFailed=true;return blank()}return raw?{...blank(),...raw}:blank()}catch{loadFailed=true;return blank()}}
-function save(){try{if(loadFailed)throw Error('Dữ liệu cũ chưa đọc được');const raw=localStorage.getItem(STORAGE);if(raw&&!localStorage.getItem(STORAGE+':before-v2')){const old=JSON.parse(raw);if(old.words===undefined)localStorage.setItem(STORAGE+':before-v2',raw)}localStorage.setItem(STORAGE,JSON.stringify(state));storageError=false;return true}catch{storageError=true;notice('Không lưu được tiến độ. Hãy xuất bản sao lưu trước khi đóng trang.');return false}}
+function save(){try{if(loadFailed)throw Error('Dữ liệu cũ chưa đọc được');const raw=localStorage.getItem(STORAGE);if(raw&&!localStorage.getItem(STORAGE+':before-v2')){let preserve=false;try{const old=JSON.parse(raw);preserve=!validState(old)||old.words===undefined}catch{preserve=true}if(preserve)localStorage.setItem(STORAGE+':before-v2',raw)}localStorage.setItem(STORAGE,JSON.stringify(state));storageError=false;return true}catch{storageError=true;notice('Không lưu được tiến độ. Hãy xuất bản sao lưu trước khi đóng trang.');return false}}
 const safe=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const localDate=x=>`${x.getFullYear()}-${String(x.getMonth()+1).padStart(2,'0')}-${String(x.getDate()).padStart(2,'0')}`;
 const today=()=>localDate(new Date());

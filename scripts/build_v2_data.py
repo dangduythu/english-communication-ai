@@ -67,14 +67,14 @@ want|muốn
 please|làm ơn; vui lòng
 thank you|cảm ơn
 sorry|xin lỗi
-welcome|được chào đón; hoan nghênh
+welcome|chào đón; không có gì (đáp lời cảm ơn)
 happy|vui vẻ
 fine|ổn; tốt
 busy|bận rộn
 tired|mệt mỏi
 ready|sẵn sàng
 available|có sẵn; còn trống
-free|rảnh; miễn phí
+free|rảnh; miễn phí; tự do
 important|quan trọng
 urgent|khẩn cấp
 stable|ổn định
@@ -104,7 +104,7 @@ review|xem lại; ôn tập
 explain|giải thích
 repeat|lặp lại
 understand|hiểu
-mean|có nghĩa là
+mean|có nghĩa là; muốn nói
 know|biết
 think|nghĩ
 believe|tin tưởng
@@ -121,7 +121,7 @@ sound|nghe có vẻ
 find|tìm thấy
 found|đã tìm thấy
 try|thử; cố gắng
-trying|đang thử; đang cố gắng
+trying|thử; cố gắng (dạng -ing)
 learn|học
 learning|việc học
 English|tiếng Anh
@@ -150,7 +150,7 @@ confirmed|đã xác nhận
 approval|sự phê duyệt
 approve|phê duyệt
 wait|chờ
-waiting|đang chờ
+waiting|chờ đợi (dạng -ing)
 pending|đang chờ xử lý
 deadline|hạn chót
 extend|gia hạn
@@ -335,7 +335,7 @@ requirement|yêu cầu
 impact|tác động
 long-term|dài hạn
 on hold|tạm hoãn
-order|đặt món; đơn hàng
+order|đặt món; đơn hàng; thứ tự
 noodles|mì
 chicken rice|cơm gà
 coffee|cà phê
@@ -428,7 +428,7 @@ appreciate|trân trọng; đánh giá cao
 contact|liên hệ
 chair|ghế
 ideas|các ý tưởng
-copy|bản sao
+copy|bản sao; sao chép
 situation|tình huống
 moment|một lát
 call you back|gọi lại cho bạn
@@ -446,7 +446,10 @@ terms={}
 for row in raw.strip().splitlines():
  en,vi=row.split('|',1); terms[en.lower()]={'en':en,'vi':vi,'kind':'phrase' if ' ' in en else 'word'}
 def key(en): return 'v-'+hashlib.sha1(en.lower().encode()).hexdigest()[:12]
-def match(term,text):return re.search(r'(?<![a-z])'+re.escape(term)+r'(?![a-z])',text,re.I)
+def match(term,text):
+ # 'meeting' as a gerund in this greeting means meeting a person, not a meeting event.
+ if term.lower()=='meeting' and re.search(r'\bnice meeting\b',text,re.I):return None
+ return re.search(r'(?<![a-z])'+re.escape(term)+r'(?![a-z])',text,re.I)
 bank={}; links={}; exercises=[]
 for l in lessons:
  matches=[]
