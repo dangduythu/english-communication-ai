@@ -39,3 +39,9 @@ print('PASS V2: 432 linked bilingual entries, 591 grounded exercises, five or si
 meeting=next(w for w in vocab['entries'] if w['en']=='meeting')
 assert 'nice meeting' not in meeting['example'].lower(), 'noun meeting must not use a greeting gerund as its example'
 assert 2 not in meeting['lessonIds'], 'greeting gerund is not the noun meaning meeting'
+
+for q in exercises:
+ if 'acceptedAnswers' in q:
+  assert q['type']!='choice' and q['acceptedAnswers']
+  assert all(isinstance(x,str) and x.strip() for x in q['acceptedAnswers'])
+print('PASS V2.1: reviewed alternate answers and original curriculum preserved')

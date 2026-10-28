@@ -5,9 +5,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “production line”.",
     "options": [
-      "đặt món; đơn hàng; thứ tự",
+      "đến nơi",
       "dây chuyền sản xuất",
-      "tháng",
+      "thích hơn",
       "các ý tưởng"
     ],
     "answer": "dây chuyền sản xuất",
@@ -111,7 +111,12 @@
     "answer": "colleague",
     "vocabId": "v-ace6752be4cc",
     "correctSentence": "This is my colleague, Lan.",
-    "explanation": "Điền “colleague” với nghĩa “đồng nghiệp” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
+    "explanation": "Điền “colleague” với nghĩa “đồng nghiệp” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu.",
+    "acceptedAnswers": [
+      "coworker",
+      "co-worker"
+    ],
+    "variantNote": "Có thể dùng biến thể đã được duyệt nếu giữ đúng nghĩa và cấu trúc. Đáp án mẫu chỉ là một cách diễn đạt."
   },
   {
     "id": "3-order",
@@ -199,7 +204,12 @@
     "answer": "colleague",
     "vocabId": "v-ace6752be4cc",
     "correctSentence": "Where is your colleague from?",
-    "explanation": "Điền “colleague” với nghĩa “đồng nghiệp” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
+    "explanation": "Điền “colleague” với nghĩa “đồng nghiệp” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu.",
+    "acceptedAnswers": [
+      "coworker",
+      "co-worker"
+    ],
+    "variantNote": "Có thể dùng biến thể đã được duyệt nếu giữ đúng nghĩa và cấu trúc. Đáp án mẫu chỉ là một cách diễn đạt."
   },
   {
     "id": "5-order",
@@ -225,9 +235,9 @@
     "prompt": "Chọn nghĩa của “productive”.",
     "options": [
       "hiệu quả; có năng suất",
-      "độ ẩm không khí",
-      "thông tin",
-      "được dự kiến"
+      "đứa trẻ",
+      "thư điện tử",
+      "đầu tiên"
     ],
     "answer": "hiệu quả; có năng suất",
     "vocabId": "v-f3f806213d7f",
@@ -352,9 +362,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “team leader”.",
     "options": [
-      "trách nhiệm phụ trách",
+      "trân trọng; đánh giá cao",
       "trưởng nhóm",
-      "phân công",
+      "phân tích",
       "mặc dù"
     ],
     "answer": "trưởng nhóm",
@@ -617,7 +627,7 @@
     "prompt": "Chọn nghĩa của “defects”.",
     "options": [
       "biểu đồ",
-      "sớm",
+      "sự biến thiên",
       "các lỗi sản phẩm",
       "gia hạn"
     ],
@@ -971,10 +981,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “training”.",
     "options": [
-      "ưu tiên",
+      "ổn định",
       "không đúng",
       "đào tạo",
-      "đã được dán nhãn"
+      "đúng giờ"
     ],
     "answer": "đào tạo",
     "vocabId": "v-0a2b9827e548",
@@ -1017,9 +1027,9 @@
     "prompt": "Chọn nghĩa của “defects”.",
     "options": [
       "các lỗi sản phẩm",
-      "thời gian rảnh",
-      "về nhà",
-      "một người phụ trách duy nhất"
+      "thử; cố gắng",
+      "xe đạp",
+      "mới"
     ],
     "answer": "các lỗi sản phẩm",
     "vocabId": "v-378eaf1e9d34",
@@ -1060,10 +1070,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “checklist”.",
     "options": [
-      "một cách khác",
+      "một cái khác",
       "buổi sáng",
       "danh sách kiểm tra",
-      "đã lên kế hoạch"
+      "đã tìm thấy"
     ],
     "answer": "danh sách kiểm tra",
     "vocabId": "v-ff744cd08217",
@@ -1147,9 +1157,9 @@
     "prompt": "Chọn nghĩa của “received”.",
     "options": [
       "đã nhận",
-      "tốt hơn",
-      "phần cuối",
-      "ví dụ"
+      "tốt nhất",
+      "phẳng",
+      "văn phòng"
     ],
     "answer": "đã nhận",
     "vocabId": "v-38428a698ab1",
@@ -1280,10 +1290,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “shipment”.",
     "options": [
-      "địa chỉ",
+      "định nghĩa",
       "lô hàng; việc giao hàng",
-      "không đúng",
-      "sự nhầm lẫn"
+      "không đồng ý",
+      "sự phê duyệt"
     ],
     "answer": "lô hàng; việc giao hàng",
     "vocabId": "v-f51a32c7f8fd",
@@ -1419,8 +1429,8 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “process”.",
     "options": [
-      "thích hơn",
-      "tìm thấy",
+      "thông tin",
+      "tình huống",
       "quy trình",
       "cơm gà"
     ],
@@ -1596,9 +1606,9 @@
     "prompt": "Chọn nghĩa của “root cause”.",
     "options": [
       "nguyên nhân gốc rễ",
-      "trà",
+      "trách nhiệm phụ trách",
       "con gái",
-      "việc thu thập"
+      "việc tiêu chuẩn hóa"
     ],
     "answer": "nguyên nhân gốc rễ",
     "vocabId": "v-6730f85c1352",
@@ -1821,7 +1831,7 @@
     "options": [
       "các khiếu nại",
       "vấn đề; khó khăn",
-      "tăng; sự gia tăng",
+      "tấm; đĩa",
       "bạn có phiền không"
     ],
     "answer": "vấn đề; khó khăn",
@@ -1863,9 +1873,9 @@
     "prompt": "Chọn nghĩa của “action plan”.",
     "options": [
       "bị hỏng",
-      "vui vẻ",
+      "ví dụ",
       "kế hoạch hành động",
-      "không có gì (đáp lại lời cảm ơn)"
+      "không có vấn đề gì"
     ],
     "answer": "kế hoạch hành động",
     "vocabId": "v-56019fb78ba4",
@@ -1997,7 +2007,7 @@
       "kiểm tra",
       "chậm tiến độ",
       "bị lỏng",
-      "nghĩ"
+      "ngoài ra"
     ],
     "answer": "kiểm tra",
     "vocabId": "v-d56d985300d4",
@@ -2084,7 +2094,7 @@
     "prompt": "Chọn nghĩa của “operators”.",
     "options": [
       "kết quả kiểm thử",
-      "sự tái diễn",
+      "tham gia",
       "những người vận hành",
       "các từ"
     ],
@@ -2175,7 +2185,7 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “confirm”.",
     "options": [
-      "ra mắt; triển khai",
+      "rảnh; miễn phí; tự do",
       "xác nhận",
       "mì",
       "hạn chót"
@@ -2309,7 +2319,7 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “procedure”.",
     "options": [
-      "trước; về phía trước",
+      "trưởng nhóm",
       "giá tiền",
       "năm",
       "quy trình hướng dẫn"
@@ -2488,8 +2498,8 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “completed”.",
     "options": [
-      "thử; cố gắng",
-      "mất",
+      "thử; cố gắng (dạng -ing)",
+      "mất điện",
       "đã hoàn thành",
       "bị trộn lẫn"
     ],
@@ -2534,7 +2544,7 @@
     "options": [
       "việc theo dõi",
       "ghế",
-      "thời gian",
+      "thời gian dừng máy",
       "dây chuyền; hàng"
     ],
     "answer": "việc theo dõi",
@@ -2579,7 +2589,7 @@
     "prompt": "Chọn nghĩa của “defects”.",
     "options": [
       "chờ đợi (dạng -ing)",
-      "tổn thất",
+      "từ xa",
       "giảm; sự suy giảm",
       "các lỗi sản phẩm"
     ],
@@ -2670,10 +2680,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “important”.",
     "options": [
-      "ra mắt; triển khai",
-      "theo dõi tiếp; đôn đốc",
+      "rảnh; miễn phí; tự do",
+      "theo như",
       "quan trọng",
-      "cứ tự nhiên"
+      "cửa sổ"
     ],
     "answer": "quan trọng",
     "vocabId": "v-5b4009518b37",
@@ -2715,10 +2725,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “cost reduction”.",
     "options": [
-      "thú vị",
-      "chân không",
+      "thời gian dừng máy",
+      "chính",
       "giảm chi phí",
-      "cảm thấy"
+      "cảm ơn"
     ],
     "answer": "giảm chi phí",
     "vocabId": "v-8288cac5588a",
@@ -2804,8 +2814,8 @@
     "prompt": "Chọn nghĩa của “root cause”.",
     "options": [
       "các thay đổi",
-      "phản hồi",
-      "tái diễn",
+      "phần cuối",
+      "tìm thấy",
       "nguyên nhân gốc rễ"
     ],
     "answer": "nguyên nhân gốc rễ",
@@ -2893,9 +2903,9 @@
     "prompt": "Chọn nghĩa của “checklist”.",
     "options": [
       "chương trình họp",
-      "nhãn; dán nhãn",
+      "nhìn; trông có vẻ",
       "danh sách kiểm tra",
-      "kết quả"
+      "kết quả kiểm thử"
     ],
     "answer": "danh sách kiểm tra",
     "vocabId": "v-ff744cd08217",
@@ -2983,8 +2993,8 @@
     "options": [
       "phân tích",
       "ý kiến phản hồi",
-      "việc điều tra",
-      "đang mưa"
+      "việc đầu tư",
+      "đi bộ"
     ],
     "answer": "ý kiến phản hồi",
     "vocabId": "v-ef15f48c9654",
@@ -3029,7 +3039,7 @@
     "options": [
       "cuối tuần",
       "thay đổi",
-      "việc tiêu chuẩn hóa",
+      "việc đi bộ",
       "bị hỏng"
     ],
     "answer": "thay đổi",
@@ -3071,7 +3081,7 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “root cause”.",
     "options": [
-      "văn phòng",
+      "vấn đề",
       "các lựa chọn",
       "không đủ",
       "nguyên nhân gốc rễ"
@@ -3208,7 +3218,7 @@
     "options": [
       "các sai sót",
       "khó khăn",
-      "rời đi",
+      "rủi ro",
       "có thể chấp nhận"
     ],
     "answer": "có thể chấp nhận",
@@ -3303,7 +3313,7 @@
     "prompt": "Chọn nghĩa của “recurring”.",
     "options": [
       "nhãn; dán nhãn",
-      "thời gian rảnh",
+      "thức ăn",
       "những người vận hành",
       "tái diễn"
     ],
@@ -3853,7 +3863,7 @@
     "options": [
       "đã tăng",
       "do đó",
-      "ít hơn",
+      "ý kiến phản hồi",
       "có hiệu quả"
     ],
     "answer": "đã tăng",
@@ -4282,7 +4292,7 @@
     "prompt": "Chọn nghĩa của “approval”.",
     "options": [
       "kết quả kiểm thử",
-      "việc ngắt lời",
+      "việc ngủ",
       "mất điện",
       "sự phê duyệt"
     ],
@@ -4651,7 +4661,7 @@
     "prompt": "Chọn nghĩa của “early”.",
     "options": [
       "báo cáo",
-      "yêu cầu",
+      "xác định",
       "sớm",
       "dừng lại"
     ],
@@ -4714,7 +4724,12 @@
     "answer": "colleague",
     "vocabId": "v-ace6752be4cc",
     "correctSentence": "May I introduce my colleague?",
-    "explanation": "Điền “colleague” với nghĩa “đồng nghiệp” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
+    "explanation": "Điền “colleague” với nghĩa “đồng nghiệp” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu.",
+    "acceptedAnswers": [
+      "coworker",
+      "co-worker"
+    ],
+    "variantNote": "Có thể dùng biến thể đã được duyệt nếu giữ đúng nghĩa và cấu trúc. Đáp án mẫu chỉ là một cách diễn đạt."
   },
   {
     "id": "105-order",
@@ -4831,9 +4846,9 @@
     "prompt": "Chọn nghĩa của “let me know”.",
     "options": [
       "hãy cho tôi biết",
-      "xe đạp",
-      "đồng nghiệp",
-      "các trách nhiệm"
+      "xem lại; ôn tập",
+      "đồng ý",
+      "các từ"
     ],
     "answer": "hãy cho tôi biết",
     "vocabId": "v-85973bd151f0",
@@ -4874,9 +4889,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “thank you”.",
     "options": [
-      "gần hơn",
-      "khó khăn",
-      "phát hiện",
+      "gần nhất",
+      "khóa học",
+      "phân tích",
       "cảm ơn"
     ],
     "answer": "cảm ơn",
@@ -5007,7 +5022,7 @@
     "prompt": "Chọn nghĩa của “excuse me”.",
     "options": [
       "phẳng",
-      "ổn định",
+      "ổn; tốt",
       "xin phép; xin lỗi để gây chú ý",
       "việc học"
     ],
@@ -5054,7 +5069,7 @@
       "không có vấn đề gì",
       "từ",
       "bất cứ lúc nào",
-      "đọc"
+      "đồng nghiệp"
     ],
     "answer": "không có vấn đề gì",
     "vocabId": "v-7bf7ca17c6c6",
@@ -5095,8 +5110,8 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “you're welcome”.",
     "options": [
-      "thiết bị",
-      "gửi",
+      "thiết lập ban đầu",
+      "hai lần",
       "không có gì (đáp lại lời cảm ơn)",
       "cuộc họp"
     ],
@@ -5278,8 +5293,8 @@
     "prompt": "Chọn nghĩa của “extension”.",
     "options": [
       "sự gia hạn",
-      "tìm thấy",
-      "về nhà",
+      "tình huống",
+      "vị trí",
       "cứ tự nhiên"
     ],
     "answer": "sự gia hạn",
@@ -5508,7 +5523,7 @@
     "options": [
       "chủ yếu; quan trọng",
       "cao nhất",
-      "hằng tháng",
+      "học",
       "khiếu nại của khách hàng"
     ],
     "answer": "khiếu nại của khách hàng",
@@ -5553,8 +5568,8 @@
     "options": [
       "ban đêm",
       "kiểm tra chất lượng",
-      "khách hàng",
-      "sự tái diễn"
+      "khí bị giữ lại",
+      "thay thế"
     ],
     "answer": "kiểm tra chất lượng",
     "vocabId": "v-90f9b69fcbf8",
@@ -5596,10 +5611,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “labor cost”.",
     "options": [
-      "giảm chi phí",
-      "hiểu",
+      "giảm; sự suy giảm",
+      "hiệu quả; có năng suất",
       "chi phí nhân công",
-      "ưu tiên"
+      "ước"
     ],
     "answer": "chi phí nhân công",
     "vocabId": "v-706b5235e9f3",
@@ -5615,7 +5630,11 @@
     "answer": "labor cost",
     "vocabId": "v-706b5235e9f3",
     "correctSentence": "Our target is to save labor cost.",
-    "explanation": "Điền “labor cost” với nghĩa “chi phí nhân công” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
+    "explanation": "Điền “labor cost” với nghĩa “chi phí nhân công” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu.",
+    "acceptedAnswers": [
+      "labour cost"
+    ],
+    "variantNote": "Có thể dùng biến thể đã được duyệt nếu giữ đúng nghĩa và cấu trúc. Đáp án mẫu chỉ là một cách diễn đạt."
   },
   {
     "id": "125-order",
@@ -5643,8 +5662,8 @@
     "prompt": "Chọn nghĩa của “root cause”.",
     "options": [
       "cho xuất; phát hành",
-      "thư điện tử",
-      "thông tin",
+      "thời gian",
+      "thú vị",
       "nguyên nhân gốc rễ"
     ],
     "answer": "nguyên nhân gốc rễ",
@@ -5687,7 +5706,7 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “on track”.",
     "options": [
-      "trả lời",
+      "tuy nhiên",
       "thời gian",
       "đúng tiến độ",
       "bỏ qua"
@@ -5733,9 +5752,9 @@
     "prompt": "Chọn nghĩa của “completed”.",
     "options": [
       "đã hoàn thành",
-      "ngoài ra",
+      "nguyên nhân gốc rễ",
       "gọi lại cho bạn",
-      "sách; đặt chỗ"
+      "sân bay"
     ],
     "answer": "đã hoàn thành",
     "vocabId": "v-231e564db4cd",
@@ -5777,9 +5796,9 @@
     "prompt": "Chọn nghĩa của “approval”.",
     "options": [
       "sự phê duyệt",
-      "đã được quan sát",
-      "thử; cố gắng",
-      "số lượng"
+      "đúng giờ",
+      "thử; cố gắng (dạng -ing)",
+      "sớm"
     ],
     "answer": "sự phê duyệt",
     "vocabId": "v-59494695a317",
@@ -5870,7 +5889,7 @@
     "prompt": "Chọn nghĩa của “ahead of schedule”.",
     "options": [
       "sớm hơn tiến độ",
-      "đã nhận",
+      "đã tìm thấy",
       "mẫu",
       "kết quả kiểm thử"
     ],
@@ -6100,9 +6119,9 @@
     "prompt": "Chọn nghĩa của “productivity”.",
     "options": [
       "năng suất",
-      "sự chậm trễ; trì hoãn",
-      "nhà",
-      "thú vị"
+      "sự cải tiến",
+      "nhà cung cấp",
+      "thư điện tử"
     ],
     "answer": "năng suất",
     "vocabId": "v-0d117e422ae6",
@@ -6192,9 +6211,9 @@
     "prompt": "Chọn nghĩa của “cost reduction”.",
     "options": [
       "giảm chi phí",
-      "một lát",
-      "dây chuyền sản xuất",
-      "niềm vui"
+      "mới nhất",
+      "dây chuyền; hàng",
+      "năng suất"
     ],
     "answer": "giảm chi phí",
     "vocabId": "v-8288cac5588a",
@@ -6282,7 +6301,7 @@
     "options": [
       "cuối cùng; vừa qua",
       "nguyên nhân gốc rễ",
-      "đã tìm thấy",
+      "đã tăng",
       "bất cứ lúc nào"
     ],
     "answer": "nguyên nhân gốc rễ",
@@ -6557,10 +6576,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “inspection”.",
     "options": [
-      "các đồ gá",
+      "câu hỏi",
       "kiểm tra chất lượng",
-      "các ý tưởng",
-      "tuy nhiên"
+      "các điều kiện",
+      "tác động"
     ],
     "answer": "kiểm tra chất lượng",
     "vocabId": "v-90f9b69fcbf8",
@@ -6604,7 +6623,7 @@
     "options": [
       "tiềm ẩn; có tiềm năng",
       "có nghĩa là; muốn nói",
-      "tấm; đĩa",
+      "tần suất",
       "sự tái diễn"
     ],
     "answer": "sự tái diễn",
@@ -6650,9 +6669,9 @@
     "prompt": "Chọn nghĩa của “as a result”.",
     "options": [
       "kết quả là",
-      "văn phòng",
-      "tóm tắt",
-      "ngoài ra"
+      "vấn đề",
+      "tăng; sự gia tăng",
+      "nguyên nhân gốc rễ"
     ],
     "answer": "kết quả là",
     "vocabId": "v-74d348a2d9fd",
@@ -6743,10 +6762,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “action plan”.",
     "options": [
-      "nghĩ",
+      "ngoài ra",
       "kế hoạch hành động",
-      "đợt chạy thử",
-      "loại bỏ"
+      "đừng lo",
+      "làm ơn; vui lòng"
     ],
     "answer": "kế hoạch hành động",
     "vocabId": "v-56019fb78ba4",
@@ -6789,10 +6808,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “corrective action”.",
     "options": [
-      "vấn đề; khó khăn",
-      "về nhà",
+      "vật liệu",
+      "vị trí",
       "hành động khắc phục",
-      "ngày"
+      "ngày nghỉ"
     ],
     "answer": "hành động khắc phục",
     "vocabId": "v-ff4141bf61e1",
@@ -6881,7 +6900,7 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “approval”.",
     "options": [
-      "quy trình hướng dẫn",
+      "quyết định",
       "chậm rãi",
       "sự phê duyệt",
       "bị hỏng"
@@ -7063,7 +7082,7 @@
     "options": [
       "tái diễn",
       "giảm; sự suy giảm",
-      "trách nhiệm phụ trách",
+      "trân trọng; đánh giá cao",
       "quy trình hướng dẫn"
     ],
     "answer": "tái diễn",
@@ -7203,8 +7222,8 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “preventive actions”.",
     "options": [
-      "lịch trình",
-      "rủi ro",
+      "lỗi sản phẩm",
+      "sách; đặt chỗ",
       "các thay đổi",
       "các hành động phòng ngừa"
     ],
@@ -7294,8 +7313,8 @@
     "options": [
       "kế hoạch hành động",
       "cha mẹ",
-      "tác động",
-      "việc đầu tư"
+      "tìm thấy",
+      "việc đọc"
     ],
     "answer": "kế hoạch hành động",
     "vocabId": "v-56019fb78ba4",
@@ -7338,10 +7357,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “customer”.",
     "options": [
-      "sự phê duyệt",
-      "nước",
+      "sự thiếu",
+      "phân công",
       "khách hàng",
-      "trả lời"
+      "tuần"
     ],
     "answer": "khách hàng",
     "vocabId": "v-b39f008e318e",
@@ -7383,10 +7402,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “cost saving”.",
     "options": [
-      "cuối cùng; vừa qua",
+      "cuối tuần",
       "tiết kiệm chi phí",
-      "đang mưa",
-      "kiểm thử; phép thử"
+      "đi bộ",
+      "kiểm tra"
     ],
     "answer": "tiết kiệm chi phí",
     "vocabId": "v-88a1cf74bc57",
@@ -7429,7 +7448,7 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “action plan”.",
     "options": [
-      "xem lại; ôn tập",
+      "xin phép; xin lỗi để gây chú ý",
       "chuyến đi",
       "buổi tối",
       "kế hoạch hành động"
@@ -7475,9 +7494,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “definition”.",
     "options": [
-      "tiếp tục",
+      "tiết kiệm chi phí",
       "cập nhật",
-      "tái diễn",
+      "tìm thấy",
       "định nghĩa"
     ],
     "answer": "định nghĩa",
@@ -7523,7 +7542,7 @@
     "options": [
       "giờ",
       "kết quả kiểm thử",
-      "độ ẩm không khí",
+      "đứa trẻ",
       "chủ yếu; quan trọng"
     ],
     "answer": "kết quả kiểm thử",
@@ -7614,8 +7633,8 @@
     "options": [
       "trưởng nhóm",
       "hành động khắc phục",
-      "tuy nhiên",
-      "số lượng"
+      "tuần",
+      "sớm"
     ],
     "answer": "trưởng nhóm",
     "vocabId": "v-788497e72fe5",
@@ -7658,9 +7677,9 @@
     "prompt": "Chọn nghĩa của “customer”.",
     "options": [
       "khách hàng",
-      "đúng tiến độ",
-      "lỗi sản phẩm",
-      "đồng ý"
+      "được cập nhật",
+      "lớp lót",
+      "độ ẩm không khí"
     ],
     "answer": "khách hàng",
     "vocabId": "v-b39f008e318e",
@@ -7703,9 +7722,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “follow up”.",
     "options": [
-      "theo ý kiến của tôi",
-      "đã được quan sát",
-      "đến nơi",
+      "thiết bị",
+      "đúng giờ",
+      "đề xuất",
       "theo dõi tiếp; đôn đốc"
     ],
     "answer": "theo dõi tiếp; đôn đốc",
@@ -7767,7 +7786,11 @@
     "answer": "summarize",
     "vocabId": "v-e7e5cb2f5eb7",
     "correctSentence": "To summarize, we have three actions.",
-    "explanation": "Điền “summarize” với nghĩa “tóm tắt” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
+    "explanation": "Điền “summarize” với nghĩa “tóm tắt” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu.",
+    "acceptedAnswers": [
+      "summarise"
+    ],
+    "variantNote": "Có thể dùng biến thể đã được duyệt nếu giữ đúng nghĩa và cấu trúc. Đáp án mẫu chỉ là một cách diễn đạt."
   },
   {
     "id": "172-order",
@@ -7886,9 +7909,9 @@
     "prompt": "Chọn nghĩa của “customer complaint”.",
     "options": [
       "cao nhất",
-      "nhắn tin",
+      "niềm vui",
       "khiếu nại của khách hàng",
-      "gặp gỡ"
+      "gọi lại cho bạn"
     ],
     "answer": "khiếu nại của khách hàng",
     "vocabId": "v-5545a3812ab6",
@@ -8024,9 +8047,9 @@
     "prompt": "Chọn nghĩa của “window seat”.",
     "options": [
       "các khiếu nại",
-      "phòng",
+      "phòng ban",
       "ghế cạnh cửa sổ",
-      "theo dõi tiếp; đôn đốc"
+      "theo như"
     ],
     "answer": "ghế cạnh cửa sổ",
     "vocabId": "v-1435b2082842",
@@ -8162,8 +8185,8 @@
     "options": [
       "cửa sổ",
       "các bước",
-      "vui; tốt đẹp",
-      "thời gian dừng máy"
+      "ví dụ",
+      "thời gian rảnh"
     ],
     "answer": "cửa sổ",
     "vocabId": "v-320ad267d8d9",
@@ -8207,7 +8230,7 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “day off”.",
     "options": [
-      "nói cách khác",
+      "năm",
       "gần nhất",
       "ngày nghỉ",
       "lợi ích"
@@ -8363,7 +8386,11 @@
     "answer": "vacation",
     "vocabId": "v-18c0f103187c",
     "correctSentence": "I can't wait to go on vacation.",
-    "explanation": "Điền “vacation” với nghĩa “kỳ nghỉ” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
+    "explanation": "Điền “vacation” với nghĩa “kỳ nghỉ” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu.",
+    "acceptedAnswers": [
+      "holiday"
+    ],
+    "variantNote": "Có thể dùng biến thể đã được duyệt nếu giữ đúng nghĩa và cấu trúc. Đáp án mẫu chỉ là một cách diễn đạt."
   },
   {
     "id": "185-order",
@@ -8391,7 +8418,7 @@
     "prompt": "Chọn nghĩa của “free time”.",
     "options": [
       "ngăn ngừa",
-      "việc ghi nhớ",
+      "việc học",
       "lặp lại",
       "thời gian rảnh"
     ],
@@ -8437,7 +8464,7 @@
       "cuối tuần",
       "lợi ích",
       "phản hồi",
-      "đợt chạy thử"
+      "đứa trẻ"
     ],
     "answer": "cuối tuần",
     "vocabId": "v-505eabdfb808",
@@ -8612,10 +8639,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “product”.",
     "options": [
-      "đã cải thiện",
-      "đúng lịch",
+      "đã hoàn thành",
+      "được cập nhật",
       "sản phẩm",
-      "sự chậm trễ; trì hoãn"
+      "sự gia hạn"
     ],
     "answer": "sản phẩm",
     "vocabId": "v-38a007151abe",
@@ -8706,10 +8733,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “understanding”.",
     "options": [
-      "theo như",
-      "đã gửi",
+      "theo ý kiến của tôi",
+      "đã hoàn thành",
       "việc hiểu",
-      "phát hiện"
+      "phân công"
     ],
     "answer": "việc hiểu",
     "vocabId": "v-14a9d766458d",
@@ -8813,7 +8840,11 @@
     "answer": "vacation",
     "vocabId": "v-18c0f103187c",
     "correctSentence": "I can't afford to take a long vacation.",
-    "explanation": "Điền “vacation” với nghĩa “kỳ nghỉ” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu."
+    "explanation": "Điền “vacation” với nghĩa “kỳ nghỉ” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu.",
+    "acceptedAnswers": [
+      "holiday"
+    ],
+    "variantNote": "Có thể dùng biến thể đã được duyệt nếu giữ đúng nghĩa và cấu trúc. Đáp án mẫu chỉ là một cách diễn đạt."
   },
   {
     "id": "195-order",

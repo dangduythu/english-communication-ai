@@ -1,6 +1,6 @@
 const PREFIX='english-communication-ai-';
-const CACHE=PREFIX+'v2-cache-2';
-const ASSETS=['./','./index.html','./style.css','./style.css?v=2.0.1','./app.js','./app.js?v=2.0.1','./core.js','./core.js?v=2.0.1','./manifest.webmanifest','./assets/icon.svg','./data/lessons.json','./data/vocabulary.json','./data/vocabulary.json?v=2.0.1','./data/exercises.json','./data/exercises.json?v=2.0.1'];
+const CACHE=PREFIX+'v21-cache-1';
+const ASSETS=['./','./index.html','./style.css','./style.css?v=2.1.0','./app.js','./app.js?v=2.1.0','./core.js','./core.js?v=2.1.0','./manifest.webmanifest','./assets/icon.svg','./data/lessons.json','./data/vocabulary.json','./data/vocabulary.json?v=2.1.0','./data/exercises.json','./data/exercises.json?v=2.1.0'];
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(c=>c.addAll(ASSETS.map(path=>new Request(path,{cache:'reload'})))).then(()=>self.skipWaiting())));
 self.addEventListener('activate',event=>event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith(PREFIX)&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
 self.addEventListener('fetch',event=>{
