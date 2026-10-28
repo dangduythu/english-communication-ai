@@ -85,6 +85,7 @@ const server=http.createServer((req,res)=>{
 async function checkV2(page,legacy,viewport){
  const state=()=>page.evaluate(()=>JSON.parse(localStorage.getItem('english-communication-ai:v1')));
  await page.locator('[data-nav="vocabulary"]').first().click();
+ await page.locator('#vlesson').selectOption('2');assert.ok(!(await page.locator('.vocab-card h3').allTextContents()).includes('meeting'),'outdated or wrong meeting sense in lesson 2');
  await page.locator('#vlesson').selectOption('1');
  assert.ok(await page.locator('.vocab-card').count()>=5);
  const wordId=vocabulary.byLesson['1'][0];
