@@ -78,6 +78,7 @@ const server=http.createServer((req,res)=>{
   console.log(`PASS ${viewport.width}px: all 197 lessons / 985 examples, filters, notes, completion, statistics, review, backup/import, reset cancellation, offline, layout`);
   await context.close();
  }
+ await checkCorruptRecovery(browser,url);
  }finally{await browser.close()}
 })().then(()=>server.close()).catch(e=>{console.error(e);server.close();process.exitCode=1});
 
@@ -120,4 +121,19 @@ async function checkV2(page,legacy,viewport){
  await page.locator('[data-nav="settings"]').first().click();page.once('dialog',d=>d.accept());await page.locator('#import').setInputFiles({name:'v1.json',mimeType:'application/json',buffer:Buffer.from(JSON.stringify({version:1,data:legacy}))});
  await page.waitForFunction(()=>document.querySelector('#toast')?.textContent.includes('thành công'),null,{timeout:5000});assert.deepEqual((await state()).words,saved.words);assert.deepEqual((await state()).answers,saved.answers);
  console.log(`PASS V2 ${viewport.width}px: V1 migration, vocabulary, flashcards, three exercise types, first vs retry scores, corrections, mistake queue, persistence and legacy import`);
+}
+
+async function checkCorruptRecovery(browser,url){
+ for(const raw of ['{broken JSON',JSON.stringify({completed:null,notes:{},reviews:{}})]){
+  const context=await browser.newContext({reducedMotion:'reduce'});await context.addInitScript(raw=>{if(!localStorage.getItem('english-communication-ai:v1'))localStorage.setItem('english-communication-ai:v1',raw)},raw);
+  const page=await context.newPage();await page.goto(url);await page.locator('[data-nav="settings"]').first().click();assert.ok(await page.locator('#export-raw').isVisible());
+  const restored={completed:{1:'2026-10-01'},notes:{1:'Recovered note'},reviews:{},startedAt:'2026-10-01'};
+  assert.equal(await page.evaluate(()=>localStorage.getItem('english-communication-ai:v1')),raw);
+  page.once('dialog',d=>d.accept());await page.locator('#import').setInputFiles({name:'recovery.json',mimeType:'application/json',buffer:Buffer.from(JSON.stringify({version:1,data:restored}))});
+  await page.waitForFunction(()=>document.querySelector('#toast')?.textContent.includes('thành công'),null,{timeout:5000});
+  const saved=await page.evaluate(()=>JSON.parse(localStorage.getItem('english-communication-ai:v1')));assert.deepEqual(saved.completed,restored.completed);assert.equal(saved.notes[1],'Recovered note');
+  assert.equal(await page.evaluate(()=>localStorage.getItem('english-communication-ai:v1:before-v2')),raw);
+  await page.reload();await page.locator('[data-nav="settings"]').first().click();assert.equal(await page.locator('#export-raw').count(),0);await context.close();
+ }
+ console.log('PASS recovery: malformed and structurally invalid local data remain preserved and can be replaced by a valid confirmed backup');
 }
