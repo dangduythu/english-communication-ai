@@ -1,6 +1,6 @@
 const PREFIX='english-communication-ai-';
-const CACHE=PREFIX+'v1-cache-2';
-const ASSETS=['./','./index.html','./style.css','./app.js','./manifest.webmanifest','./assets/icon.svg','./data/lessons.json'];
+const CACHE=PREFIX+'v2-cache-1';
+const ASSETS=['./','./index.html','./style.css','./app.js','./core.js','./manifest.webmanifest','./assets/icon.svg','./data/lessons.json','./data/vocabulary.json','./data/exercises.json'];
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(c=>c.addAll(ASSETS)).then(()=>self.skipWaiting())));
 self.addEventListener('activate',event=>event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith(PREFIX)&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
 self.addEventListener('fetch',event=>{

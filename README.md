@@ -1,60 +1,29 @@
-# English Communication AI · V1
+# English Communication AI · V2
 
-Phần mềm luyện giao tiếp tiếng Anh Web/PWA, được xây dựng trực tiếp từ Excel của người dùng: **197 bài, 985 ví dụ, 8 nhóm chủ đề**.
+Web/PWA luyện giao tiếp tiếng Anh với 197 bài học, 985 ví dụ Anh–Việt, 432 mục từ vựng và 591 bài tập có chấm điểm.
 
-## Khởi động (không cần cài npm)
+Website: https://dangduythu.github.io/english-communication-ai/
 
-1. Giải nén thư mục.
-2. Cài Python 3 nếu máy chưa có.
-3. Mở terminal tại thư mục `english-communication-ai-v1`.
-4. Chạy:
+## Chức năng
+- Học cấu trúc, nghe ví dụ và lưu câu tự viết.
+- Học từ vựng theo bài; lưu vào sổ từ, học thẻ và ôn cách quãng.
+- Trắc nghiệm, điền từ, sắp xếp câu; chấm điểm và giải thích lỗi.
+- Tách kết quả lần đầu với kết quả gần nhất; ôn lại câu từng sai.
+- Theo dõi tiến độ; sao lưu/khôi phục JSON V1 và V2; offline sau lần tải đầu.
 
-```bash
-python -m http.server 8000
+Tiến độ lưu trong trình duyệt hiện tại. Chưa có tài khoản, đồng bộ đám mây, hội thoại AI hoặc chấm phát âm. Giọng đọc dùng khả năng có sẵn của trình duyệt. Câu tự viết chưa được chấm tự động.
+
+## Chạy và kiểm tra
+
+```sh
+python3 -m http.server 8000
+python3 tests/verify_data.py
+npm ci
+npm run test:logic
+npx playwright install --with-deps chromium
+npm test
 ```
 
-5. Truy cập **http://localhost:8000** bằng Chrome hoặc Edge.
+Mở `http://localhost:8000/` để dùng ứng dụng. Bộ kiểm thử tự mở server tại đường dẫn con giống GitHub Pages.
 
-Không mở `index.html` trực tiếp bằng `file://` vì fetch JSON/PWA không hoạt động như mong muốn.
-
-## Chạy trên mạng / điện thoại
-
-Để dùng trên điện thoại từ một máy khác, triển khai thư mục lên host HTTPS tĩnh như Cloudflare Pages, Netlify, GitHub Pages (cần đặt đúng base path), hoặc máy chủ HTTPS của bạn. PWA chỉ được cài trong ngữ cảnh bảo mật (localhost hoặc HTTPS).
-
-## Tính năng V1
-
-- Dashboard và bài học tiếp theo tự động.
-- 197 cấu trúc, 5 câu ví dụ mỗi bài, dịch tiếng Việt.
-- Phát âm mẫu bằng Web Speech Synthesis của trình duyệt.
-- Ghi câu tự đặt, đánh dấu hoàn thành, tiến độ theo nhóm.
-- Tìm kiếm, lọc, ôn tập 1/3/7/14/30 ngày.
-- Export / import backup JSON; lưu localStorage.
-- PWA cache dữ liệu để mở offline sau lần truy cập đầu tiên thành công.
-
-## Cấu trúc
-
-```text
-index.html                HTML app shell
-style.css                 Giao diện responsive
-app.js                    UI logic và trình điều hướng
-data/lessons.json         Dữ liệu gốc chuyển từ Excel
-manifest.webmanifest      Cấu hình PWA
-sw.js                     Service worker
-assets/icon.svg           Icon
-docs/ARCHITECTURE.md      Kiến trúc, API, kế hoạch mã nguồn
-docs/schema-v2.sql        Thiết kế CSDL PostgreSQL cho V2
-```
-
-## Các hạn chế cần biết
-
-- V1 không có AI, không chấm phát âm và chưa có đăng nhập.
-- Tiến độ nằm ở localStorage theo trình duyệt; sao lưu trước khi xóa dữ liệu website.
-- Giọng đọc phụ thuộc vào giọng được cung cấp bởi thiết bị và browser.
-- Nội dung Excel được nhập nguyên văn, chưa biên tập chất lượng từng câu.
-- Source V1 chỉ dùng HTML/CSS/JS native, để không yêu cầu cài package và dễ chạy thử; kế hoạch React + TypeScript/FastAPI/Supabase mô tả ở `docs/ARCHITECTURE.md`.
-
-## Kiểm tra tự động
-
-```bash
-python tests/verify_data.py
-```
+Chi tiết dữ liệu và tương thích: [docs/V2.md](docs/V2.md). Bản V1 gốc được lưu trên nhánh `archive/v1-original`.

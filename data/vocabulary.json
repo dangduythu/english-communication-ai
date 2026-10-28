@@ -1,0 +1,7002 @@
+{
+  "entries": [
+    {
+      "id": "v-a827f279cb24",
+      "en": "production line",
+      "vi": "dây chuyền sản xuất",
+      "kind": "phrase",
+      "example": "How are things on the production line?",
+      "translation": "Tình hình trên chuyền sản xuất thế nào?",
+      "lessonIds": [
+        1
+      ]
+    },
+    {
+      "id": "v-505eabdfb808",
+      "en": "weekend",
+      "vi": "cuối tuần",
+      "kind": "word",
+      "example": "How was your weekend?",
+      "translation": "Cuối tuần của bạn thế nào?",
+      "lessonIds": [
+        1,
+        7,
+        68,
+        187
+      ]
+    },
+    {
+      "id": "v-c33f059b0ca7",
+      "en": "family",
+      "vi": "gia đình",
+      "kind": "word",
+      "example": "How is your family?",
+      "translation": "Gia đình bạn thế nào?",
+      "lessonIds": [
+        1,
+        61,
+        72,
+        185,
+        196
+      ]
+    },
+    {
+      "id": "v-2dd2bed72567",
+      "en": "today",
+      "vi": "hôm nay",
+      "kind": "word",
+      "example": "How are you today?",
+      "translation": "Hôm nay bạn thế nào?",
+      "lessonIds": [
+        1,
+        2,
+        36,
+        48,
+        51,
+        70,
+        97,
+        102,
+        111,
+        119,
+        123,
+        170
+      ]
+    },
+    {
+      "id": "v-264f39cab871",
+      "en": "line",
+      "vi": "dây chuyền; hàng",
+      "kind": "word",
+      "example": "How are things on the production line?",
+      "translation": "Tình hình trên chuyền sản xuất thế nào?",
+      "lessonIds": [
+        1,
+        11,
+        21,
+        44,
+        55,
+        65,
+        69,
+        74,
+        81,
+        96,
+        116,
+        117,
+        159,
+        172,
+        191
+      ]
+    },
+    {
+      "id": "v-e274eeff768c",
+      "en": "work",
+      "vi": "công việc; làm việc",
+      "kind": "word",
+      "example": "How is work going?",
+      "translation": "Công việc dạo này thế nào?",
+      "lessonIds": [
+        1,
+        4,
+        20,
+        46,
+        49,
+        71
+      ]
+    },
+    {
+      "id": "v-a2a75a27ba7f",
+      "en": "nice to meet you",
+      "vi": "rất vui được gặp bạn",
+      "kind": "phrase",
+      "example": "Nice to meet you, I'm Minh.",
+      "translation": "Rất vui được gặp bạn, tôi là Minh.",
+      "lessonIds": [
+        2
+      ]
+    },
+    {
+      "id": "v-59ea4ada2701",
+      "en": "pleasure",
+      "vi": "niềm vui",
+      "kind": "word",
+      "example": "It's a pleasure to meet you.",
+      "translation": "Rất hân hạnh được gặp bạn.",
+      "lessonIds": [
+        2,
+        114
+      ]
+    },
+    {
+      "id": "v-8f4e3e3c24ba",
+      "en": "finally",
+      "vi": "cuối cùng",
+      "kind": "word",
+      "example": "It's nice to finally meet you.",
+      "translation": "Cuối cùng cũng rất vui được gặp bạn.",
+      "lessonIds": [
+        2
+      ]
+    },
+    {
+      "id": "v-bd7580126b94",
+      "en": "meeting",
+      "vi": "cuộc họp",
+      "kind": "word",
+      "example": "Nice meeting you today.",
+      "translation": "Rất vui được gặp bạn hôm nay.",
+      "lessonIds": [
+        2,
+        6,
+        10,
+        11,
+        20,
+        28,
+        35,
+        38,
+        41,
+        48,
+        67,
+        80,
+        82,
+        85,
+        86,
+        97,
+        152,
+        161,
+        162,
+        171,
+        179,
+        192,
+        197
+      ]
+    },
+    {
+      "id": "v-392d7871944a",
+      "en": "meet",
+      "vi": "gặp gỡ",
+      "kind": "word",
+      "example": "Nice to meet you, I'm Minh.",
+      "translation": "Rất vui được gặp bạn, tôi là Minh.",
+      "lessonIds": [
+        2,
+        117,
+        130,
+        187
+      ]
+    },
+    {
+      "id": "v-ace6752be4cc",
+      "en": "colleague",
+      "vi": "đồng nghiệp",
+      "kind": "word",
+      "example": "This is my colleague, Lan.",
+      "translation": "Đây là đồng nghiệp của tôi, Lan.",
+      "lessonIds": [
+        3,
+        5,
+        105
+      ]
+    },
+    {
+      "id": "v-6490e67e8283",
+      "en": "daughter",
+      "vi": "con gái",
+      "kind": "word",
+      "example": "This is my daughter.",
+      "translation": "Đây là con gái tôi.",
+      "lessonIds": [
+        3,
+        179
+      ]
+    },
+    {
+      "id": "v-8d7050ffcf7a",
+      "en": "engineer",
+      "vi": "kỹ sư",
+      "kind": "word",
+      "example": "This is our new engineer.",
+      "translation": "Đây là kỹ sư mới của chúng tôi.",
+      "lessonIds": [
+        3,
+        4,
+        34
+      ]
+    },
+    {
+      "id": "v-1481d0a0ceb1",
+      "en": "latest",
+      "vi": "mới nhất",
+      "kind": "word",
+      "example": "This is the latest report.",
+      "translation": "Đây là báo cáo mới nhất.",
+      "lessonIds": [
+        3
+      ]
+    },
+    {
+      "id": "v-a27297bde973",
+      "en": "report",
+      "vi": "báo cáo",
+      "kind": "word",
+      "example": "This is the latest report.",
+      "translation": "Đây là báo cáo mới nhất.",
+      "lessonIds": [
+        3,
+        9,
+        12,
+        13,
+        27,
+        29,
+        39,
+        45,
+        48,
+        53,
+        57,
+        67,
+        106,
+        119,
+        128,
+        165,
+        170,
+        173,
+        179
+      ]
+    },
+    {
+      "id": "v-2739bb260ce4",
+      "en": "found",
+      "vi": "đã tìm thấy",
+      "kind": "word",
+      "example": "This is the main issue we found.",
+      "translation": "Đây là vấn đề chính chúng tôi phát hiện.",
+      "lessonIds": [
+        3,
+        15,
+        143
+      ]
+    },
+    {
+      "id": "v-eb3c62690ec9",
+      "en": "department",
+      "vi": "phòng ban",
+      "kind": "word",
+      "example": "Which department do you work in?",
+      "translation": "Bạn làm ở bộ phận nào?",
+      "lessonIds": [
+        4
+      ]
+    },
+    {
+      "id": "v-c2e2d6621334",
+      "en": "process",
+      "vi": "quy trình",
+      "kind": "word",
+      "example": "I work as a process engineer.",
+      "translation": "Tôi làm kỹ sư quy trình.",
+      "lessonIds": [
+        4,
+        22,
+        33,
+        34,
+        50,
+        72,
+        86,
+        88,
+        121,
+        135,
+        149,
+        163,
+        165
+      ]
+    },
+    {
+      "id": "v-d25187dc137f",
+      "en": "team",
+      "vi": "nhóm",
+      "kind": "word",
+      "example": "What does your team do?",
+      "translation": "Nhóm của bạn phụ trách việc gì?",
+      "lessonIds": [
+        4,
+        9,
+        15,
+        51,
+        55,
+        63,
+        76
+      ]
+    },
+    {
+      "id": "v-97912524f347",
+      "en": "material",
+      "vi": "vật liệu",
+      "kind": "word",
+      "example": "Where does this material come from?",
+      "translation": "Vật liệu này có xuất xứ từ đâu?",
+      "lessonIds": [
+        5,
+        16,
+        78,
+        81,
+        84,
+        86,
+        90,
+        94,
+        139,
+        142,
+        148,
+        152,
+        167
+      ]
+    },
+    {
+      "id": "v-e2979e759574",
+      "en": "supplier",
+      "vi": "nhà cung cấp",
+      "kind": "word",
+      "example": "Our supplier is from Korea.",
+      "translation": "Nhà cung cấp của chúng tôi đến từ Hàn Quốc.",
+      "lessonIds": [
+        5,
+        14,
+        17,
+        43,
+        54,
+        56,
+        64,
+        74,
+        82,
+        97,
+        98,
+        124,
+        129,
+        134,
+        151,
+        153,
+        171,
+        188
+      ]
+    },
+    {
+      "id": "v-2f94522912c7",
+      "en": "Where are you from?",
+      "vi": "Bạn đến từ đâu?",
+      "kind": "expression",
+      "example": "Where are you from?",
+      "translation": "Bạn đến từ đâu?",
+      "lessonIds": [
+        5
+      ]
+    },
+    {
+      "id": "v-6463654671b9",
+      "en": "I'm from Vietnam.",
+      "vi": "Tôi đến từ Việt Nam.",
+      "kind": "expression",
+      "example": "I'm from Vietnam.",
+      "translation": "Tôi đến từ Việt Nam.",
+      "lessonIds": [
+        5
+      ]
+    },
+    {
+      "id": "v-f3f806213d7f",
+      "en": "productive",
+      "vi": "hiệu quả; có năng suất",
+      "kind": "word",
+      "example": "It was productive.",
+      "translation": "Cuộc họp rất hiệu quả.",
+      "lessonIds": [
+        6
+      ]
+    },
+    {
+      "id": "v-0a2b9827e548",
+      "en": "training",
+      "vi": "đào tạo",
+      "kind": "word",
+      "example": "How was the training session?",
+      "translation": "Buổi đào tạo thế nào?",
+      "lessonIds": [
+        6,
+        18,
+        23,
+        72,
+        77,
+        90,
+        92,
+        128,
+        156,
+        169,
+        194
+      ]
+    },
+    {
+      "id": "v-fdd91fbac0e5",
+      "en": "trip",
+      "vi": "chuyến đi",
+      "kind": "word",
+      "example": "How was your trip?",
+      "translation": "Chuyến đi của bạn thế nào?",
+      "lessonIds": [
+        6
+      ]
+    },
+    {
+      "id": "v-a2620cbc10f5",
+      "en": "day",
+      "vi": "ngày",
+      "kind": "word",
+      "example": "How was your day?",
+      "translation": "Ngày hôm nay của bạn thế nào?",
+      "lessonIds": [
+        6,
+        33
+      ]
+    },
+    {
+      "id": "v-d3abab60bb0b",
+      "en": "have a good",
+      "vi": "chúc một ... tốt lành",
+      "kind": "phrase",
+      "example": "Have a good day!",
+      "translation": "Chúc một ngày tốt lành!",
+      "lessonIds": [
+        7
+      ]
+    },
+    {
+      "id": "v-d57fd91679ff",
+      "en": "evening",
+      "vi": "buổi tối",
+      "kind": "word",
+      "example": "Have a nice evening!",
+      "translation": "Chúc một buổi tối vui vẻ!",
+      "lessonIds": [
+        7,
+        189
+      ]
+    },
+    {
+      "id": "v-dbd79b319f5c",
+      "en": "shift",
+      "vi": "ca làm việc",
+      "kind": "word",
+      "example": "Have a good shift!",
+      "translation": "Chúc ca làm việc thuận lợi!",
+      "lessonIds": [
+        7,
+        17,
+        20,
+        21,
+        56,
+        122
+      ]
+    },
+    {
+      "id": "v-5929e58a5aa1",
+      "en": "nice",
+      "vi": "vui; tốt đẹp",
+      "kind": "word",
+      "example": "Have a nice evening!",
+      "translation": "Chúc một buổi tối vui vẻ!",
+      "lessonIds": [
+        7,
+        61
+      ]
+    },
+    {
+      "id": "v-bf31c52c32b0",
+      "en": "safe",
+      "vi": "an toàn",
+      "kind": "word",
+      "example": "Have a safe trip!",
+      "translation": "Chúc chuyến đi an toàn!",
+      "lessonIds": [
+        7
+      ]
+    },
+    {
+      "id": "v-0e8a3ad980ec",
+      "en": "target",
+      "vi": "mục tiêu",
+      "kind": "word",
+      "example": "What is the target yield?",
+      "translation": "Mục tiêu tỷ lệ đạt là bao nhiêu?",
+      "lessonIds": [
+        8,
+        89,
+        132,
+        135,
+        166,
+        168,
+        187
+      ]
+    },
+    {
+      "id": "v-00819c0e54f9",
+      "en": "issue",
+      "vi": "vấn đề",
+      "kind": "word",
+      "example": "What is the issue?",
+      "translation": "Vấn đề là gì?",
+      "lessonIds": [
+        8,
+        45,
+        53,
+        54,
+        58,
+        60,
+        65,
+        67,
+        75,
+        101,
+        127
+      ]
+    },
+    {
+      "id": "v-f12e1e8f455f",
+      "en": "yield",
+      "vi": "tỷ lệ sản phẩm đạt",
+      "kind": "word",
+      "example": "What is the target yield?",
+      "translation": "Mục tiêu tỷ lệ đạt là bao nhiêu?",
+      "lessonIds": [
+        8,
+        71,
+        85,
+        88,
+        91,
+        99,
+        137
+      ]
+    },
+    {
+      "id": "v-bed97175b06e",
+      "en": "plan",
+      "vi": "kế hoạch",
+      "kind": "word",
+      "example": "What is your plan?",
+      "translation": "Kế hoạch của bạn là gì?",
+      "lessonIds": [
+        8,
+        28,
+        190
+      ]
+    },
+    {
+      "id": "v-e318aa1a244c",
+      "en": "What is this part called?",
+      "vi": "Chi tiết này gọi là gì?",
+      "kind": "expression",
+      "example": "What is this part called?",
+      "translation": "Chi tiết này gọi là gì?",
+      "lessonIds": [
+        8
+      ]
+    },
+    {
+      "id": "v-788497e72fe5",
+      "en": "team leader",
+      "vi": "trưởng nhóm",
+      "kind": "phrase",
+      "example": "Who is the new team leader?",
+      "translation": "Ai là trưởng nhóm mới?",
+      "lessonIds": [
+        9,
+        169
+      ]
+    },
+    {
+      "id": "v-37926bac1086",
+      "en": "responsible",
+      "vi": "chịu trách nhiệm",
+      "kind": "word",
+      "example": "Who is responsible for the report?",
+      "translation": "Ai chịu trách nhiệm báo cáo?",
+      "lessonIds": [
+        9,
+        34,
+        121
+      ]
+    },
+    {
+      "id": "v-7b231a50a498",
+      "en": "available",
+      "vi": "có sẵn; còn trống",
+      "kind": "word",
+      "example": "Who is available now?",
+      "translation": "Bây giờ ai có thể hỗ trợ?",
+      "lessonIds": [
+        9,
+        28,
+        32,
+        70,
+        192
+      ]
+    },
+    {
+      "id": "v-c2a6b03f190d",
+      "en": "new",
+      "vi": "mới",
+      "kind": "word",
+      "example": "Who is the new team leader?",
+      "translation": "Ai là trưởng nhóm mới?",
+      "lessonIds": [
+        9,
+        33
+      ]
+    },
+    {
+      "id": "v-adfa59cc50d2",
+      "en": "pharmacy",
+      "vi": "nhà thuốc",
+      "kind": "word",
+      "example": "Where is the nearest pharmacy?",
+      "translation": "Hiệu thuốc gần nhất ở đâu?",
+      "lessonIds": [
+        10,
+        179
+      ]
+    },
+    {
+      "id": "v-7a9b5c03c818",
+      "en": "nearest",
+      "vi": "gần nhất",
+      "kind": "word",
+      "example": "Where is the nearest pharmacy?",
+      "translation": "Hiệu thuốc gần nhất ở đâu?",
+      "lessonIds": [
+        10,
+        180
+      ]
+    },
+    {
+      "id": "v-1ca0739975cf",
+      "en": "defect",
+      "vi": "lỗi sản phẩm",
+      "kind": "word",
+      "example": "Where is the defect located?",
+      "translation": "Lỗi nằm ở vị trí nào?",
+      "lessonIds": [
+        10,
+        12,
+        23,
+        37,
+        42,
+        86,
+        133,
+        137,
+        138,
+        143,
+        195
+      ]
+    },
+    {
+      "id": "v-8151325dcdba",
+      "en": "sample",
+      "vi": "mẫu",
+      "kind": "word",
+      "example": "Where is the sample?",
+      "translation": "Mẫu ở đâu?",
+      "lessonIds": [
+        10,
+        55,
+        56
+      ]
+    },
+    {
+      "id": "v-27a5a05c01ee",
+      "en": "room",
+      "vi": "phòng",
+      "kind": "word",
+      "example": "Where is the meeting room?",
+      "translation": "Phòng họp ở đâu?",
+      "lessonIds": [
+        10,
+        12,
+        59
+      ]
+    },
+    {
+      "id": "v-e23839cd729a",
+      "en": "deadline",
+      "vi": "hạn chót",
+      "kind": "word",
+      "example": "When is the deadline?",
+      "translation": "Hạn cuối khi nào?",
+      "lessonIds": [
+        11,
+        84,
+        130,
+        166,
+        168,
+        174
+      ]
+    },
+    {
+      "id": "v-f51a32c7f8fd",
+      "en": "shipment",
+      "vi": "lô hàng; việc giao hàng",
+      "kind": "word",
+      "example": "When is the shipment due?",
+      "translation": "Khi nào lô hàng đến hạn giao?",
+      "lessonIds": [
+        11,
+        27,
+        30,
+        150,
+        156
+      ]
+    },
+    {
+      "id": "v-edee9402d198",
+      "en": "next",
+      "vi": "tiếp theo",
+      "kind": "word",
+      "example": "When is the next meeting?",
+      "translation": "Cuộc họp tiếp theo khi nào?",
+      "lessonIds": [
+        11,
+        171
+      ]
+    },
+    {
+      "id": "v-1b480158e1f3",
+      "en": "stop",
+      "vi": "dừng lại",
+      "kind": "word",
+      "example": "When is the line scheduled to stop?",
+      "translation": "Theo kế hoạch, khi nào chuyền dừng?",
+      "lessonIds": [
+        11
+      ]
+    },
+    {
+      "id": "v-7817c52b2560",
+      "en": "machine",
+      "vi": "máy móc",
+      "kind": "word",
+      "example": "Why is the machine stopped?",
+      "translation": "Tại sao máy dừng?",
+      "lessonIds": [
+        12,
+        13,
+        26,
+        32,
+        57,
+        83,
+        100,
+        103,
+        142,
+        188
+      ]
+    },
+    {
+      "id": "v-bd370d1b6f9b",
+      "en": "step",
+      "vi": "bước",
+      "kind": "word",
+      "example": "Why is this step necessary?",
+      "translation": "Tại sao bước này cần thiết?",
+      "lessonIds": [
+        12,
+        46,
+        163
+      ]
+    },
+    {
+      "id": "v-928bdadf3973",
+      "en": "How do I use this app?",
+      "vi": "Tôi dùng ứng dụng này thế nào?",
+      "kind": "expression",
+      "example": "How do I use this app?",
+      "translation": "Tôi dùng ứng dụng này thế nào?",
+      "lessonIds": [
+        13
+      ]
+    },
+    {
+      "id": "v-193a9fcc8a56",
+      "en": "How do I get to the station?",
+      "vi": "Tôi đến ga bằng cách nào?",
+      "kind": "expression",
+      "example": "How do I get to the station?",
+      "translation": "Tôi đến ga bằng cách nào?",
+      "lessonIds": [
+        13
+      ]
+    },
+    {
+      "id": "v-a498d854840e",
+      "en": "How do I export the report?",
+      "vi": "Tôi xuất báo cáo thế nào?",
+      "kind": "expression",
+      "example": "How do I export the report?",
+      "translation": "Tôi xuất báo cáo thế nào?",
+      "lessonIds": [
+        13
+      ]
+    },
+    {
+      "id": "v-a31e44e0548b",
+      "en": "better",
+      "vi": "tốt hơn",
+      "kind": "word",
+      "example": "Which date works better for you?",
+      "translation": "Ngày nào phù hợp với bạn hơn?",
+      "lessonIds": [
+        14,
+        72,
+        83,
+        133,
+        184,
+        186,
+        187
+      ]
+    },
+    {
+      "id": "v-866e90dff0f0",
+      "en": "prefer",
+      "vi": "thích hơn",
+      "kind": "word",
+      "example": "Which option do you prefer?",
+      "translation": "Bạn thích phương án nào hơn?",
+      "lessonIds": [
+        14,
+        23,
+        117
+      ]
+    },
+    {
+      "id": "v-e0996a37c13d",
+      "en": "first",
+      "vi": "đầu tiên",
+      "kind": "word",
+      "example": "I prefer the first option.",
+      "translation": "Tôi thích phương án thứ nhất hơn.",
+      "lessonIds": [
+        14,
+        72,
+        73,
+        79,
+        80,
+        96,
+        128,
+        183,
+        184
+      ]
+    },
+    {
+      "id": "v-6fa9b95e6ace",
+      "en": "Which option do you prefer?",
+      "vi": "Bạn thích phương án nào hơn?",
+      "kind": "expression",
+      "example": "Which option do you prefer?",
+      "translation": "Bạn thích phương án nào hơn?",
+      "lessonIds": [
+        14
+      ]
+    },
+    {
+      "id": "v-378eaf1e9d34",
+      "en": "defects",
+      "vi": "các lỗi sản phẩm",
+      "kind": "word",
+      "example": "How many defects were found?",
+      "translation": "Đã phát hiện bao nhiêu lỗi?",
+      "lessonIds": [
+        15,
+        24,
+        59,
+        91,
+        93,
+        125,
+        126,
+        136,
+        139,
+        157
+      ]
+    },
+    {
+      "id": "v-433cdfecfbc5",
+      "en": "samples",
+      "vi": "các mẫu",
+      "kind": "word",
+      "example": "How many samples do we need?",
+      "translation": "Chúng ta cần bao nhiêu mẫu?",
+      "lessonIds": [
+        15,
+        24,
+        27,
+        45,
+        52,
+        61,
+        118,
+        129,
+        143,
+        149,
+        158,
+        159,
+        170,
+        172,
+        197
+      ]
+    },
+    {
+      "id": "v-f25470201a13",
+      "en": "many",
+      "vi": "nhiều (danh từ đếm được)",
+      "kind": "word",
+      "example": "How many people are in your team?",
+      "translation": "Nhóm bạn có bao nhiêu người?",
+      "lessonIds": [
+        15
+      ]
+    },
+    {
+      "id": "v-efe30e310694",
+      "en": "need",
+      "vi": "cần",
+      "kind": "word",
+      "example": "How many samples do we need?",
+      "translation": "Chúng ta cần bao nhiêu mẫu?",
+      "lessonIds": [
+        15,
+        23,
+        25,
+        59,
+        73,
+        96,
+        130,
+        157,
+        191
+      ]
+    },
+    {
+      "id": "v-6d5a45920a15",
+      "en": "water",
+      "vi": "nước",
+      "kind": "word",
+      "example": "How much water do you drink?",
+      "translation": "Bạn uống bao nhiêu nước?",
+      "lessonIds": [
+        16,
+        36,
+        178
+      ]
+    },
+    {
+      "id": "v-885dc4a9b362",
+      "en": "cost",
+      "vi": "chi phí",
+      "kind": "word",
+      "example": "How much does it cost?",
+      "translation": "Giá bao nhiêu?",
+      "lessonIds": [
+        16,
+        73,
+        79,
+        159
+      ]
+    },
+    {
+      "id": "v-7d3f44729dc2",
+      "en": "much",
+      "vi": "nhiều (danh từ không đếm được)",
+      "kind": "word",
+      "example": "How much does it cost?",
+      "translation": "Giá bao nhiêu?",
+      "lessonIds": [
+        16,
+        98
+      ]
+    },
+    {
+      "id": "v-714eea0f4c98",
+      "en": "time",
+      "vi": "thời gian",
+      "kind": "word",
+      "example": "How much time do we have?",
+      "translation": "Chúng ta còn bao nhiêu thời gian?",
+      "lessonIds": [
+        16,
+        20,
+        39
+      ]
+    },
+    {
+      "id": "v-13a1891af75c",
+      "en": "updated",
+      "vi": "được cập nhật",
+      "kind": "word",
+      "example": "How often is the data updated?",
+      "translation": "Dữ liệu được cập nhật bao lâu một lần?",
+      "lessonIds": [
+        17,
+        57,
+        150
+      ]
+    },
+    {
+      "id": "v-d56d985300d4",
+      "en": "check",
+      "vi": "kiểm tra",
+      "kind": "word",
+      "example": "How often do we check FAI12?",
+      "translation": "Chúng ta kiểm tra FAI12 với tần suất nào?",
+      "lessonIds": [
+        17,
+        26,
+        29,
+        41,
+        46,
+        52,
+        61,
+        83,
+        101,
+        102,
+        107,
+        113,
+        128,
+        184,
+        196
+      ]
+    },
+    {
+      "id": "v-f99abcfae6c3",
+      "en": "twice",
+      "vi": "hai lần",
+      "kind": "word",
+      "example": "We check it twice per shift.",
+      "translation": "Chúng tôi kiểm tra hai lần mỗi ca.",
+      "lessonIds": [
+        17
+      ]
+    },
+    {
+      "id": "v-a17c9aaa61e8",
+      "en": "data",
+      "vi": "dữ liệu",
+      "kind": "word",
+      "example": "How often is the data updated?",
+      "translation": "Dữ liệu được cập nhật bao lâu một lần?",
+      "lessonIds": [
+        17,
+        23,
+        26,
+        36,
+        40,
+        41,
+        45,
+        51,
+        63,
+        69,
+        75,
+        80,
+        91,
+        93,
+        97,
+        100,
+        116,
+        119,
+        163
+      ]
+    },
+    {
+      "id": "v-a94a8fe5ccb1",
+      "en": "test",
+      "vi": "kiểm thử; phép thử",
+      "kind": "word",
+      "example": "How long will the test run?",
+      "translation": "Bài thử nghiệm chạy bao lâu?",
+      "lessonIds": [
+        18,
+        21,
+        49,
+        57,
+        60,
+        81,
+        96,
+        171,
+        188
+      ]
+    },
+    {
+      "id": "v-09e3d1de51ae",
+      "en": "How long does it take?",
+      "vi": "Mất bao lâu?",
+      "kind": "expression",
+      "example": "How long does it take?",
+      "translation": "Mất bao lâu?",
+      "lessonIds": [
+        18
+      ]
+    },
+    {
+      "id": "v-0af54a90f88b",
+      "en": "How long have you worked here?",
+      "vi": "Bạn làm ở đây bao lâu rồi?",
+      "kind": "expression",
+      "example": "How long have you worked here?",
+      "translation": "Bạn làm ở đây bao lâu rồi?",
+      "lessonIds": [
+        18
+      ]
+    },
+    {
+      "id": "v-abe18ae67af5",
+      "en": "How long is the training?",
+      "vi": "Buổi đào tạo kéo dài bao lâu?",
+      "kind": "expression",
+      "example": "How long is the training?",
+      "translation": "Buổi đào tạo kéo dài bao lâu?",
+      "lessonIds": [
+        18
+      ]
+    },
+    {
+      "id": "v-6b5465bf0bcc",
+      "en": "airport",
+      "vi": "sân bay",
+      "kind": "word",
+      "example": "How far is the airport?",
+      "translation": "Sân bay cách đây bao xa?",
+      "lessonIds": [
+        19,
+        180
+      ]
+    },
+    {
+      "id": "v-e83249bd3ba7",
+      "en": "home",
+      "vi": "nhà",
+      "kind": "word",
+      "example": "How far is your home from here?",
+      "translation": "Nhà bạn cách đây bao xa?",
+      "lessonIds": [
+        19,
+        60,
+        90
+      ]
+    },
+    {
+      "id": "v-32917d064ffa",
+      "en": "How far is your home from here?",
+      "vi": "Nhà bạn cách đây bao xa?",
+      "kind": "expression",
+      "example": "How far is your home from here?",
+      "translation": "Nhà bạn cách đây bao xa?",
+      "lessonIds": [
+        19
+      ]
+    },
+    {
+      "id": "v-805465819e8a",
+      "en": "How far is the factory?",
+      "vi": "Nhà máy cách đây bao xa?",
+      "kind": "expression",
+      "example": "How far is the factory?",
+      "translation": "Nhà máy cách đây bao xa?",
+      "lessonIds": [
+        19
+      ]
+    },
+    {
+      "id": "v-e0da94eb6638",
+      "en": "How far is the airport?",
+      "vi": "Sân bay cách đây bao xa?",
+      "kind": "expression",
+      "example": "How far is the airport?",
+      "translation": "Sân bay cách đây bao xa?",
+      "lessonIds": [
+        19
+      ]
+    },
+    {
+      "id": "v-2b020927d3c6",
+      "en": "start",
+      "vi": "bắt đầu",
+      "kind": "word",
+      "example": "What time do you start work?",
+      "translation": "Bạn bắt đầu làm việc lúc mấy giờ?",
+      "lessonIds": [
+        20,
+        81,
+        117,
+        153,
+        161,
+        185
+      ]
+    },
+    {
+      "id": "v-6b03dd117d95",
+      "en": "night shift",
+      "vi": "ca đêm",
+      "kind": "phrase",
+      "example": "A sensor failed during the night shift.",
+      "translation": "Một cảm biến bị hỏng trong ca đêm.",
+      "lessonIds": [
+        21,
+        56,
+        122,
+        141
+      ]
+    },
+    {
+      "id": "v-2fc03be5f18a",
+      "en": "sensor",
+      "vi": "cảm biến",
+      "kind": "word",
+      "example": "A sensor failed during the night shift.",
+      "translation": "Một cảm biến bị hỏng trong ca đêm.",
+      "lessonIds": [
+        21,
+        59,
+        75,
+        80,
+        84,
+        85,
+        87,
+        101,
+        143
+      ]
+    },
+    {
+      "id": "v-1be2a44cb53d",
+      "en": "night",
+      "vi": "ban đêm",
+      "kind": "word",
+      "example": "A sensor failed during the night shift.",
+      "translation": "Một cảm biến bị hỏng trong ca đêm.",
+      "lessonIds": [
+        21,
+        26,
+        33,
+        42,
+        46,
+        56,
+        122
+      ]
+    },
+    {
+      "id": "v-4fbacc2fa0ff",
+      "en": "stable",
+      "vi": "ổn định",
+      "kind": "word",
+      "example": "What do you mean by 'stable'?",
+      "translation": "Bạn muốn nói gì khi dùng từ 'ổn định'?",
+      "lessonIds": [
+        22,
+        69,
+        88,
+        90,
+        116,
+        135,
+        172,
+        186
+      ]
+    },
+    {
+      "id": "v-5f00f7a0a9f5",
+      "en": "mean",
+      "vi": "có nghĩa là",
+      "kind": "word",
+      "example": "What does this word mean?",
+      "translation": "Từ này có nghĩa gì?",
+      "lessonIds": [
+        22,
+        94,
+        116
+      ]
+    },
+    {
+      "id": "v-3cbcd90adc4b",
+      "en": "word",
+      "vi": "từ",
+      "kind": "word",
+      "example": "What does this word mean?",
+      "translation": "Từ này có nghĩa gì?",
+      "lessonIds": [
+        22
+      ]
+    },
+    {
+      "id": "v-e340fafdc6c6",
+      "en": "What does this word mean?",
+      "vi": "Từ này có nghĩa gì?",
+      "kind": "expression",
+      "example": "What does this word mean?",
+      "translation": "Từ này có nghĩa gì?",
+      "lessonIds": [
+        22
+      ]
+    },
+    {
+      "id": "v-39ccb32d95ed",
+      "en": "food",
+      "vi": "thức ăn",
+      "kind": "word",
+      "example": "What kind of food do you want?",
+      "translation": "Bạn muốn ăn loại món nào?",
+      "lessonIds": [
+        23,
+        40,
+        185
+      ]
+    },
+    {
+      "id": "v-a5a0d15d4ae8",
+      "en": "problem",
+      "vi": "vấn đề; khó khăn",
+      "kind": "word",
+      "example": "Is there a problem?",
+      "translation": "Có vấn đề gì không?",
+      "lessonIds": [
+        24,
+        35,
+        42,
+        59,
+        70,
+        97,
+        113,
+        120
+      ]
+    },
+    {
+      "id": "v-16c1eb258d86",
+      "en": "Is there a problem?",
+      "vi": "Có vấn đề gì không?",
+      "kind": "expression",
+      "example": "Is there a problem?",
+      "translation": "Có vấn đề gì không?",
+      "lessonIds": [
+        24
+      ]
+    },
+    {
+      "id": "v-0652ac8321c0",
+      "en": "Are there any questions?",
+      "vi": "Có câu hỏi nào không?",
+      "kind": "expression",
+      "example": "Are there any questions?",
+      "translation": "Có câu hỏi nào không?",
+      "lessonIds": [
+        24
+      ]
+    },
+    {
+      "id": "v-ff744cd08217",
+      "en": "checklist",
+      "vi": "danh sách kiểm tra",
+      "kind": "word",
+      "example": "Do you use this checklist every day?",
+      "translation": "Bạn có dùng bảng kiểm này mỗi ngày không?",
+      "lessonIds": [
+        25,
+        66,
+        92,
+        121,
+        134
+      ]
+    },
+    {
+      "id": "v-426144f4dedc",
+      "en": "proposal",
+      "vi": "đề xuất",
+      "kind": "word",
+      "example": "Do you agree with the proposal?",
+      "translation": "Bạn có đồng ý với đề xuất không?",
+      "lessonIds": [
+        25,
+        77,
+        96,
+        167
+      ]
+    },
+    {
+      "id": "v-1b669334dae8",
+      "en": "English",
+      "vi": "tiếng Anh",
+      "kind": "word",
+      "example": "Do you speak English?",
+      "translation": "Bạn có nói tiếng Anh không?",
+      "lessonIds": [
+        25,
+        34,
+        37,
+        43,
+        45,
+        47,
+        58,
+        62,
+        63,
+        64,
+        65,
+        76,
+        92,
+        182,
+        186,
+        193
+      ]
+    },
+    {
+      "id": "v-c9600527f45e",
+      "en": "agree",
+      "vi": "đồng ý",
+      "kind": "word",
+      "example": "Do you agree with the proposal?",
+      "translation": "Bạn có đồng ý với đề xuất không?",
+      "lessonIds": [
+        25,
+        77,
+        79,
+        168
+      ]
+    },
+    {
+      "id": "v-92005ecf3788",
+      "en": "help",
+      "vi": "giúp đỡ",
+      "kind": "word",
+      "example": "Do you need help?",
+      "translation": "Bạn có cần giúp không?",
+      "lessonIds": [
+        25,
+        29,
+        50,
+        108,
+        109,
+        192
+      ]
+    },
+    {
+      "id": "v-1a73af9e7ae0",
+      "en": "contact",
+      "vi": "liên hệ",
+      "kind": "word",
+      "example": "Did you contact QA?",
+      "translation": "Bạn đã liên hệ QA chưa?",
+      "lessonIds": [
+        26,
+        64,
+        120
+      ]
+    },
+    {
+      "id": "v-a88b7dcd1a9e",
+      "en": "email",
+      "vi": "thư điện tử",
+      "kind": "word",
+      "example": "Did you send the email?",
+      "translation": "Bạn đã gửi email chưa?",
+      "lessonIds": [
+        26,
+        55,
+        192
+      ]
+    },
+    {
+      "id": "v-38428a698ab1",
+      "en": "received",
+      "vi": "đã nhận",
+      "kind": "word",
+      "example": "Have you received the shipment yet?",
+      "translation": "Bạn đã nhận lô hàng chưa?",
+      "lessonIds": [
+        27,
+        56,
+        192
+      ]
+    },
+    {
+      "id": "v-04303448e680",
+      "en": "Have you finished the report yet?",
+      "vi": "Bạn đã hoàn thành báo cáo chưa?",
+      "kind": "expression",
+      "example": "Have you finished the report yet?",
+      "translation": "Bạn đã hoàn thành báo cáo chưa?",
+      "lessonIds": [
+        27
+      ]
+    },
+    {
+      "id": "v-37a5301a88da",
+      "en": "result",
+      "vi": "kết quả",
+      "kind": "word",
+      "example": "Are you sure about the result?",
+      "translation": "Bạn có chắc về kết quả không?",
+      "lessonIds": [
+        28,
+        32,
+        71,
+        98,
+        111,
+        129,
+        167,
+        196
+      ]
+    },
+    {
+      "id": "v-75c0533730ca",
+      "en": "ready",
+      "vi": "sẵn sàng",
+      "kind": "word",
+      "example": "Are you ready for the meeting?",
+      "translation": "Bạn sẵn sàng họp chưa?",
+      "lessonIds": [
+        28,
+        34
+      ]
+    },
+    {
+      "id": "v-e18a89f9cc5b",
+      "en": "busy",
+      "vi": "bận rộn",
+      "kind": "word",
+      "example": "Are you busy right now?",
+      "translation": "Bây giờ bạn có bận không?",
+      "lessonIds": [
+        28,
+        49,
+        75
+      ]
+    },
+    {
+      "id": "v-61e62b213a1a",
+      "en": "review",
+      "vi": "xem lại; ôn tập",
+      "kind": "word",
+      "example": "Can you review the report?",
+      "translation": "Bạn có thể xem lại báo cáo không?",
+      "lessonIds": [
+        29,
+        41,
+        87,
+        99,
+        118,
+        161,
+        172,
+        196,
+        197
+      ]
+    },
+    {
+      "id": "v-b972c8ef2b9a",
+      "en": "slowly",
+      "vi": "chậm rãi",
+      "kind": "word",
+      "example": "Can you speak more slowly?",
+      "translation": "Bạn có thể nói chậm hơn không?",
+      "lessonIds": [
+        29,
+        103,
+        115
+      ]
+    },
+    {
+      "id": "v-bc8d8647b02d",
+      "en": "call",
+      "vi": "gọi điện",
+      "kind": "word",
+      "example": "Can you join the call at three?",
+      "translation": "Bạn có thể tham gia cuộc gọi lúc ba giờ không?",
+      "lessonIds": [
+        29,
+        44,
+        51,
+        53,
+        66,
+        117,
+        120,
+        181
+      ]
+    },
+    {
+      "id": "v-e6427457497f",
+      "en": "office",
+      "vi": "văn phòng",
+      "kind": "word",
+      "example": "Could you tell me where the office is?",
+      "translation": "Bạn có thể cho tôi biết văn phòng ở đâu không?",
+      "lessonIds": [
+        30
+      ]
+    },
+    {
+      "id": "v-5406167a5113",
+      "en": "Could you tell me your name?",
+      "vi": "Bạn có thể cho tôi biết tên không?",
+      "kind": "expression",
+      "example": "Could you tell me your name?",
+      "translation": "Bạn có thể cho tôi biết tên không?",
+      "lessonIds": [
+        30
+      ]
+    },
+    {
+      "id": "v-366a74945ffc",
+      "en": "Could you tell me where the office is?",
+      "vi": "Bạn có thể cho tôi biết văn phòng ở đâu không?",
+      "kind": "expression",
+      "example": "Could you tell me where the office is?",
+      "translation": "Bạn có thể cho tôi biết văn phòng ở đâu không?",
+      "lessonIds": [
+        30
+      ]
+    },
+    {
+      "id": "v-b42c7e507edb",
+      "en": "Could you tell me when the shipment arrives?",
+      "vi": "Bạn có thể cho tôi biết khi nào hàng đến không?",
+      "kind": "expression",
+      "example": "Could you tell me when the shipment arrives?",
+      "translation": "Bạn có thể cho tôi biết khi nào hàng đến không?",
+      "lessonIds": [
+        30
+      ]
+    },
+    {
+      "id": "v-a4a24b883961",
+      "en": "would you mind",
+      "vi": "bạn có phiền không",
+      "kind": "phrase",
+      "example": "Would you mind closing the door?",
+      "translation": "Bạn có phiền đóng cửa giúp không?",
+      "lessonIds": [
+        31
+      ]
+    },
+    {
+      "id": "v-12625ba3c14e",
+      "en": "waiting",
+      "vi": "đang chờ",
+      "kind": "word",
+      "example": "Would you mind waiting a moment?",
+      "translation": "Bạn có phiền chờ một chút không?",
+      "lessonIds": [
+        31,
+        58,
+        129
+      ]
+    },
+    {
+      "id": "v-b56def36afbf",
+      "en": "moment",
+      "vi": "một lát",
+      "kind": "word",
+      "example": "Would you mind waiting a moment?",
+      "translation": "Bạn có phiền chờ một chút không?",
+      "lessonIds": [
+        31,
+        102,
+        107
+      ]
+    },
+    {
+      "id": "v-43dd5a3c8c0b",
+      "en": "Would you mind closing the door?",
+      "vi": "Bạn có phiền đóng cửa giúp không?",
+      "kind": "expression",
+      "example": "Would you mind closing the door?",
+      "translation": "Bạn có phiền đóng cửa giúp không?",
+      "lessonIds": [
+        31
+      ]
+    },
+    {
+      "id": "v-fa489f44196a",
+      "en": "Would you mind repeating that?",
+      "vi": "Bạn có phiền nhắc lại không?",
+      "kind": "expression",
+      "example": "Would you mind repeating that?",
+      "translation": "Bạn có phiền nhắc lại không?",
+      "lessonIds": [
+        31
+      ]
+    },
+    {
+      "id": "v-1a8565a9dc72",
+      "en": "manager",
+      "vi": "người quản lý",
+      "kind": "word",
+      "example": "Do you know if the manager is available?",
+      "translation": "Bạn có biết quản lý đang rảnh không?",
+      "lessonIds": [
+        32,
+        62,
+        77,
+        83,
+        100
+      ]
+    },
+    {
+      "id": "v-97accafb5337",
+      "en": "know",
+      "vi": "biết",
+      "kind": "word",
+      "example": "Do you know if the manager is available?",
+      "translation": "Bạn có biết quản lý đang rảnh không?",
+      "lessonIds": [
+        32,
+        74,
+        108
+      ]
+    },
+    {
+      "id": "v-b28b7af69320",
+      "en": "main",
+      "vi": "chính",
+      "kind": "word",
+      "example": "The main difference is thickness.",
+      "translation": "Khác biệt chính là độ dày.",
+      "lessonIds": [
+        33
+      ]
+    },
+    {
+      "id": "v-c00dbbc9dadf",
+      "en": "old",
+      "vi": "cũ",
+      "kind": "word",
+      "example": "What's the difference between the old and new process?",
+      "translation": "Quy trình cũ và mới khác nhau thế nào?",
+      "lessonIds": [
+        33
+      ]
+    },
+    {
+      "id": "v-ea9ffb6eb4a5",
+      "en": "learning",
+      "vi": "việc học",
+      "kind": "word",
+      "example": "I'm interested in learning English.",
+      "translation": "Tôi quan tâm đến việc học tiếng Anh.",
+      "lessonIds": [
+        34,
+        45,
+        58,
+        62
+      ]
+    },
+    {
+      "id": "v-a1e3124328de",
+      "en": "improvement",
+      "vi": "sự cải tiến",
+      "kind": "word",
+      "example": "I have an idea for improvement.",
+      "translation": "Tôi có một ý tưởng cải tiến.",
+      "lessonIds": [
+        35,
+        121,
+        123
+      ]
+    },
+    {
+      "id": "v-3b2be2e26344",
+      "en": "question",
+      "vi": "câu hỏi",
+      "kind": "word",
+      "example": "I have a question.",
+      "translation": "Tôi có một câu hỏi.",
+      "lessonIds": [
+        35,
+        38,
+        105,
+        112
+      ]
+    },
+    {
+      "id": "v-d38c6f0460f1",
+      "en": "I have two children.",
+      "vi": "Tôi có hai người con.",
+      "kind": "expression",
+      "example": "I have two children.",
+      "translation": "Tôi có hai người con.",
+      "lessonIds": [
+        35
+      ]
+    },
+    {
+      "id": "v-59494695a317",
+      "en": "approval",
+      "vi": "sự phê duyệt",
+      "kind": "word",
+      "example": "I need your approval.",
+      "translation": "Tôi cần sự phê duyệt của bạn.",
+      "lessonIds": [
+        36,
+        96,
+        127,
+        129,
+        153,
+        176,
+        184
+      ]
+    },
+    {
+      "id": "v-2cce4a92f41f",
+      "en": "finish",
+      "vi": "hoàn thành; kết thúc",
+      "kind": "word",
+      "example": "I need to finish this today.",
+      "translation": "Tôi cần hoàn thành việc này hôm nay.",
+      "lessonIds": [
+        36,
+        48,
+        51,
+        60,
+        65,
+        89,
+        99,
+        125,
+        132,
+        183
+      ]
+    },
+    {
+      "id": "v-e7c95b4c2824",
+      "en": "more",
+      "vi": "nhiều hơn",
+      "kind": "word",
+      "example": "We need more data.",
+      "translation": "Chúng ta cần thêm dữ liệu.",
+      "lessonIds": [
+        36,
+        39,
+        69,
+        77,
+        79,
+        190,
+        191
+      ]
+    },
+    {
+      "id": "v-6730f85c1352",
+      "en": "root cause",
+      "vi": "nguyên nhân gốc rễ",
+      "kind": "phrase",
+      "example": "I want to understand the root cause.",
+      "translation": "Tôi muốn hiểu nguyên nhân gốc.",
+      "lessonIds": [
+        37,
+        64,
+        70,
+        126,
+        140,
+        162
+      ]
+    },
+    {
+      "id": "v-6d912e4b4a5d",
+      "en": "go home",
+      "vi": "về nhà",
+      "kind": "phrase",
+      "example": "I want to go home early.",
+      "translation": "Tôi muốn về nhà sớm.",
+      "lessonIds": [
+        37,
+        197
+      ]
+    },
+    {
+      "id": "v-8e73840bbf9c",
+      "en": "understand",
+      "vi": "hiểu",
+      "kind": "word",
+      "example": "I want to understand the root cause.",
+      "translation": "Tôi muốn hiểu nguyên nhân gốc.",
+      "lessonIds": [
+        37
+      ]
+    },
+    {
+      "id": "v-69a42959af3e",
+      "en": "improve",
+      "vi": "cải thiện",
+      "kind": "word",
+      "example": "I want to improve my English.",
+      "translation": "Tôi muốn cải thiện tiếng Anh.",
+      "lessonIds": [
+        37,
+        71,
+        125,
+        146,
+        149
+      ]
+    },
+    {
+      "id": "v-11e9ba26c91a",
+      "en": "schedule",
+      "vi": "lịch trình",
+      "kind": "word",
+      "example": "I'd like to schedule a meeting.",
+      "translation": "Tôi muốn lên lịch họp.",
+      "lessonIds": [
+        38,
+        103,
+        131,
+        134,
+        167,
+        182
+      ]
+    },
+    {
+      "id": "v-cdf7e925f574",
+      "en": "results",
+      "vi": "các kết quả",
+      "kind": "word",
+      "example": "I'd like to share the results.",
+      "translation": "Tôi muốn chia sẻ kết quả.",
+      "lessonIds": [
+        38,
+        161,
+        185
+      ]
+    },
+    {
+      "id": "v-44213f9f4d59",
+      "en": "coffee",
+      "vi": "cà phê",
+      "kind": "word",
+      "example": "I'd like to order coffee.",
+      "translation": "Tôi muốn gọi cà phê.",
+      "lessonIds": [
+        38,
+        42,
+        82,
+        177,
+        189
+      ]
+    },
+    {
+      "id": "v-cce55e4309a7",
+      "en": "order",
+      "vi": "đặt món; đơn hàng",
+      "kind": "word",
+      "example": "I'd like to order coffee.",
+      "translation": "Tôi muốn gọi cà phê.",
+      "lessonIds": [
+        38,
+        176,
+        177
+      ]
+    },
+    {
+      "id": "v-83dd9d6af43f",
+      "en": "information",
+      "vi": "thông tin",
+      "kind": "word",
+      "example": "I'd like more information.",
+      "translation": "Tôi muốn thêm thông tin.",
+      "lessonIds": [
+        39,
+        111
+      ]
+    },
+    {
+      "id": "v-ef15f48c9654",
+      "en": "feedback",
+      "vi": "ý kiến phản hồi",
+      "kind": "word",
+      "example": "I'd like your feedback.",
+      "translation": "Tôi muốn nhận phản hồi của bạn.",
+      "lessonIds": [
+        39,
+        68,
+        129,
+        150
+      ]
+    },
+    {
+      "id": "v-f84e2e2dadd8",
+      "en": "copy",
+      "vi": "bản sao",
+      "kind": "word",
+      "example": "I'd like a copy of the report.",
+      "translation": "Tôi muốn một bản báo cáo.",
+      "lessonIds": [
+        39,
+        106
+      ]
+    },
+    {
+      "id": "v-227f38db8f94",
+      "en": "reading",
+      "vi": "việc đọc",
+      "kind": "word",
+      "example": "I like reading books.",
+      "translation": "Tôi thích đọc sách.",
+      "lessonIds": [
+        40,
+        194
+      ]
+    },
+    {
+      "id": "v-5d6200f8cf98",
+      "en": "late",
+      "vi": "muộn",
+      "kind": "word",
+      "example": "I don't like being late.",
+      "translation": "Tôi không thích đến muộn.",
+      "lessonIds": [
+        40,
+        54,
+        101,
+        110,
+        188,
+        195
+      ]
+    },
+    {
+      "id": "v-7d5f13d5e617",
+      "en": "I like reading books.",
+      "vi": "Tôi thích đọc sách.",
+      "kind": "expression",
+      "example": "I like reading books.",
+      "translation": "Tôi thích đọc sách.",
+      "lessonIds": [
+        40
+      ]
+    },
+    {
+      "id": "v-45a21e4b5b2a",
+      "en": "morning",
+      "vi": "buổi sáng",
+      "kind": "word",
+      "example": "I usually review the data in the morning.",
+      "translation": "Tôi thường xem dữ liệu vào buổi sáng.",
+      "lessonIds": [
+        41,
+        58,
+        189
+      ]
+    },
+    {
+      "id": "v-df06b147f778",
+      "en": "walk",
+      "vi": "đi bộ",
+      "kind": "word",
+      "example": "I usually walk after dinner.",
+      "translation": "Tôi thường đi bộ sau bữa tối.",
+      "lessonIds": [
+        41,
+        81
+      ]
+    },
+    {
+      "id": "v-6cb148773f1f",
+      "en": "I sometimes cook dinner.",
+      "vi": "Thỉnh thoảng tôi nấu bữa tối.",
+      "kind": "expression",
+      "example": "I sometimes cook dinner.",
+      "translation": "Thỉnh thoảng tôi nấu bữa tối.",
+      "lessonIds": [
+        42
+      ]
+    },
+    {
+      "id": "v-56019fb78ba4",
+      "en": "action plan",
+      "vi": "kế hoạch hành động",
+      "kind": "phrase",
+      "example": "I'm going to explain the action plan.",
+      "translation": "Tôi sẽ giải thích kế hoạch hành động.",
+      "lessonIds": [
+        43,
+        150,
+        162,
+        165,
+        175
+      ]
+    },
+    {
+      "id": "v-b7c8ffb8fbc6",
+      "en": "another",
+      "vi": "một cái khác",
+      "kind": "word",
+      "example": "We're going to run another test.",
+      "translation": "Chúng ta sẽ chạy thêm một thử nghiệm.",
+      "lessonIds": [
+        43,
+        54,
+        81,
+        82,
+        87,
+        100,
+        115
+      ]
+    },
+    {
+      "id": "v-f7c1380a0d71",
+      "en": "explain",
+      "vi": "giải thích",
+      "kind": "word",
+      "example": "I'm going to explain the action plan.",
+      "translation": "Tôi sẽ giải thích kế hoạch hành động.",
+      "lessonIds": [
+        43,
+        50,
+        61,
+        65,
+        103,
+        106,
+        107,
+        115
+      ]
+    },
+    {
+      "id": "v-a664f10b5e58",
+      "en": "parents",
+      "vi": "cha mẹ",
+      "kind": "word",
+      "example": "I'm going to visit my parents.",
+      "translation": "Tôi định thăm bố mẹ.",
+      "lessonIds": [
+        43,
+        182
+      ]
+    },
+    {
+      "id": "v-9796809f7dae",
+      "en": "monitor",
+      "vi": "theo dõi",
+      "kind": "word",
+      "example": "We'll monitor the line closely.",
+      "translation": "Chúng tôi sẽ theo dõi sát chuyền.",
+      "lessonIds": [
+        44,
+        89,
+        149
+      ]
+    },
+    {
+      "id": "v-b7c61c80ab26",
+      "en": "think",
+      "vi": "nghĩ",
+      "kind": "word",
+      "example": "I think it will rain tomorrow.",
+      "translation": "Tôi nghĩ ngày mai trời sẽ mưa.",
+      "lessonIds": [
+        44,
+        52,
+        69,
+        70,
+        107
+      ]
+    },
+    {
+      "id": "v-fbec17cb2fcb",
+      "en": "rain",
+      "vi": "mưa",
+      "kind": "word",
+      "example": "I think it will rain tomorrow.",
+      "translation": "Tôi nghĩ ngày mai trời sẽ mưa.",
+      "lessonIds": [
+        44,
+        191
+      ]
+    },
+    {
+      "id": "v-37ed539c0cef",
+      "en": "send",
+      "vi": "gửi",
+      "kind": "word",
+      "example": "I'll send the file tonight.",
+      "translation": "Tôi sẽ gửi tệp tối nay.",
+      "lessonIds": [
+        44
+      ]
+    },
+    {
+      "id": "v-c0ee32d825d6",
+      "en": "week",
+      "vi": "tuần",
+      "kind": "word",
+      "example": "I used to play football every week.",
+      "translation": "Trước đây tôi thường đá bóng mỗi tuần.",
+      "lessonIds": [
+        46
+      ]
+    },
+    {
+      "id": "v-818743b967a1",
+      "en": "early",
+      "vi": "sớm",
+      "kind": "word",
+      "example": "I'm used to waking up early.",
+      "translation": "Tôi đã quen dậy sớm.",
+      "lessonIds": [
+        47,
+        99,
+        104,
+        119,
+        157,
+        181,
+        184
+      ]
+    },
+    {
+      "id": "v-3a0c3c707ba6",
+      "en": "I'm used to waking up early.",
+      "vi": "Tôi đã quen dậy sớm.",
+      "kind": "expression",
+      "example": "I'm used to waking up early.",
+      "translation": "Tôi đã quen dậy sớm.",
+      "lessonIds": [
+        47
+      ]
+    },
+    {
+      "id": "v-bf267923fdeb",
+      "en": "I'm used to working under pressure.",
+      "vi": "Tôi quen làm việc dưới áp lực.",
+      "kind": "expression",
+      "example": "I'm used to working under pressure.",
+      "translation": "Tôi quen làm việc dưới áp lực.",
+      "lessonIds": [
+        47
+      ]
+    },
+    {
+      "id": "v-616a9a19efb8",
+      "en": "She's used to the noise.",
+      "vi": "Cô ấy đã quen tiếng ồn.",
+      "kind": "expression",
+      "example": "She's used to the noise.",
+      "translation": "Cô ấy đã quen tiếng ồn.",
+      "lessonIds": [
+        47
+      ]
+    },
+    {
+      "id": "v-697823d30868",
+      "en": "operators",
+      "vi": "những người vận hành",
+      "kind": "word",
+      "example": "Operators have to wear gloves.",
+      "translation": "Công nhân phải đeo găng tay.",
+      "lessonIds": [
+        48,
+        124,
+        146,
+        148,
+        155,
+        173
+      ]
+    },
+    {
+      "id": "v-0e93069c4011",
+      "en": "child",
+      "vi": "đứa trẻ",
+      "kind": "word",
+      "example": "I have to pick up my child.",
+      "translation": "Tôi phải đón con.",
+      "lessonIds": [
+        48,
+        181
+      ]
+    },
+    {
+      "id": "v-3cacc7bfac0a",
+      "en": "replace",
+      "vi": "thay thế",
+      "kind": "word",
+      "example": "We don't have to replace the whole part.",
+      "translation": "Chúng ta không cần thay cả chi tiết.",
+      "lessonIds": [
+        49,
+        60
+      ]
+    },
+    {
+      "id": "v-c0ac4842418e",
+      "en": "repeat",
+      "vi": "lặp lại",
+      "kind": "word",
+      "example": "We don't have to repeat the test.",
+      "translation": "Chúng ta không cần làm lại thử nghiệm.",
+      "lessonIds": [
+        49,
+        101,
+        112,
+        115,
+        139
+      ]
+    },
+    {
+      "id": "v-c455b38e0762",
+      "en": "join",
+      "vi": "tham gia",
+      "kind": "word",
+      "example": "You don't have to join if you're busy.",
+      "translation": "Bạn không bắt buộc tham gia nếu bận.",
+      "lessonIds": [
+        49,
+        51,
+        106,
+        111
+      ]
+    },
+    {
+      "id": "v-d0c4047caa5b",
+      "en": "confirm",
+      "vi": "xác nhận",
+      "kind": "word",
+      "example": "We can't confirm the cause yet.",
+      "translation": "Chúng tôi chưa thể xác nhận nguyên nhân.",
+      "lessonIds": [
+        50,
+        103,
+        140,
+        147,
+        152,
+        196
+      ]
+    },
+    {
+      "id": "v-ccadf5de3d73",
+      "en": "cause",
+      "vi": "nguyên nhân; gây ra",
+      "kind": "word",
+      "example": "We can't confirm the cause yet.",
+      "translation": "Chúng tôi chưa thể xác nhận nguyên nhân.",
+      "lessonIds": [
+        50,
+        70,
+        78,
+        94
+      ]
+    },
+    {
+      "id": "v-4979d619a7b7",
+      "en": "drive",
+      "vi": "lái xe",
+      "kind": "word",
+      "example": "I can drive.",
+      "translation": "Tôi biết lái xe.",
+      "lessonIds": [
+        50,
+        183
+      ]
+    },
+    {
+      "id": "v-8501a34f34de",
+      "en": "decision",
+      "vi": "quyết định",
+      "kind": "word",
+      "example": "We shouldn't rush the decision.",
+      "translation": "Chúng ta không nên vội quyết định.",
+      "lessonIds": [
+        52,
+        76,
+        77,
+        83,
+        108,
+        152,
+        176
+      ]
+    },
+    {
+      "id": "v-b3d0a8449e07",
+      "en": "collect",
+      "vi": "thu thập",
+      "kind": "word",
+      "example": "I think we should collect more samples.",
+      "translation": "Tôi nghĩ chúng ta nên lấy thêm mẫu.",
+      "lessonIds": [
+        52,
+        149,
+        173
+      ]
+    },
+    {
+      "id": "v-aac366da5f90",
+      "en": "vacuum",
+      "vi": "chân không",
+      "kind": "word",
+      "example": "We should check the vacuum level.",
+      "translation": "Chúng ta nên kiểm tra mức chân không.",
+      "lessonIds": [
+        52,
+        54,
+        143
+      ]
+    },
+    {
+      "id": "v-d0b5fd347939",
+      "en": "procedure",
+      "vi": "quy trình hướng dẫn",
+      "kind": "word",
+      "example": "We must follow the procedure.",
+      "translation": "Chúng ta phải tuân thủ quy trình.",
+      "lessonIds": [
+        53,
+        154,
+        173
+      ]
+    },
+    {
+      "id": "v-be6c324c05dd",
+      "en": "safety",
+      "vi": "an toàn",
+      "kind": "word",
+      "example": "You must wear safety glasses.",
+      "translation": "Bạn bắt buộc đeo kính bảo hộ.",
+      "lessonIds": [
+        53,
+        73,
+        95,
+        160,
+        174
+      ]
+    },
+    {
+      "id": "v-31aed9e37eb9",
+      "en": "leave",
+      "vi": "rời đi",
+      "kind": "word",
+      "example": "I must leave now.",
+      "translation": "Tôi phải đi ngay.",
+      "lessonIds": [
+        53,
+        74,
+        104,
+        181
+      ]
+    },
+    {
+      "id": "v-fa8f906a23fd",
+      "en": "related to",
+      "vi": "liên quan đến",
+      "kind": "phrase",
+      "example": "The issue might be related to vacuum.",
+      "translation": "Lỗi có thể liên quan đến chân không.",
+      "lessonIds": [
+        54,
+        145
+      ]
+    },
+    {
+      "id": "v-27e7700fdaa1",
+      "en": "sent",
+      "vi": "đã gửi",
+      "kind": "word",
+      "example": "I've already sent the email.",
+      "translation": "Tôi đã gửi email rồi.",
+      "lessonIds": [
+        55
+      ]
+    },
+    {
+      "id": "v-231e564db4cd",
+      "en": "completed",
+      "vi": "đã hoàn thành",
+      "kind": "word",
+      "example": "We've just completed the test.",
+      "translation": "Chúng tôi vừa hoàn tất thử nghiệm.",
+      "lessonIds": [
+        57,
+        127,
+        128
+      ]
+    },
+    {
+      "id": "v-c1ab9924ecda",
+      "en": "monitoring",
+      "vi": "việc theo dõi",
+      "kind": "word",
+      "example": "We've been monitoring this issue since Monday.",
+      "translation": "Chúng tôi theo dõi vấn đề này từ thứ Hai.",
+      "lessonIds": [
+        58,
+        88,
+        121
+      ]
+    },
+    {
+      "id": "v-7dca5d4cddf5",
+      "en": "learn",
+      "vi": "học",
+      "kind": "word",
+      "example": "It takes time to learn a language.",
+      "translation": "Học ngôn ngữ cần thời gian.",
+      "lessonIds": [
+        60
+      ]
+    },
+    {
+      "id": "v-5b4009518b37",
+      "en": "important",
+      "vi": "quan trọng",
+      "kind": "word",
+      "example": "It's important to follow the rules.",
+      "translation": "Điều quan trọng là tuân thủ quy định.",
+      "lessonIds": [
+        61
+      ]
+    },
+    {
+      "id": "v-8288cac5588a",
+      "en": "cost reduction",
+      "vi": "giảm chi phí",
+      "kind": "phrase",
+      "example": "The manager is interested in cost reduction.",
+      "translation": "Quản lý quan tâm đến giảm chi phí.",
+      "lessonIds": [
+        62,
+        138,
+        175
+      ]
+    },
+    {
+      "id": "v-b43cc86e502f",
+      "en": "reduction",
+      "vi": "sự giảm bớt",
+      "kind": "word",
+      "example": "The manager is interested in cost reduction.",
+      "translation": "Quản lý quan tâm đến giảm chi phí.",
+      "lessonIds": [
+        62,
+        138,
+        175
+      ]
+    },
+    {
+      "id": "v-98f54143ab4e",
+      "en": "project",
+      "vi": "dự án",
+      "kind": "word",
+      "example": "Are you interested in joining the project?",
+      "translation": "Bạn có muốn tham gia dự án không?",
+      "lessonIds": [
+        62,
+        122,
+        123,
+        131,
+        176
+      ]
+    },
+    {
+      "id": "v-4236d0f074e5",
+      "en": "I'm good at cooking.",
+      "vi": "Tôi nấu ăn giỏi.",
+      "kind": "expression",
+      "example": "I'm good at cooking.",
+      "translation": "Tôi nấu ăn giỏi.",
+      "lessonIds": [
+        63
+      ]
+    },
+    {
+      "id": "v-2fa65a5b9462",
+      "en": "She's good at English.",
+      "vi": "Cô ấy giỏi tiếng Anh.",
+      "kind": "expression",
+      "example": "She's good at English.",
+      "translation": "Cô ấy giỏi tiếng Anh.",
+      "lessonIds": [
+        63
+      ]
+    },
+    {
+      "id": "v-48c3689f6dd5",
+      "en": "reduce",
+      "vi": "giảm",
+      "kind": "word",
+      "example": "We're trying to reduce scrap.",
+      "translation": "Chúng tôi đang cố giảm phế phẩm.",
+      "lessonIds": [
+        64,
+        91,
+        95,
+        132
+      ]
+    },
+    {
+      "id": "v-d33f85fc81c5",
+      "en": "trying",
+      "vi": "đang thử; đang cố gắng",
+      "kind": "word",
+      "example": "I'm trying to sleep earlier.",
+      "translation": "Tôi đang cố ngủ sớm hơn.",
+      "lessonIds": [
+        64,
+        194
+      ]
+    },
+    {
+      "id": "v-5a94729cd8f5",
+      "en": "on time",
+      "vi": "đúng giờ",
+      "kind": "phrase",
+      "example": "We managed to finish on time.",
+      "translation": "Chúng tôi đã hoàn thành đúng hạn.",
+      "lessonIds": [
+        65,
+        196
+      ]
+    },
+    {
+      "id": "v-0a25ba599131",
+      "en": "update",
+      "vi": "cập nhật",
+      "kind": "word",
+      "example": "We forgot to update the checklist.",
+      "translation": "Chúng tôi quên cập nhật bảng kiểm.",
+      "lessonIds": [
+        66,
+        102,
+        109,
+        173
+      ]
+    },
+    {
+      "id": "v-e05572d87905",
+      "en": "I forgot to call you.",
+      "vi": "Tôi quên gọi cho bạn.",
+      "kind": "expression",
+      "example": "I forgot to call you.",
+      "translation": "Tôi quên gọi cho bạn.",
+      "lessonIds": [
+        66
+      ]
+    },
+    {
+      "id": "v-120884d50663",
+      "en": "I forgot to bring my umbrella.",
+      "vi": "Tôi quên mang ô.",
+      "kind": "expression",
+      "example": "I forgot to bring my umbrella.",
+      "translation": "Tôi quên mang ô.",
+      "lessonIds": [
+        66
+      ]
+    },
+    {
+      "id": "v-213ed3ea453b",
+      "en": "last",
+      "vi": "cuối cùng; vừa qua",
+      "kind": "word",
+      "example": "I remember meeting her last year.",
+      "translation": "Tôi nhớ đã gặp cô ấy năm ngoái.",
+      "lessonIds": [
+        67
+      ]
+    },
+    {
+      "id": "v-4ff0b1538469",
+      "en": "year",
+      "vi": "năm",
+      "kind": "word",
+      "example": "I remember meeting her last year.",
+      "translation": "Tôi nhớ đã gặp cô ấy năm ngoái.",
+      "lessonIds": [
+        67
+      ]
+    },
+    {
+      "id": "v-a5dfd1e2a154",
+      "en": "reply",
+      "vi": "trả lời",
+      "kind": "word",
+      "example": "I look forward to your reply.",
+      "translation": "Tôi mong nhận được phản hồi.",
+      "lessonIds": [
+        68,
+        170
+      ]
+    },
+    {
+      "id": "v-e09315fa02d7",
+      "en": "look",
+      "vi": "nhìn; trông có vẻ",
+      "kind": "word",
+      "example": "I look forward to seeing you.",
+      "translation": "Tôi mong được gặp bạn.",
+      "lessonIds": [
+        68,
+        159
+      ]
+    },
+    {
+      "id": "v-29ad7d23ad68",
+      "en": "I look forward to seeing you.",
+      "vi": "Tôi mong được gặp bạn.",
+      "kind": "expression",
+      "example": "I look forward to seeing you.",
+      "translation": "Tôi mong được gặp bạn.",
+      "lessonIds": [
+        68
+      ]
+    },
+    {
+      "id": "v-7550b672e162",
+      "en": "change",
+      "vi": "thay đổi",
+      "kind": "word",
+      "example": "I think we should change the plan.",
+      "translation": "Tôi nghĩ chúng ta nên đổi kế hoạch.",
+      "lessonIds": [
+        69,
+        118,
+        153,
+        176,
+        188
+      ]
+    },
+    {
+      "id": "v-94ec44c4f4ad",
+      "en": "believe",
+      "vi": "tin tưởng",
+      "kind": "word",
+      "example": "I believe we can improve yield.",
+      "translation": "Tôi tin chúng ta có thể cải thiện tỷ lệ đạt.",
+      "lessonIds": [
+        71
+      ]
+    },
+    {
+      "id": "v-fc940843d0bc",
+      "en": "in my opinion",
+      "vi": "theo ý kiến của tôi",
+      "kind": "phrase",
+      "example": "In my opinion, the first option is better.",
+      "translation": "Theo tôi, phương án đầu tốt hơn.",
+      "lessonIds": [
+        72
+      ]
+    },
+    {
+      "id": "v-cab5b6e0a675",
+      "en": "acceptable",
+      "vi": "có thể chấp nhận",
+      "kind": "word",
+      "example": "From my point of view, the cost is acceptable.",
+      "translation": "Theo tôi, chi phí có thể chấp nhận.",
+      "lessonIds": [
+        73,
+        111,
+        134
+      ]
+    },
+    {
+      "id": "v-75f7a6e01f5d",
+      "en": "long-term",
+      "vi": "dài hạn",
+      "kind": "word",
+      "example": "From my point of view, this is a long-term solution.",
+      "translation": "Theo tôi, đây là giải pháp dài hạn.",
+      "lessonIds": [
+        73,
+        174
+      ]
+    },
+    {
+      "id": "v-49a04ba44696",
+      "en": "changes",
+      "vi": "các thay đổi",
+      "kind": "word",
+      "example": "As far as I know, no changes were made.",
+      "translation": "Theo tôi biết, chưa có thay đổi nào.",
+      "lessonIds": [
+        74,
+        108
+      ]
+    },
+    {
+      "id": "v-e1a31b3e461a",
+      "en": "recurring",
+      "vi": "tái diễn",
+      "kind": "word",
+      "example": "It seems that the issue is recurring.",
+      "translation": "Có vẻ lỗi đang tái diễn.",
+      "lessonIds": [
+        75,
+        157
+      ]
+    },
+    {
+      "id": "v-fd2a7e1cb00c",
+      "en": "unstable",
+      "vi": "không ổn định",
+      "kind": "word",
+      "example": "It seems that the sensor is unstable.",
+      "translation": "Có vẻ cảm biến không ổn định.",
+      "lessonIds": [
+        75,
+        84,
+        133,
+        141
+      ]
+    },
+    {
+      "id": "v-5aaf8905f32a",
+      "en": "progress",
+      "vi": "tiến độ",
+      "kind": "word",
+      "example": "I feel that we're making progress.",
+      "translation": "Tôi cảm thấy chúng ta đang tiến bộ.",
+      "lessonIds": [
+        76,
+        197
+      ]
+    },
+    {
+      "id": "v-ccfcd3664e19",
+      "en": "feel",
+      "vi": "cảm thấy",
+      "kind": "word",
+      "example": "I feel that this is unfair.",
+      "translation": "Tôi cảm thấy điều này không công bằng.",
+      "lessonIds": [
+        76,
+        187
+      ]
+    },
+    {
+      "id": "v-f584439dd0ea",
+      "en": "disagree",
+      "vi": "không đồng ý",
+      "kind": "word",
+      "example": "I disagree with that conclusion.",
+      "translation": "Tôi không đồng ý với kết luận đó.",
+      "lessonIds": [
+        78
+      ]
+    },
+    {
+      "id": "v-84c1951c150c",
+      "en": "I disagree with that conclusion.",
+      "vi": "Tôi không đồng ý với kết luận đó.",
+      "kind": "expression",
+      "example": "I disagree with that conclusion.",
+      "translation": "Tôi không đồng ý với kết luận đó.",
+      "lessonIds": [
+        78
+      ]
+    },
+    {
+      "id": "v-b0796e5caf91",
+      "en": "I respectfully disagree with you.",
+      "vi": "Tôi xin phép có ý kiến khác với bạn.",
+      "kind": "expression",
+      "example": "I respectfully disagree with you.",
+      "translation": "Tôi xin phép có ý kiến khác với bạn.",
+      "lessonIds": [
+        78
+      ]
+    },
+    {
+      "id": "v-100ec4462dec",
+      "en": "evidence",
+      "vi": "bằng chứng",
+      "kind": "word",
+      "example": "I partly agree, but we need more evidence.",
+      "translation": "Tôi đồng ý một phần, nhưng cần thêm bằng chứng.",
+      "lessonIds": [
+        79,
+        95,
+        140,
+        172
+      ]
+    },
+    {
+      "id": "v-069fd3a44db6",
+      "en": "trial",
+      "vi": "đợt chạy thử",
+      "kind": "word",
+      "example": "I partly agree, but we should run a trial first.",
+      "translation": "Tôi đồng ý một phần, nhưng nên chạy thử trước.",
+      "lessonIds": [
+        79,
+        80,
+        87,
+        99,
+        109
+      ]
+    },
+    {
+      "id": "v-fd0a4950be7b",
+      "en": "suggest",
+      "vi": "đề xuất",
+      "kind": "word",
+      "example": "I suggest taking a break.",
+      "translation": "Tôi đề xuất nghỉ giải lao.",
+      "lessonIds": [
+        80
+      ]
+    },
+    {
+      "id": "v-48a8832d1417",
+      "en": "frequency",
+      "vi": "tần suất",
+      "kind": "word",
+      "example": "How about increasing the check frequency?",
+      "translation": "Tăng tần suất kiểm tra thì sao?",
+      "lessonIds": [
+        82,
+        124
+      ]
+    },
+    {
+      "id": "v-bfbaf8b2d1cd",
+      "en": "method",
+      "vi": "phương pháp",
+      "kind": "word",
+      "example": "How about trying another method?",
+      "translation": "Thử phương pháp khác thì sao?",
+      "lessonIds": [
+        82,
+        90,
+        133,
+        166
+      ]
+    },
+    {
+      "id": "v-ab464f025204",
+      "en": "delay",
+      "vi": "sự chậm trễ; trì hoãn",
+      "kind": "word",
+      "example": "We'd better not delay the decision.",
+      "translation": "Tốt hơn không nên trì hoãn quyết định.",
+      "lessonIds": [
+        83,
+        110,
+        183
+      ]
+    },
+    {
+      "id": "v-1e28e36dc5e9",
+      "en": "The reason is that the material is unstable.",
+      "vi": "Lý do là vật liệu không ổn định.",
+      "kind": "expression",
+      "example": "The reason is that the material is unstable.",
+      "translation": "Lý do là vật liệu không ổn định.",
+      "lessonIds": [
+        84
+      ]
+    },
+    {
+      "id": "v-e05584535f18",
+      "en": "because of",
+      "vi": "bởi vì; do",
+      "kind": "phrase",
+      "example": "The road is closed because of flooding.",
+      "translation": "Đường bị đóng do ngập.",
+      "lessonIds": [
+        85
+      ]
+    },
+    {
+      "id": "v-dcd5e5991d0c",
+      "en": "contamination",
+      "vi": "sự nhiễm bẩn",
+      "kind": "word",
+      "example": "Yield dropped because of contamination.",
+      "translation": "Tỷ lệ đạt giảm do nhiễm bẩn.",
+      "lessonIds": [
+        85,
+        144,
+        156
+      ]
+    },
+    {
+      "id": "v-ea88fbaa99b7",
+      "en": "closed",
+      "vi": "đã đóng cửa",
+      "kind": "word",
+      "example": "The road is closed because of flooding.",
+      "translation": "Đường bị đóng do ngập.",
+      "lessonIds": [
+        85,
+        102,
+        111
+      ]
+    },
+    {
+      "id": "v-1ca7c5fd3464",
+      "en": "variation",
+      "vi": "sự biến thiên",
+      "kind": "word",
+      "example": "The defect was due to material variation.",
+      "translation": "Lỗi do biến động vật liệu.",
+      "lessonIds": [
+        86,
+        95,
+        133,
+        145,
+        147
+      ]
+    },
+    {
+      "id": "v-af9b7efaffb8",
+      "en": "handling",
+      "vi": "việc thao tác; xử lý",
+      "kind": "word",
+      "example": "The issue occurred due to improper handling.",
+      "translation": "Vấn đề xảy ra do thao tác không đúng.",
+      "lessonIds": [
+        86,
+        95,
+        126,
+        140,
+        141,
+        144,
+        145,
+        155
+      ]
+    },
+    {
+      "id": "v-fc399f91c8b8",
+      "en": "increased",
+      "vi": "đã tăng",
+      "kind": "word",
+      "example": "Costs increased. Therefore, we must review the budget.",
+      "translation": "Chi phí tăng. Vì vậy, phải xem lại ngân sách.",
+      "lessonIds": [
+        87,
+        134,
+        137,
+        156
+      ]
+    },
+    {
+      "id": "v-012071d73592",
+      "en": "therefore",
+      "vi": "do đó",
+      "kind": "word",
+      "example": "The test failed. Therefore, we need another trial.",
+      "translation": "Thử nghiệm thất bại. Vì vậy, cần thử lại.",
+      "lessonIds": [
+        87
+      ]
+    },
+    {
+      "id": "v-500f872eb198",
+      "en": "however",
+      "vi": "tuy nhiên",
+      "kind": "word",
+      "example": "The idea is good. However, it's expensive.",
+      "translation": "Ý tưởng hay. Tuy nhiên, nó đắt.",
+      "lessonIds": [
+        88
+      ]
+    },
+    {
+      "id": "v-4ff18f00176f",
+      "en": "quality",
+      "vi": "chất lượng",
+      "kind": "word",
+      "example": "The process is faster. However, quality may be affected.",
+      "translation": "Quy trình nhanh hơn. Tuy nhiên, chất lượng có thể bị ảnh hưởng.",
+      "lessonIds": [
+        88,
+        126,
+        155
+      ]
+    },
+    {
+      "id": "v-dea713fc735e",
+      "en": "although",
+      "vi": "mặc dù",
+      "kind": "word",
+      "example": "Although I'm tired, I'll finish it.",
+      "translation": "Dù mệt, tôi sẽ hoàn thành.",
+      "lessonIds": [
+        89
+      ]
+    },
+    {
+      "id": "v-2ecffa0d0adc",
+      "en": "improved",
+      "vi": "đã cải thiện",
+      "kind": "word",
+      "example": "Although the rate improved, we're below target.",
+      "translation": "Dù tỷ lệ đã cải thiện, chúng ta vẫn chưa đạt mục tiêu.",
+      "lessonIds": [
+        89,
+        92,
+        133,
+        135,
+        148,
+        155
+      ]
+    },
+    {
+      "id": "v-511e99115957",
+      "en": "tired",
+      "vi": "mệt mỏi",
+      "kind": "word",
+      "example": "Although I'm tired, I'll finish it.",
+      "translation": "Dù mệt, tôi sẽ hoàn thành.",
+      "lessonIds": [
+        89
+      ]
+    },
+    {
+      "id": "v-73710e07ad77",
+      "en": "on the other hand",
+      "vi": "mặt khác",
+      "kind": "phrase",
+      "example": "This option is cheap. On the other hand, it's slower.",
+      "translation": "Phương án này rẻ. Mặt khác, nó chậm hơn.",
+      "lessonIds": [
+        90
+      ]
+    },
+    {
+      "id": "v-7e2fb968a45f",
+      "en": "for example",
+      "vi": "ví dụ",
+      "kind": "phrase",
+      "example": "We need healthy habits, for example, regular exercise.",
+      "translation": "Chúng ta cần thói quen lành mạnh, ví dụ tập thể dục thường xuyên.",
+      "lessonIds": [
+        91
+      ]
+    },
+    {
+      "id": "v-d7cee4d0de5f",
+      "en": "downtime",
+      "vi": "thời gian dừng máy",
+      "kind": "word",
+      "example": "We need basic data, for example, yield and downtime.",
+      "translation": "Chúng ta cần dữ liệu cơ bản, ví dụ tỷ lệ đạt và thời gian dừng máy.",
+      "lessonIds": [
+        91,
+        136
+      ]
+    },
+    {
+      "id": "v-f669be6f4697",
+      "en": "in addition",
+      "vi": "ngoài ra",
+      "kind": "phrase",
+      "example": "The tool is fast. In addition, it's easy to use.",
+      "translation": "Công cụ nhanh. Ngoài ra, nó dễ dùng.",
+      "lessonIds": [
+        92
+      ]
+    },
+    {
+      "id": "v-e6642a951dd4",
+      "en": "reduced",
+      "vi": "đã giảm",
+      "kind": "word",
+      "example": "We improved yield. In addition, we reduced cost.",
+      "translation": "Chúng tôi tăng tỷ lệ đạt. Ngoài ra, còn giảm chi phí.",
+      "lessonIds": [
+        92
+      ]
+    },
+    {
+      "id": "v-321d2aeba490",
+      "en": "in other words",
+      "vi": "nói cách khác",
+      "kind": "phrase",
+      "example": "The data is inconsistent. In other words, we can't trust it yet.",
+      "translation": "Dữ liệu không nhất quán. Nói cách khác, chưa thể tin cậy.",
+      "lessonIds": [
+        93
+      ]
+    },
+    {
+      "id": "v-94509ddf85cc",
+      "en": "prevention",
+      "vi": "sự phòng ngừa",
+      "kind": "word",
+      "example": "We need prevention. In other words, don't wait for defects.",
+      "translation": "Chúng ta cần phòng ngừa. Nói cách khác, đừng chờ lỗi xảy ra.",
+      "lessonIds": [
+        93,
+        94,
+        126
+      ]
+    },
+    {
+      "id": "v-1029d6764481",
+      "en": "output",
+      "vi": "sản lượng",
+      "kind": "word",
+      "example": "The line is at capacity. In other words, we can't add output.",
+      "translation": "Chuyền đã hết công suất. Nói cách khác, không thể tăng sản lượng.",
+      "lessonIds": [
+        93,
+        137,
+        138
+      ]
+    },
+    {
+      "id": "v-efb893611e6f",
+      "en": "words",
+      "vi": "các từ",
+      "kind": "word",
+      "example": "The data is inconsistent. In other words, we can't trust it yet.",
+      "translation": "Dữ liệu không nhất quán. Nói cách khác, chưa thể tin cậy.",
+      "lessonIds": [
+        93
+      ]
+    },
+    {
+      "id": "v-b6953ddde01e",
+      "en": "focus on",
+      "vi": "tập trung vào",
+      "kind": "phrase",
+      "example": "What I mean is we should focus on prevention.",
+      "translation": "Ý tôi là nên tập trung phòng ngừa.",
+      "lessonIds": [
+        94,
+        126
+      ]
+    },
+    {
+      "id": "v-f8eb525d26e1",
+      "en": "conditions",
+      "vi": "các điều kiện",
+      "kind": "word",
+      "example": "What I mean is the test conditions were different.",
+      "translation": "Ý tôi là điều kiện thử nghiệm khác nhau.",
+      "lessonIds": [
+        94,
+        142,
+        165
+      ]
+    },
+    {
+      "id": "v-b39f008e318e",
+      "en": "customer",
+      "vi": "khách hàng",
+      "kind": "word",
+      "example": "The main point is customer satisfaction.",
+      "translation": "Điểm chính là sự hài lòng của khách hàng.",
+      "lessonIds": [
+        95,
+        123,
+        150,
+        160,
+        163,
+        170,
+        174,
+        175
+      ]
+    },
+    {
+      "id": "v-3179a65eff25",
+      "en": "correct",
+      "vi": "đúng; chính xác",
+      "kind": "word",
+      "example": "I'm not sure if the data is correct.",
+      "translation": "Tôi không chắc dữ liệu đúng.",
+      "lessonIds": [
+        97,
+        158
+      ]
+    },
+    {
+      "id": "v-a9e7c6816e41",
+      "en": "it depends on",
+      "vi": "điều đó phụ thuộc vào",
+      "kind": "phrase",
+      "example": "It depends on the weather.",
+      "translation": "Còn tùy thời tiết.",
+      "lessonIds": [
+        98
+      ]
+    },
+    {
+      "id": "v-4377215cccd0",
+      "en": "test result",
+      "vi": "kết quả kiểm thử",
+      "kind": "phrase",
+      "example": "It depends on the test result.",
+      "translation": "Còn tùy kết quả thử nghiệm.",
+      "lessonIds": [
+        98,
+        151,
+        167
+      ]
+    },
+    {
+      "id": "v-0ec6d1505497",
+      "en": "response",
+      "vi": "phản hồi",
+      "kind": "word",
+      "example": "It depends on the supplier's response.",
+      "translation": "Còn tùy phản hồi nhà cung cấp.",
+      "lessonIds": [
+        98,
+        151
+      ]
+    },
+    {
+      "id": "v-217965bd1ded",
+      "en": "stay home",
+      "vi": "ở nhà",
+      "kind": "phrase",
+      "example": "If it rains, I'll stay home.",
+      "translation": "Nếu trời mưa, tôi sẽ ở nhà.",
+      "lessonIds": [
+        99,
+        183
+      ]
+    },
+    {
+      "id": "v-7afc62b8cbf8",
+      "en": "take a break",
+      "vi": "nghỉ giải lao",
+      "kind": "phrase",
+      "example": "If I were you, I'd take a break.",
+      "translation": "Nếu là bạn, tôi sẽ nghỉ chút.",
+      "lessonIds": [
+        100,
+        197
+      ]
+    },
+    {
+      "id": "v-0269f50d8530",
+      "en": "closer",
+      "vi": "gần hơn",
+      "kind": "word",
+      "example": "If I lived closer, I'd walk to work.",
+      "translation": "Nếu ở gần hơn, tôi sẽ đi bộ đi làm.",
+      "lessonIds": [
+        100,
+        159,
+        186
+      ]
+    },
+    {
+      "id": "v-52f7f7cc6f8d",
+      "en": "go out",
+      "vi": "đi ra ngoài",
+      "kind": "phrase",
+      "example": "Unless it rains, we'll go out.",
+      "translation": "Nếu trời không mưa, chúng ta sẽ đi chơi.",
+      "lessonIds": [
+        101,
+        183
+      ]
+    },
+    {
+      "id": "v-cae355b615b6",
+      "en": "please",
+      "vi": "làm ơn; vui lòng",
+      "kind": "word",
+      "example": "Please come in.",
+      "translation": "Mời vào.",
+      "lessonIds": [
+        102,
+        103,
+        158,
+        178
+      ]
+    },
+    {
+      "id": "v-1e5d33970728",
+      "en": "Can I sit here?",
+      "vi": "Tôi ngồi đây được không?",
+      "kind": "expression",
+      "example": "Can I sit here?",
+      "translation": "Tôi ngồi đây được không?",
+      "lessonIds": [
+        104
+      ]
+    },
+    {
+      "id": "v-f50fc139c678",
+      "en": "Can I ask you something?",
+      "vi": "Tôi hỏi bạn chuyện này được không?",
+      "kind": "expression",
+      "example": "Can I ask you something?",
+      "translation": "Tôi hỏi bạn chuyện này được không?",
+      "lessonIds": [
+        104
+      ]
+    },
+    {
+      "id": "v-a1af750ebb01",
+      "en": "Can I leave a little early?",
+      "vi": "Tôi về sớm chút được không?",
+      "kind": "expression",
+      "example": "Can I leave a little early?",
+      "translation": "Tôi về sớm chút được không?",
+      "lessonIds": [
+        104
+      ]
+    },
+    {
+      "id": "v-23a230612ee1",
+      "en": "May I come in?",
+      "vi": "Tôi xin phép vào được không?",
+      "kind": "expression",
+      "example": "May I come in?",
+      "translation": "Tôi xin phép vào được không?",
+      "lessonIds": [
+        105
+      ]
+    },
+    {
+      "id": "v-92a663b98b41",
+      "en": "May I ask a question?",
+      "vi": "Tôi xin hỏi một câu được không?",
+      "kind": "expression",
+      "example": "May I ask a question?",
+      "translation": "Tôi xin hỏi một câu được không?",
+      "lessonIds": [
+        105
+      ]
+    },
+    {
+      "id": "v-d541cb1fc825",
+      "en": "May I see the document?",
+      "vi": "Tôi xin xem tài liệu được không?",
+      "kind": "expression",
+      "example": "May I see the document?",
+      "translation": "Tôi xin xem tài liệu được không?",
+      "lessonIds": [
+        105
+      ]
+    },
+    {
+      "id": "v-75490f32c06a",
+      "en": "tea",
+      "vi": "trà",
+      "kind": "word",
+      "example": "Would you like some tea?",
+      "translation": "Bạn uống trà không?",
+      "lessonIds": [
+        106
+      ]
+    },
+    {
+      "id": "v-0a73b5cb692c",
+      "en": "call you back",
+      "vi": "gọi lại cho bạn",
+      "kind": "phrase",
+      "example": "Let me call you back.",
+      "translation": "Để tôi gọi lại cho bạn.",
+      "lessonIds": [
+        107
+      ]
+    },
+    {
+      "id": "v-eea0325f09ff",
+      "en": "situation",
+      "vi": "tình huống",
+      "kind": "word",
+      "example": "Let me explain the situation.",
+      "translation": "Để tôi giải thích tình hình.",
+      "lessonIds": [
+        107
+      ]
+    },
+    {
+      "id": "v-85973bd151f0",
+      "en": "let me know",
+      "vi": "hãy cho tôi biết",
+      "kind": "phrase",
+      "example": "Let me know when you arrive.",
+      "translation": "Cho tôi biết khi bạn đến.",
+      "lessonIds": [
+        108
+      ]
+    },
+    {
+      "id": "v-163001e29033",
+      "en": "arrive",
+      "vi": "đến nơi",
+      "kind": "word",
+      "example": "Let me know when you arrive.",
+      "translation": "Cho tôi biết khi bạn đến.",
+      "lessonIds": [
+        108
+      ]
+    },
+    {
+      "id": "v-897a1c598764",
+      "en": "thank you",
+      "vi": "cảm ơn",
+      "kind": "phrase",
+      "example": "Thank you for your help.",
+      "translation": "Cảm ơn bạn đã giúp.",
+      "lessonIds": [
+        109
+      ]
+    },
+    {
+      "id": "v-10bb09f9bddc",
+      "en": "patience",
+      "vi": "sự kiên nhẫn",
+      "kind": "word",
+      "example": "Thank you for your patience.",
+      "translation": "Cảm ơn bạn đã kiên nhẫn.",
+      "lessonIds": [
+        109
+      ]
+    },
+    {
+      "id": "v-85a71acd1961",
+      "en": "inconvenience",
+      "vi": "sự bất tiện",
+      "kind": "word",
+      "example": "Sorry for the inconvenience.",
+      "translation": "Xin lỗi vì sự bất tiện.",
+      "lessonIds": [
+        110
+      ]
+    },
+    {
+      "id": "v-e86f192ae923",
+      "en": "interrupting",
+      "vi": "việc ngắt lời",
+      "kind": "word",
+      "example": "Sorry for interrupting.",
+      "translation": "Xin lỗi vì đã ngắt lời.",
+      "lessonIds": [
+        110
+      ]
+    },
+    {
+      "id": "v-cfc8b23ab1a1",
+      "en": "confusion",
+      "vi": "sự nhầm lẫn",
+      "kind": "word",
+      "example": "Sorry for the confusion.",
+      "translation": "Xin lỗi vì gây hiểu nhầm.",
+      "lessonIds": [
+        110
+      ]
+    },
+    {
+      "id": "v-dd7b1d0288f0",
+      "en": "sorry",
+      "vi": "xin lỗi",
+      "kind": "word",
+      "example": "Sorry for being late.",
+      "translation": "Xin lỗi vì đến muộn.",
+      "lessonIds": [
+        110
+      ]
+    },
+    {
+      "id": "v-25018d83422a",
+      "en": "excuse me",
+      "vi": "xin phép; xin lỗi để gây chú ý",
+      "kind": "phrase",
+      "example": "Excuse me, is this seat taken?",
+      "translation": "Xin lỗi, ghế này có người ngồi chưa?",
+      "lessonIds": [
+        112
+      ]
+    },
+    {
+      "id": "v-624851096d1b",
+      "en": "restroom",
+      "vi": "nhà vệ sinh",
+      "kind": "word",
+      "example": "Excuse me, where is the restroom?",
+      "translation": "Xin lỗi, nhà vệ sinh ở đâu?",
+      "lessonIds": [
+        112
+      ]
+    },
+    {
+      "id": "v-ac814ccccbf9",
+      "en": "seat",
+      "vi": "chỗ ngồi",
+      "kind": "word",
+      "example": "Excuse me, is this seat taken?",
+      "translation": "Xin lỗi, ghế này có người ngồi chưa?",
+      "lessonIds": [
+        112
+      ]
+    },
+    {
+      "id": "v-7bf7ca17c6c6",
+      "en": "no problem",
+      "vi": "không có vấn đề gì",
+      "kind": "phrase",
+      "example": "No problem, I can wait.",
+      "translation": "Không sao, tôi có thể đợi.",
+      "lessonIds": [
+        113
+      ]
+    },
+    {
+      "id": "v-483f112c6848",
+      "en": "no worries",
+      "vi": "đừng lo",
+      "kind": "phrase",
+      "example": "No worries, it happens.",
+      "translation": "Không sao đâu, chuyện đó có thể xảy ra.",
+      "lessonIds": [
+        113
+      ]
+    },
+    {
+      "id": "v-b021df71688f",
+      "en": "reschedule",
+      "vi": "đổi lịch",
+      "kind": "word",
+      "example": "No worries, we can reschedule.",
+      "translation": "Không sao, ta có thể đổi lịch.",
+      "lessonIds": [
+        113
+      ]
+    },
+    {
+      "id": "v-daaad336276d",
+      "en": "wait",
+      "vi": "chờ",
+      "kind": "word",
+      "example": "No problem, I can wait.",
+      "translation": "Không sao, tôi có thể đợi.",
+      "lessonIds": [
+        113
+      ]
+    },
+    {
+      "id": "v-d1b38a28131e",
+      "en": "you're welcome",
+      "vi": "không có gì (đáp lại lời cảm ơn)",
+      "kind": "phrase",
+      "example": "You're welcome!",
+      "translation": "Không có gì!",
+      "lessonIds": [
+        114
+      ]
+    },
+    {
+      "id": "v-8026ed647ec0",
+      "en": "my pleasure",
+      "vi": "rất hân hạnh",
+      "kind": "phrase",
+      "example": "My pleasure.",
+      "translation": "Rất hân hạnh.",
+      "lessonIds": [
+        114
+      ]
+    },
+    {
+      "id": "v-6f2cbfec8210",
+      "en": "anytime",
+      "vi": "bất cứ lúc nào",
+      "kind": "word",
+      "example": "Anytime!",
+      "translation": "Bất cứ khi nào bạn cần!",
+      "lessonIds": [
+        114
+      ]
+    },
+    {
+      "id": "v-c0b137fe2d79",
+      "en": "welcome",
+      "vi": "được chào đón; hoan nghênh",
+      "kind": "word",
+      "example": "You're welcome!",
+      "translation": "Không có gì!",
+      "lessonIds": [
+        114
+      ]
+    },
+    {
+      "id": "v-3978d009748e",
+      "en": "happy",
+      "vi": "vui vẻ",
+      "kind": "word",
+      "example": "You're welcome, happy to help.",
+      "translation": "Không có gì, rất vui được giúp.",
+      "lessonIds": [
+        114
+      ]
+    },
+    {
+      "id": "v-6eae00bd772b",
+      "en": "another way",
+      "vi": "một cách khác",
+      "kind": "phrase",
+      "example": "Could you explain it another way?",
+      "translation": "Bạn giải thích theo cách khác được không?",
+      "lessonIds": [
+        115
+      ]
+    },
+    {
+      "id": "v-f07b6467bd60",
+      "en": "last part",
+      "vi": "phần cuối",
+      "kind": "phrase",
+      "example": "Could you repeat the last part?",
+      "translation": "Bạn nhắc lại đoạn cuối được không?",
+      "lessonIds": [
+        115
+      ]
+    },
+    {
+      "id": "v-ef8fe782bf94",
+      "en": "clarify",
+      "vi": "làm rõ",
+      "kind": "word",
+      "example": "Could you clarify what you mean?",
+      "translation": "Bạn có thể làm rõ ý không?",
+      "lessonIds": [
+        116,
+        166
+      ]
+    },
+    {
+      "id": "v-8d0cdea0adfc",
+      "en": "urgent",
+      "vi": "khẩn cấp",
+      "kind": "word",
+      "example": "What do you mean by 'urgent'?",
+      "translation": "Bạn muốn nói gì khi nói 'khẩn cấp'?",
+      "lessonIds": [
+        116
+      ]
+    },
+    {
+      "id": "v-2a1b875b84fa",
+      "en": "fine",
+      "vi": "ổn; tốt",
+      "kind": "word",
+      "example": "Yes, that's fine with me.",
+      "translation": "Vâng, tôi thấy ổn.",
+      "lessonIds": [
+        117
+      ]
+    },
+    {
+      "id": "v-f98961015a0a",
+      "en": "extension",
+      "vi": "sự gia hạn",
+      "kind": "word",
+      "example": "Would it be possible to get an extension?",
+      "translation": "Có thể gia hạn không?",
+      "lessonIds": [
+        118
+      ]
+    },
+    {
+      "id": "v-89833ceca672",
+      "en": "remotely",
+      "vi": "từ xa",
+      "kind": "word",
+      "example": "Would it be possible to work remotely tomorrow?",
+      "translation": "Ngày mai có thể làm từ xa không?",
+      "lessonIds": [
+        118
+      ]
+    },
+    {
+      "id": "v-9034ff9e2b8f",
+      "en": "together",
+      "vi": "cùng nhau",
+      "kind": "word",
+      "example": "Would it be possible to review this together?",
+      "translation": "Có thể cùng xem nội dung này không?",
+      "lessonIds": [
+        118
+      ]
+    },
+    {
+      "id": "v-6e546a8ece83",
+      "en": "appreciate",
+      "vi": "trân trọng; đánh giá cao",
+      "kind": "word",
+      "example": "I'd appreciate it if you replied today.",
+      "translation": "Tôi rất cảm kích nếu bạn phản hồi hôm nay.",
+      "lessonIds": [
+        119
+      ]
+    },
+    {
+      "id": "v-8c9922f76b3a",
+      "en": "informed",
+      "vi": "được thông báo",
+      "kind": "word",
+      "example": "I'd appreciate it if you kept me informed.",
+      "translation": "Tôi rất cảm kích nếu bạn tiếp tục cập nhật cho tôi.",
+      "lessonIds": [
+        119,
+        158
+      ]
+    },
+    {
+      "id": "v-7d3867a5ef22",
+      "en": "feel free to",
+      "vi": "cứ tự nhiên",
+      "kind": "phrase",
+      "example": "Feel free to ask questions.",
+      "translation": "Cứ tự nhiên đặt câu hỏi.",
+      "lessonIds": [
+        120
+      ]
+    },
+    {
+      "id": "v-851e13a65333",
+      "en": "chair",
+      "vi": "ghế",
+      "kind": "word",
+      "example": "Feel free to use this chair.",
+      "translation": "Cứ dùng ghế này.",
+      "lessonIds": [
+        120
+      ]
+    },
+    {
+      "id": "v-125baf5d44b0",
+      "en": "ideas",
+      "vi": "các ý tưởng",
+      "kind": "word",
+      "example": "Feel free to share your ideas.",
+      "translation": "Cứ thoải mái chia sẻ ý tưởng.",
+      "lessonIds": [
+        120
+      ]
+    },
+    {
+      "id": "v-0e0730d60c07",
+      "en": "purchasing",
+      "vi": "mua hàng",
+      "kind": "word",
+      "example": "She's responsible for purchasing.",
+      "translation": "Cô ấy phụ trách mua hàng.",
+      "lessonIds": [
+        121
+      ]
+    },
+    {
+      "id": "v-5b30e2c5ecb9",
+      "en": "maintenance",
+      "vi": "bảo trì",
+      "kind": "word",
+      "example": "He's in charge of maintenance.",
+      "translation": "Anh ấy phụ trách bảo trì.",
+      "lessonIds": [
+        122,
+        139
+      ]
+    },
+    {
+      "id": "v-90f9b69fcbf8",
+      "en": "inspection",
+      "vi": "kiểm tra chất lượng",
+      "kind": "word",
+      "example": "QA is in charge of final inspection.",
+      "translation": "QA phụ trách kiểm tra cuối.",
+      "lessonIds": [
+        122,
+        124,
+        146,
+        169
+      ]
+    },
+    {
+      "id": "v-5545a3812ab6",
+      "en": "customer complaint",
+      "vi": "khiếu nại của khách hàng",
+      "kind": "phrase",
+      "example": "She's working on the customer complaint.",
+      "translation": "Cô ấy đang xử lý khiếu nại khách hàng.",
+      "lessonIds": [
+        123,
+        175
+      ]
+    },
+    {
+      "id": "v-903571af4865",
+      "en": "complaint",
+      "vi": "khiếu nại",
+      "kind": "word",
+      "example": "She's working on the customer complaint.",
+      "translation": "Cô ấy đang xử lý khiếu nại khách hàng.",
+      "lessonIds": [
+        123,
+        175
+      ]
+    },
+    {
+      "id": "v-f9c9758ad2e5",
+      "en": "increase",
+      "vi": "tăng; sự gia tăng",
+      "kind": "word",
+      "example": "We're planning to increase inspection frequency.",
+      "translation": "Chúng tôi dự định tăng tần suất kiểm tra.",
+      "lessonIds": [
+        124,
+        136
+      ]
+    },
+    {
+      "id": "v-bdf5c73d18f4",
+      "en": "planning",
+      "vi": "việc lập kế hoạch",
+      "kind": "word",
+      "example": "We're planning to launch next month.",
+      "translation": "Chúng tôi dự định triển khai tháng tới.",
+      "lessonIds": [
+        124
+      ]
+    },
+    {
+      "id": "v-706b5235e9f3",
+      "en": "labor cost",
+      "vi": "chi phí nhân công",
+      "kind": "phrase",
+      "example": "Our target is to save labor cost.",
+      "translation": "Mục tiêu của chúng tôi là tiết kiệm chi phí nhân công.",
+      "lessonIds": [
+        125
+      ]
+    },
+    {
+      "id": "v-82bea5645079",
+      "en": "recurrence",
+      "vi": "sự tái diễn",
+      "kind": "word",
+      "example": "Our target is to prevent recurrence.",
+      "translation": "Mục tiêu là ngăn tái diễn.",
+      "lessonIds": [
+        125,
+        146,
+        147
+      ]
+    },
+    {
+      "id": "v-1b2bf1cea798",
+      "en": "prevent",
+      "vi": "ngăn ngừa",
+      "kind": "word",
+      "example": "Our target is to prevent recurrence.",
+      "translation": "Mục tiêu là ngăn tái diễn.",
+      "lessonIds": [
+        125,
+        157
+      ]
+    },
+    {
+      "id": "v-464e4361f38b",
+      "en": "on track",
+      "vi": "đúng tiến độ",
+      "kind": "phrase",
+      "example": "The current status is on track.",
+      "translation": "Tiến độ hiện tại đúng kế hoạch.",
+      "lessonIds": [
+        127,
+        132
+      ]
+    },
+    {
+      "id": "v-b6af7691e1c7",
+      "en": "investigation",
+      "vi": "việc điều tra",
+      "kind": "word",
+      "example": "The current status is under investigation.",
+      "translation": "Trạng thái hiện tại là đang điều tra.",
+      "lessonIds": [
+        127
+      ]
+    },
+    {
+      "id": "v-e22586930a5b",
+      "en": "pending",
+      "vi": "đang chờ xử lý",
+      "kind": "word",
+      "example": "The current status is pending approval.",
+      "translation": "Hiện đang chờ phê duyệt.",
+      "lessonIds": [
+        127,
+        151,
+        171
+      ]
+    },
+    {
+      "id": "v-fe96dd39756a",
+      "en": "operator",
+      "vi": "người vận hành",
+      "kind": "word",
+      "example": "We have completed operator training.",
+      "translation": "Chúng tôi đã hoàn thành đào tạo công nhân.",
+      "lessonIds": [
+        128,
+        143
+      ]
+    },
+    {
+      "id": "v-de93ba2d15f3",
+      "en": "extend",
+      "vi": "gia hạn",
+      "kind": "word",
+      "example": "Can we extend the deadline?",
+      "translation": "Chúng ta có thể gia hạn không?",
+      "lessonIds": [
+        130
+      ]
+    },
+    {
+      "id": "v-021710fa7866",
+      "en": "month",
+      "vi": "tháng",
+      "kind": "word",
+      "example": "The deadline is the end of this month.",
+      "translation": "Hạn cuối là cuối tháng này.",
+      "lessonIds": [
+        130
+      ]
+    },
+    {
+      "id": "v-8bb7858a79d6",
+      "en": "ahead of schedule",
+      "vi": "sớm hơn tiến độ",
+      "kind": "phrase",
+      "example": "We're ahead of schedule.",
+      "translation": "Chúng tôi sớm hơn kế hoạch.",
+      "lessonIds": [
+        131
+      ]
+    },
+    {
+      "id": "v-a69cbee7e3a4",
+      "en": "behind schedule",
+      "vi": "chậm tiến độ",
+      "kind": "phrase",
+      "example": "We're behind schedule by two days.",
+      "translation": "Chúng tôi chậm tiến độ hai ngày.",
+      "lessonIds": [
+        131
+      ]
+    },
+    {
+      "id": "v-00364068dc77",
+      "en": "recovery plan",
+      "vi": "kế hoạch khôi phục tiến độ",
+      "kind": "phrase",
+      "example": "We need a recovery plan to get back on schedule.",
+      "translation": "Chúng ta cần kế hoạch bù tiến độ.",
+      "lessonIds": [
+        131
+      ]
+    },
+    {
+      "id": "v-57c69e7643e7",
+      "en": "on schedule",
+      "vi": "đúng lịch",
+      "kind": "phrase",
+      "example": "We're on schedule.",
+      "translation": "Chúng tôi đúng tiến độ.",
+      "lessonIds": [
+        131
+      ]
+    },
+    {
+      "id": "v-f7c91fefc9c3",
+      "en": "launch",
+      "vi": "ra mắt; triển khai",
+      "kind": "word",
+      "example": "Are we on track to launch?",
+      "translation": "Chúng ta có đúng tiến độ triển khai không?",
+      "lessonIds": [
+        132
+      ]
+    },
+    {
+      "id": "v-c9279f09f829",
+      "en": "loss",
+      "vi": "tổn thất",
+      "kind": "word",
+      "example": "We're on track to reduce the loss.",
+      "translation": "Chúng tôi đang đúng tiến độ giảm tổn thất.",
+      "lessonIds": [
+        132
+      ]
+    },
+    {
+      "id": "v-3afbcfb4c94c",
+      "en": "according to",
+      "vi": "theo như",
+      "kind": "phrase",
+      "example": "According to the report, the yield increased.",
+      "translation": "Theo báo cáo, tỷ lệ đạt tăng.",
+      "lessonIds": [
+        134
+      ]
+    },
+    {
+      "id": "v-319f64f420c6",
+      "en": "compared with",
+      "vi": "so với",
+      "kind": "phrase",
+      "example": "Compared with yesterday, yield improved.",
+      "translation": "So với hôm qua, tỷ lệ đạt đã tăng.",
+      "lessonIds": [
+        135
+      ]
+    },
+    {
+      "id": "v-22b116248b65",
+      "en": "decreased",
+      "vi": "đã giảm",
+      "kind": "word",
+      "example": "Compared with last month, costs decreased.",
+      "translation": "So với tháng trước, chi phí giảm.",
+      "lessonIds": [
+        135,
+        137,
+        147,
+        148
+      ]
+    },
+    {
+      "id": "v-0d117e422ae6",
+      "en": "productivity",
+      "vi": "năng suất",
+      "kind": "word",
+      "example": "There is an increase in productivity.",
+      "translation": "Năng suất đang tăng.",
+      "lessonIds": [
+        136
+      ]
+    },
+    {
+      "id": "v-639f520f9593",
+      "en": "significant",
+      "vi": "đáng kể",
+      "kind": "word",
+      "example": "There is a significant increase in scrap.",
+      "translation": "Phế phẩm tăng đáng kể.",
+      "lessonIds": [
+        136
+      ]
+    },
+    {
+      "id": "v-110dd32f9306",
+      "en": "decrease",
+      "vi": "giảm; sự suy giảm",
+      "kind": "word",
+      "example": "There is a decrease in downtime.",
+      "translation": "Có sự giảm thời gian dừng máy.",
+      "lessonIds": [
+        136
+      ]
+    },
+    {
+      "id": "v-7033e90fcdda",
+      "en": "temperature",
+      "vi": "nhiệt độ",
+      "kind": "word",
+      "example": "Temperature increased from 60 to 65 degrees Celsius.",
+      "translation": "Nhiệt độ tăng từ 60 lên 65 độ C.",
+      "lessonIds": [
+        137,
+        145
+      ]
+    },
+    {
+      "id": "v-745d1918a44b",
+      "en": "monthly",
+      "vi": "hằng tháng",
+      "kind": "word",
+      "example": "We achieved the monthly target.",
+      "translation": "Chúng tôi đã đạt mục tiêu tháng.",
+      "lessonIds": [
+        138
+      ]
+    },
+    {
+      "id": "v-80e61027a7c9",
+      "en": "planned",
+      "vi": "đã lên kế hoạch",
+      "kind": "word",
+      "example": "The team achieved the planned output.",
+      "translation": "Nhóm đạt sản lượng kế hoạch.",
+      "lessonIds": [
+        138
+      ]
+    },
+    {
+      "id": "v-dfe4754bfccf",
+      "en": "lack of",
+      "vi": "sự thiếu",
+      "kind": "phrase",
+      "example": "The key issue is lack of data.",
+      "translation": "Vấn đề chính là thiếu dữ liệu.",
+      "lessonIds": [
+        139
+      ]
+    },
+    {
+      "id": "v-9fea79407360",
+      "en": "ownership",
+      "vi": "trách nhiệm phụ trách",
+      "kind": "word",
+      "example": "The key issue is unclear ownership.",
+      "translation": "Vấn đề chính là trách nhiệm chưa rõ.",
+      "lessonIds": [
+        139
+      ]
+    },
+    {
+      "id": "v-d35ce8acb0d0",
+      "en": "confirmed",
+      "vi": "đã xác nhận",
+      "kind": "word",
+      "example": "We haven't confirmed the root cause yet.",
+      "translation": "Chúng tôi chưa xác nhận được nguyên nhân gốc.",
+      "lessonIds": [
+        140
+      ]
+    },
+    {
+      "id": "v-6c03ac0ea724",
+      "en": "incorrect",
+      "vi": "không đúng",
+      "kind": "word",
+      "example": "The root cause is incorrect setup.",
+      "translation": "Nguyên nhân gốc là cài đặt sai.",
+      "lessonIds": [
+        140,
+        144
+      ]
+    },
+    {
+      "id": "v-58b2f303ba75",
+      "en": "involved",
+      "vi": "có liên quan",
+      "kind": "word",
+      "example": "We suspect that moisture is involved.",
+      "translation": "Chúng tôi nghi ngờ có liên quan đến độ ẩm.",
+      "lessonIds": [
+        141
+      ]
+    },
+    {
+      "id": "v-b45c41a1bed8",
+      "en": "moisture",
+      "vi": "hơi ẩm",
+      "kind": "word",
+      "example": "We suspect that moisture is involved.",
+      "translation": "Chúng tôi nghi ngờ có liên quan đến độ ẩm.",
+      "lessonIds": [
+        141
+      ]
+    },
+    {
+      "id": "v-358bf3e5959c",
+      "en": "suspect",
+      "vi": "nghi ngờ",
+      "kind": "word",
+      "example": "We suspect that the liner is too thick.",
+      "translation": "Chúng tôi nghi ngờ liner quá dày.",
+      "lessonIds": [
+        141
+      ]
+    },
+    {
+      "id": "v-3cc1d5a427a4",
+      "en": "settings",
+      "vi": "các thông số cài đặt",
+      "kind": "word",
+      "example": "We need to verify the machine settings.",
+      "translation": "Cần xác minh cài đặt máy.",
+      "lessonIds": [
+        142,
+        144
+      ]
+    },
+    {
+      "id": "v-3b959693d09b",
+      "en": "whether",
+      "vi": "liệu rằng",
+      "kind": "word",
+      "example": "We need to verify whether the issue recurs.",
+      "translation": "Cần xác minh lỗi có tái diễn không.",
+      "lessonIds": [
+        142,
+        152
+      ]
+    },
+    {
+      "id": "v-86a4261d849a",
+      "en": "verify",
+      "vi": "xác minh",
+      "kind": "word",
+      "example": "We need to verify the data.",
+      "translation": "Chúng ta cần xác minh dữ liệu.",
+      "lessonIds": [
+        142
+      ]
+    },
+    {
+      "id": "v-2e8974b2e621",
+      "en": "power failure",
+      "vi": "mất điện",
+      "kind": "phrase",
+      "example": "The delay was caused by a power failure.",
+      "translation": "Chậm trễ do mất điện.",
+      "lessonIds": [
+        144
+      ]
+    },
+    {
+      "id": "v-7a4ffdc40250",
+      "en": "trapped air",
+      "vi": "khí bị giữ lại",
+      "kind": "phrase",
+      "example": "The bubble was caused by trapped air.",
+      "translation": "Bọt khí do không khí bị giữ lại.",
+      "lessonIds": [
+        144
+      ]
+    },
+    {
+      "id": "v-bedcc40ee5df",
+      "en": "equipment",
+      "vi": "thiết bị",
+      "kind": "word",
+      "example": "The failure may be related to aging equipment.",
+      "translation": "Sự cố có thể liên quan đến thiết bị xuống cấp.",
+      "lessonIds": [
+        145
+      ]
+    },
+    {
+      "id": "v-a85df8270dcc",
+      "en": "humidity",
+      "vi": "độ ẩm không khí",
+      "kind": "word",
+      "example": "The defect may be related to humidity.",
+      "translation": "Lỗi có thể liên quan đến độ ẩm.",
+      "lessonIds": [
+        145
+      ]
+    },
+    {
+      "id": "v-d534eb4b269b",
+      "en": "stabilize",
+      "vi": "làm ổn định",
+      "kind": "word",
+      "example": "We've taken action to stabilize the line.",
+      "translation": "Chúng tôi đã hành động để ổn định chuyền.",
+      "lessonIds": [
+        146
+      ]
+    },
+    {
+      "id": "v-75328ef481b4",
+      "en": "bubbles",
+      "vi": "các bong bóng khí",
+      "kind": "word",
+      "example": "We've taken action to reduce bubbles.",
+      "translation": "Chúng tôi đã triển khai hành động giảm bọt khí.",
+      "lessonIds": [
+        146
+      ]
+    },
+    {
+      "id": "v-da225248d262",
+      "en": "effective",
+      "vi": "có hiệu quả",
+      "kind": "word",
+      "example": "The action is effective because defects decreased.",
+      "translation": "Hành động hiệu quả vì lỗi đã giảm.",
+      "lessonIds": [
+        147
+      ]
+    },
+    {
+      "id": "v-eb6e74ca6cfe",
+      "en": "observed",
+      "vi": "đã được quan sát",
+      "kind": "word",
+      "example": "The action is effective because no recurrence was observed.",
+      "translation": "Hành động hiệu quả vì chưa ghi nhận tái diễn.",
+      "lessonIds": [
+        147
+      ]
+    },
+    {
+      "id": "v-74d348a2d9fd",
+      "en": "as a result",
+      "vi": "kết quả là",
+      "kind": "phrase",
+      "example": "We improved the setup. As a result, scrap decreased.",
+      "translation": "Chúng tôi cải tiến cài đặt. Kết quả là phế phẩm giảm.",
+      "lessonIds": [
+        148
+      ]
+    },
+    {
+      "id": "v-48e882dcf344",
+      "en": "mistakes",
+      "vi": "các sai sót",
+      "kind": "word",
+      "example": "The team trained operators. As a result, mistakes decreased.",
+      "translation": "Nhóm đào tạo công nhân. Kết quả là sai sót giảm.",
+      "lessonIds": [
+        148
+      ]
+    },
+    {
+      "id": "v-eee0bbba4ff9",
+      "en": "continue",
+      "vi": "tiếp tục",
+      "kind": "word",
+      "example": "We will continue to monitor yield.",
+      "translation": "Chúng tôi sẽ tiếp tục theo dõi tỷ lệ đạt.",
+      "lessonIds": [
+        149
+      ]
+    },
+    {
+      "id": "v-34eb4c4ef005",
+      "en": "action",
+      "vi": "hành động",
+      "kind": "word",
+      "example": "Please keep me updated on the action plan.",
+      "translation": "Vui lòng cập nhật kế hoạch hành động.",
+      "lessonIds": [
+        150,
+        163,
+        165,
+        166,
+        169
+      ]
+    },
+    {
+      "id": "v-ff4141bf61e1",
+      "en": "corrective action",
+      "vi": "hành động khắc phục",
+      "kind": "phrase",
+      "example": "I'll follow up on the corrective action.",
+      "translation": "Tôi sẽ theo dõi hành động khắc phục.",
+      "lessonIds": [
+        151
+      ]
+    },
+    {
+      "id": "v-af153c298286",
+      "en": "follow up",
+      "vi": "theo dõi tiếp; đôn đốc",
+      "kind": "phrase",
+      "example": "I'll follow up on this tomorrow.",
+      "translation": "Tôi sẽ theo dõi việc này ngày mai.",
+      "lessonIds": [
+        151,
+        171
+      ]
+    },
+    {
+      "id": "v-6a4060f4d918",
+      "en": "quantity",
+      "vi": "số lượng",
+      "kind": "word",
+      "example": "Could you confirm the quantity?",
+      "translation": "Bạn xác nhận số lượng được không?",
+      "lessonIds": [
+        152
+      ]
+    },
+    {
+      "id": "v-d376ca2995b3",
+      "en": "purchase",
+      "vi": "mua",
+      "kind": "word",
+      "example": "We need your approval to purchase the part.",
+      "translation": "Chúng tôi cần phê duyệt để mua chi tiết.",
+      "lessonIds": [
+        153
+      ]
+    },
+    {
+      "id": "v-01f561ac4ab1",
+      "en": "release",
+      "vi": "cho xuất; phát hành",
+      "kind": "word",
+      "example": "We need your approval to release the lot.",
+      "translation": "Chúng tôi cần phê duyệt để cho phép xuất lô.",
+      "lessonIds": [
+        153
+      ]
+    },
+    {
+      "id": "v-1e6b54b281c6",
+      "en": "sample size",
+      "vi": "cỡ mẫu",
+      "kind": "phrase",
+      "example": "I recommend increasing the sample size.",
+      "translation": "Tôi khuyến nghị tăng cỡ mẫu.",
+      "lessonIds": [
+        154
+      ]
+    },
+    {
+      "id": "v-78c1a1131554",
+      "en": "standardizing",
+      "vi": "việc tiêu chuẩn hóa",
+      "kind": "word",
+      "example": "I recommend standardizing the procedure.",
+      "translation": "Tôi khuyến nghị chuẩn hóa quy trình.",
+      "lessonIds": [
+        154
+      ]
+    },
+    {
+      "id": "v-1fe94581df8b",
+      "en": "recommend",
+      "vi": "khuyến nghị",
+      "kind": "word",
+      "example": "I recommend checking the fixtures.",
+      "translation": "Tôi khuyến nghị kiểm tra đồ gá.",
+      "lessonIds": [
+        154
+      ]
+    },
+    {
+      "id": "v-936e24f506b0",
+      "en": "replacing",
+      "vi": "việc thay thế",
+      "kind": "word",
+      "example": "I recommend replacing the unstable lot.",
+      "translation": "Tôi khuyến nghị thay lô không ổn định.",
+      "lessonIds": [
+        154
+      ]
+    },
+    {
+      "id": "v-17054545c5bc",
+      "en": "fixtures",
+      "vi": "các đồ gá",
+      "kind": "word",
+      "example": "I recommend checking the fixtures.",
+      "translation": "Tôi khuyến nghị kiểm tra đồ gá.",
+      "lessonIds": [
+        154
+      ]
+    },
+    {
+      "id": "v-928c6786e637",
+      "en": "traceability",
+      "vi": "khả năng truy xuất nguồn gốc",
+      "kind": "word",
+      "example": "The benefit is better traceability.",
+      "translation": "Lợi ích là khả năng truy xuất tốt hơn.",
+      "lessonIds": [
+        155
+      ]
+    },
+    {
+      "id": "v-2124037ca66a",
+      "en": "benefit",
+      "vi": "lợi ích",
+      "kind": "word",
+      "example": "The benefit is lower cost.",
+      "translation": "Lợi ích là chi phí thấp hơn.",
+      "lessonIds": [
+        155
+      ]
+    },
+    {
+      "id": "v-477418cd7f11",
+      "en": "insufficient",
+      "vi": "không đủ",
+      "kind": "word",
+      "example": "The risk is insufficient training.",
+      "translation": "Rủi ro là đào tạo chưa đủ.",
+      "lessonIds": [
+        156
+      ]
+    },
+    {
+      "id": "v-c0bed61c5a07",
+      "en": "scrap",
+      "vi": "phế phẩm",
+      "kind": "word",
+      "example": "The risk is higher scrap.",
+      "translation": "Rủi ro là phế phẩm cao hơn.",
+      "lessonIds": [
+        156
+      ]
+    },
+    {
+      "id": "v-a5996c28540c",
+      "en": "liner",
+      "vi": "lớp lót",
+      "kind": "word",
+      "example": "We need to prevent the liner from peeling early.",
+      "translation": "Chúng ta phải ngăn liner bong sớm.",
+      "lessonIds": [
+        157
+      ]
+    },
+    {
+      "id": "v-f800c8377b66",
+      "en": "labeled",
+      "vi": "đã được dán nhãn",
+      "kind": "word",
+      "example": "Please make sure that the samples are labeled.",
+      "translation": "Hãy bảo đảm mẫu đã được dán nhãn.",
+      "lessonIds": [
+        158
+      ]
+    },
+    {
+      "id": "v-adec79fd87d0",
+      "en": "locked",
+      "vi": "đã khóa",
+      "kind": "word",
+      "example": "Please make sure that the door is locked.",
+      "translation": "Hãy bảo đảm cửa đã khóa.",
+      "lessonIds": [
+        158
+      ]
+    },
+    {
+      "id": "v-48075864b259",
+      "en": "trend",
+      "vi": "xu hướng",
+      "kind": "word",
+      "example": "We need to take a closer look at the trend.",
+      "translation": "Chúng ta cần xem kỹ xu hướng.",
+      "lessonIds": [
+        159,
+        164
+      ]
+    },
+    {
+      "id": "v-bd9ce03c9a89",
+      "en": "preventive actions",
+      "vi": "các hành động phòng ngừa",
+      "kind": "phrase",
+      "example": "We should prioritize preventive actions.",
+      "translation": "Chúng ta nên ưu tiên hành động phòng ngừa.",
+      "lessonIds": [
+        160
+      ]
+    },
+    {
+      "id": "v-d244c6843190",
+      "en": "complaints",
+      "vi": "các khiếu nại",
+      "kind": "word",
+      "example": "We should prioritize customer complaints.",
+      "translation": "Chúng ta nên ưu tiên khiếu nại khách hàng.",
+      "lessonIds": [
+        160
+      ]
+    },
+    {
+      "id": "v-6c241e40fc8e",
+      "en": "prioritize",
+      "vi": "ưu tiên",
+      "kind": "word",
+      "example": "We should prioritize customer complaints.",
+      "translation": "Chúng ta nên ưu tiên khiếu nại khách hàng.",
+      "lessonIds": [
+        160
+      ]
+    },
+    {
+      "id": "v-48e5bef8a082",
+      "en": "highest",
+      "vi": "cao nhất",
+      "kind": "word",
+      "example": "We should prioritize the highest loss items.",
+      "translation": "Chúng ta nên ưu tiên các mục gây tổn thất lớn nhất.",
+      "lessonIds": [
+        160
+      ]
+    },
+    {
+      "id": "v-dafd501364a8",
+      "en": "agenda",
+      "vi": "chương trình họp",
+      "kind": "word",
+      "example": "Let's start with the agenda.",
+      "translation": "Hãy bắt đầu từ chương trình họp.",
+      "lessonIds": [
+        161,
+        163
+      ]
+    },
+    {
+      "id": "v-b415e16fbe4c",
+      "en": "topic",
+      "vi": "chủ đề",
+      "kind": "word",
+      "example": "Let's move to the next topic.",
+      "translation": "Hãy chuyển sang chủ đề tiếp.",
+      "lessonIds": [
+        161
+      ]
+    },
+    {
+      "id": "v-9a493639340a",
+      "en": "responsibilities",
+      "vi": "các trách nhiệm",
+      "kind": "word",
+      "example": "The purpose is to assign responsibilities.",
+      "translation": "Mục đích là phân công trách nhiệm.",
+      "lessonIds": [
+        162
+      ]
+    },
+    {
+      "id": "v-9bf0f8ff5f5d",
+      "en": "identify",
+      "vi": "xác định",
+      "kind": "word",
+      "example": "The purpose is to identify the root cause.",
+      "translation": "Mục đích là xác định nguyên nhân gốc.",
+      "lessonIds": [
+        162
+      ]
+    },
+    {
+      "id": "v-231e65684158",
+      "en": "purpose",
+      "vi": "mục đích",
+      "kind": "word",
+      "example": "The purpose of this meeting is to review yield.",
+      "translation": "Mục đích cuộc họp là xem lại tỷ lệ đạt.",
+      "lessonIds": [
+        162
+      ]
+    },
+    {
+      "id": "v-88a1cf74bc57",
+      "en": "cost saving",
+      "vi": "tiết kiệm chi phí",
+      "kind": "phrase",
+      "example": "I'd like to highlight the cost saving.",
+      "translation": "Tôi muốn nhấn mạnh phần tiết kiệm chi phí.",
+      "lessonIds": [
+        164
+      ]
+    },
+    {
+      "id": "v-c9addaa49db2",
+      "en": "highlight",
+      "vi": "nhấn mạnh",
+      "kind": "word",
+      "example": "I'd like to highlight three points.",
+      "translation": "Tôi muốn nhấn mạnh ba điểm.",
+      "lessonIds": [
+        164
+      ]
+    },
+    {
+      "id": "v-0f1961094738",
+      "en": "potential",
+      "vi": "tiềm ẩn; có tiềm năng",
+      "kind": "word",
+      "example": "I'd like to highlight a potential risk.",
+      "translation": "Tôi muốn nhấn mạnh một rủi ro tiềm ẩn.",
+      "lessonIds": [
+        164
+      ]
+    },
+    {
+      "id": "v-e29e8d943c26",
+      "en": "finding",
+      "vi": "phát hiện",
+      "kind": "word",
+      "example": "I'd like to highlight the main finding.",
+      "translation": "Tôi muốn nhấn mạnh phát hiện chính.",
+      "lessonIds": [
+        164,
+        193
+      ]
+    },
+    {
+      "id": "v-819f41f05837",
+      "en": "points",
+      "vi": "các điểm",
+      "kind": "word",
+      "example": "I'd like to highlight three points.",
+      "translation": "Tôi muốn nhấn mạnh ba điểm.",
+      "lessonIds": [
+        164
+      ]
+    },
+    {
+      "id": "v-b82b40b84a2f",
+      "en": "chart",
+      "vi": "biểu đồ",
+      "kind": "word",
+      "example": "Could you walk us through the chart?",
+      "translation": "Bạn có thể giải thích lần lượt biểu đồ không?",
+      "lessonIds": [
+        165
+      ]
+    },
+    {
+      "id": "v-f3f1dd33eb2a",
+      "en": "definition",
+      "vi": "định nghĩa",
+      "kind": "word",
+      "example": "Can we clarify the definition of failure?",
+      "translation": "Ta có thể làm rõ định nghĩa lỗi không?",
+      "lessonIds": [
+        166
+      ]
+    },
+    {
+      "id": "v-fcb60bc535f4",
+      "en": "operation",
+      "vi": "công đoạn; hoạt động",
+      "kind": "word",
+      "example": "What are your thoughts on reducing one operation?",
+      "translation": "Bạn nghĩ sao về việc giảm một thao tác?",
+      "lessonIds": [
+        167
+      ]
+    },
+    {
+      "id": "v-6d88728d41dd",
+      "en": "single owner",
+      "vi": "một người phụ trách duy nhất",
+      "kind": "phrase",
+      "example": "Can we agree on a single owner?",
+      "translation": "Ta có thể thống nhất một người phụ trách không?",
+      "lessonIds": [
+        168
+      ]
+    },
+    {
+      "id": "v-bfc5ee3337ea",
+      "en": "criteria",
+      "vi": "các tiêu chí",
+      "kind": "word",
+      "example": "Can we agree on the test criteria?",
+      "translation": "Ta có thể thống nhất tiêu chí thử nghiệm không?",
+      "lessonIds": [
+        168
+      ]
+    },
+    {
+      "id": "v-6578912eabc4",
+      "en": "steps",
+      "vi": "các bước",
+      "kind": "word",
+      "example": "Can we agree on the next steps?",
+      "translation": "Ta có thể thống nhất bước tiếp theo không?",
+      "lessonIds": [
+        168
+      ]
+    },
+    {
+      "id": "v-36847a298bc3",
+      "en": "analysis",
+      "vi": "phân tích",
+      "kind": "word",
+      "example": "Let's assign the analysis to PE.",
+      "translation": "Hãy giao phân tích cho PE.",
+      "lessonIds": [
+        169
+      ]
+    },
+    {
+      "id": "v-9009b730f26e",
+      "en": "assign",
+      "vi": "phân công",
+      "kind": "word",
+      "example": "Let's assign this task to Nam.",
+      "translation": "Hãy giao việc này cho Nam.",
+      "lessonIds": [
+        169
+      ]
+    },
+    {
+      "id": "v-2065075fd5e6",
+      "en": "booking",
+      "vi": "việc đặt chỗ",
+      "kind": "word",
+      "example": "Could you take care of the booking?",
+      "translation": "Bạn lo phần đặt chỗ được không?",
+      "lessonIds": [
+        170
+      ]
+    },
+    {
+      "id": "v-e7e5cb2f5eb7",
+      "en": "summarize",
+      "vi": "tóm tắt",
+      "kind": "word",
+      "example": "To summarize, we have three actions.",
+      "translation": "Tóm lại, chúng ta có ba hành động.",
+      "lessonIds": [
+        172
+      ]
+    },
+    {
+      "id": "v-982d46d22d95",
+      "en": "management",
+      "vi": "ban quản lý",
+      "kind": "word",
+      "example": "The next step is to report to management.",
+      "translation": "Bước tiếp theo là báo cáo ban quản lý.",
+      "lessonIds": [
+        173
+      ]
+    },
+    {
+      "id": "v-15320ae28eb8",
+      "en": "requirement",
+      "vi": "yêu cầu",
+      "kind": "word",
+      "example": "Let's keep the customer requirement in mind.",
+      "translation": "Hãy lưu ý yêu cầu khách hàng.",
+      "lessonIds": [
+        174
+      ]
+    },
+    {
+      "id": "v-a9a581005e96",
+      "en": "impact",
+      "vi": "tác động",
+      "kind": "word",
+      "example": "Let's keep the cost impact in mind.",
+      "translation": "Hãy lưu ý tác động chi phí.",
+      "lessonIds": [
+        174
+      ]
+    },
+    {
+      "id": "v-062be3459e84",
+      "en": "on hold",
+      "vi": "tạm hoãn",
+      "kind": "phrase",
+      "example": "Let's put this topic on hold.",
+      "translation": "Ta tạm gác chủ đề này.",
+      "lessonIds": [
+        176
+      ]
+    },
+    {
+      "id": "v-710e35bac934",
+      "en": "chicken rice",
+      "vi": "cơm gà",
+      "kind": "phrase",
+      "example": "I'd like to order chicken rice.",
+      "translation": "Tôi muốn gọi cơm gà.",
+      "lessonIds": [
+        177
+      ]
+    },
+    {
+      "id": "v-252c577da673",
+      "en": "sandwiches",
+      "vi": "bánh mì kẹp",
+      "kind": "word",
+      "example": "I'd like to order two sandwiches.",
+      "translation": "Tôi muốn gọi hai bánh mì kẹp.",
+      "lessonIds": [
+        177
+      ]
+    },
+    {
+      "id": "v-00ac24f8c42d",
+      "en": "noodles",
+      "vi": "mì",
+      "kind": "word",
+      "example": "I'd like to order a bowl of noodles.",
+      "translation": "Tôi muốn gọi một bát mì.",
+      "lessonIds": [
+        177
+      ]
+    },
+    {
+      "id": "v-9413ee70957a",
+      "en": "peanuts",
+      "vi": "đậu phộng",
+      "kind": "word",
+      "example": "I'd like to order something without peanuts.",
+      "translation": "Tôi muốn gọi món không có đậu phộng.",
+      "lessonIds": [
+        177
+      ]
+    },
+    {
+      "id": "v-1435b2082842",
+      "en": "window seat",
+      "vi": "ghế cạnh cửa sổ",
+      "kind": "phrase",
+      "example": "Could I have a window seat?",
+      "translation": "Tôi xin chỗ ngồi gần cửa sổ được không?",
+      "lessonIds": [
+        178
+      ]
+    },
+    {
+      "id": "v-14e60ace3d83",
+      "en": "receipt",
+      "vi": "biên lai",
+      "kind": "word",
+      "example": "Could I have a receipt?",
+      "translation": "Cho tôi xin biên lai được không?",
+      "lessonIds": [
+        178
+      ]
+    },
+    {
+      "id": "v-320ad267d8d9",
+      "en": "window",
+      "vi": "cửa sổ",
+      "kind": "word",
+      "example": "Could I have a window seat?",
+      "translation": "Tôi xin chỗ ngồi gần cửa sổ được không?",
+      "lessonIds": [
+        178,
+        181
+      ]
+    },
+    {
+      "id": "v-c692d6a10598",
+      "en": "bill",
+      "vi": "hóa đơn thanh toán",
+      "kind": "word",
+      "example": "Could I have the bill, please?",
+      "translation": "Cho tôi xin hóa đơn được không?",
+      "lessonIds": [
+        178
+      ]
+    },
+    {
+      "id": "v-faa5d6830269",
+      "en": "shirt",
+      "vi": "áo sơ mi",
+      "kind": "word",
+      "example": "I'm looking for a blue shirt.",
+      "translation": "Tôi đang tìm áo màu xanh.",
+      "lessonIds": [
+        179
+      ]
+    },
+    {
+      "id": "v-b7b2fb7443bc",
+      "en": "gift",
+      "vi": "quà tặng",
+      "kind": "word",
+      "example": "I'm looking for a gift for my daughter.",
+      "translation": "Tôi đang tìm quà cho con gái.",
+      "lessonIds": [
+        179
+      ]
+    },
+    {
+      "id": "v-cda0f61ff9e5",
+      "en": "train station",
+      "vi": "ga tàu",
+      "kind": "phrase",
+      "example": "How do I get to the train station?",
+      "translation": "Tôi đến ga tàu thế nào?",
+      "lessonIds": [
+        180
+      ]
+    },
+    {
+      "id": "v-d2e0f4f37e4f",
+      "en": "city center",
+      "vi": "trung tâm thành phố",
+      "kind": "phrase",
+      "example": "How do I get to the city center?",
+      "translation": "Tôi đến trung tâm thành phố thế nào?",
+      "lessonIds": [
+        180
+      ]
+    },
+    {
+      "id": "v-5c47841652e7",
+      "en": "bus stop",
+      "vi": "trạm xe buýt",
+      "kind": "phrase",
+      "example": "How do I get to the nearest bus stop?",
+      "translation": "Tôi đến trạm xe buýt gần nhất thế nào?",
+      "lessonIds": [
+        180
+      ]
+    },
+    {
+      "id": "v-c662180230ca",
+      "en": "address",
+      "vi": "địa chỉ",
+      "kind": "word",
+      "example": "How do I get to this address?",
+      "translation": "Tôi đến địa chỉ này thế nào?",
+      "lessonIds": [
+        180
+      ]
+    },
+    {
+      "id": "v-549a03e6231c",
+      "en": "day off",
+      "vi": "ngày nghỉ",
+      "kind": "phrase",
+      "example": "I'm thinking of taking a day off.",
+      "translation": "Tôi đang tính nghỉ một ngày.",
+      "lessonIds": [
+        182
+      ]
+    },
+    {
+      "id": "v-4809561b3438",
+      "en": "course",
+      "vi": "khóa học",
+      "kind": "word",
+      "example": "I'm thinking of taking an English course.",
+      "translation": "Tôi đang cân nhắc học khóa tiếng Anh.",
+      "lessonIds": [
+        182
+      ]
+    },
+    {
+      "id": "v-44d536903233",
+      "en": "bike",
+      "vi": "xe đạp",
+      "kind": "word",
+      "example": "I'm thinking of buying a bike.",
+      "translation": "Tôi đang tính mua xe đạp.",
+      "lessonIds": [
+        182
+      ]
+    },
+    {
+      "id": "v-a7481340412e",
+      "en": "ahead",
+      "vi": "trước; về phía trước",
+      "kind": "word",
+      "example": "It would be better to book ahead.",
+      "translation": "Tốt hơn là đặt trước.",
+      "lessonIds": [
+        184
+      ]
+    },
+    {
+      "id": "v-18c0f103187c",
+      "en": "vacation",
+      "vi": "kỳ nghỉ",
+      "kind": "word",
+      "example": "I can't wait to go on vacation.",
+      "translation": "Tôi rất mong đi du lịch.",
+      "lessonIds": [
+        185,
+        195
+      ]
+    },
+    {
+      "id": "v-8d767bf5b723",
+      "en": "class",
+      "vi": "lớp học",
+      "kind": "word",
+      "example": "I can't wait to start my new class.",
+      "translation": "Tôi rất mong bắt đầu lớp học mới.",
+      "lessonIds": [
+        185
+      ]
+    },
+    {
+      "id": "v-c6871ef69a12",
+      "en": "free time",
+      "vi": "thời gian rảnh",
+      "kind": "phrase",
+      "example": "I wish I had more free time.",
+      "translation": "Ước gì tôi có nhiều thời gian rảnh hơn.",
+      "lessonIds": [
+        186
+      ]
+    },
+    {
+      "id": "v-b966791362f8",
+      "en": "raining",
+      "vi": "đang mưa",
+      "kind": "word",
+      "example": "I wish it weren't raining.",
+      "translation": "Ước gì trời không mưa.",
+      "lessonIds": [
+        186
+      ]
+    },
+    {
+      "id": "v-4955742b2d74",
+      "en": "hope",
+      "vi": "hy vọng",
+      "kind": "word",
+      "example": "I hope you feel better soon.",
+      "translation": "Tôi mong bạn sớm khỏe.",
+      "lessonIds": [
+        187
+      ]
+    },
+    {
+      "id": "v-92504616ed59",
+      "en": "sequence",
+      "vi": "trình tự",
+      "kind": "word",
+      "example": "What if we change the sequence?",
+      "translation": "Nếu ta đổi thứ tự thì sao?",
+      "lessonIds": [
+        188
+      ]
+    },
+    {
+      "id": "v-1b42e4bbc090",
+      "en": "assumptions",
+      "vi": "các giả định",
+      "kind": "word",
+      "example": "I prefer data to assumptions.",
+      "translation": "Tôi thích dữ liệu hơn giả định.",
+      "lessonIds": [
+        189
+      ]
+    },
+    {
+      "id": "v-38494b4ad0b9",
+      "en": "driving",
+      "vi": "việc lái xe",
+      "kind": "word",
+      "example": "I prefer walking to driving.",
+      "translation": "Tôi thích đi bộ hơn lái xe.",
+      "lessonIds": [
+        189
+      ]
+    },
+    {
+      "id": "v-6ac9bf43972d",
+      "en": "walking",
+      "vi": "việc đi bộ",
+      "kind": "word",
+      "example": "I prefer walking to driving.",
+      "translation": "Tôi thích đi bộ hơn lái xe.",
+      "lessonIds": [
+        189
+      ]
+    },
+    {
+      "id": "v-d27c7a190bdd",
+      "en": "complicated",
+      "vi": "phức tạp",
+      "kind": "word",
+      "example": "It sounds more complicated than expected.",
+      "translation": "Nghe có vẻ phức tạp hơn dự kiến.",
+      "lessonIds": [
+        190
+      ]
+    },
+    {
+      "id": "v-68f555517966",
+      "en": "interesting",
+      "vi": "thú vị",
+      "kind": "word",
+      "example": "That sounds interesting.",
+      "translation": "Nghe thú vị đấy.",
+      "lessonIds": [
+        190
+      ]
+    },
+    {
+      "id": "v-5dcbdf371f18",
+      "en": "expected",
+      "vi": "được dự kiến",
+      "kind": "word",
+      "example": "It sounds more complicated than expected.",
+      "translation": "Nghe có vẻ phức tạp hơn dự kiến.",
+      "lessonIds": [
+        190
+      ]
+    },
+    {
+      "id": "v-f8a3616d7e58",
+      "en": "risky",
+      "vi": "có rủi ro",
+      "kind": "word",
+      "example": "It sounds too risky.",
+      "translation": "Nghe có vẻ quá rủi ro.",
+      "lessonIds": [
+        190
+      ]
+    },
+    {
+      "id": "v-38a007151abe",
+      "en": "product",
+      "vi": "sản phẩm",
+      "kind": "word",
+      "example": "It looks like a good product.",
+      "translation": "Trông như sản phẩm tốt.",
+      "lessonIds": [
+        191
+      ]
+    },
+    {
+      "id": "v-ffdf8c66d3c2",
+      "en": "scratch",
+      "vi": "vết xước",
+      "kind": "word",
+      "example": "It looks like a scratch.",
+      "translation": "Trông giống vết xước.",
+      "lessonIds": [
+        191
+      ]
+    },
+    {
+      "id": "v-7ca5c1bf6d37",
+      "en": "suggestions",
+      "vi": "các gợi ý",
+      "kind": "word",
+      "example": "I was wondering if you have any suggestions.",
+      "translation": "Tôi muốn hỏi bạn có gợi ý nào không.",
+      "lessonIds": [
+        192
+      ]
+    },
+    {
+      "id": "v-14a9d766458d",
+      "en": "understanding",
+      "vi": "việc hiểu",
+      "kind": "word",
+      "example": "I have trouble understanding fast English.",
+      "translation": "Tôi khó hiểu tiếng Anh nói nhanh.",
+      "lessonIds": [
+        193
+      ]
+    },
+    {
+      "id": "v-29db0ebf06a6",
+      "en": "remembering",
+      "vi": "việc ghi nhớ",
+      "kind": "word",
+      "example": "I have trouble remembering new words.",
+      "translation": "Tôi khó nhớ từ mới.",
+      "lessonIds": [
+        193
+      ]
+    },
+    {
+      "id": "v-f1218e3a24f5",
+      "en": "sleeping",
+      "vi": "việc ngủ",
+      "kind": "word",
+      "example": "I have trouble sleeping early.",
+      "translation": "Tôi khó ngủ sớm.",
+      "lessonIds": [
+        193
+      ]
+    },
+    {
+      "id": "v-832f94bf5aec",
+      "en": "opening",
+      "vi": "việc mở",
+      "kind": "word",
+      "example": "I have trouble opening this file.",
+      "translation": "Tôi gặp khó khăn khi mở tệp.",
+      "lessonIds": [
+        193
+      ]
+    },
+    {
+      "id": "v-1c3471ca3188",
+      "en": "investing",
+      "vi": "việc đầu tư",
+      "kind": "word",
+      "example": "It's worth investing in training.",
+      "translation": "Đáng đầu tư vào đào tạo.",
+      "lessonIds": [
+        194
+      ]
+    },
+    {
+      "id": "v-513f8de9259f",
+      "en": "options",
+      "vi": "các lựa chọn",
+      "kind": "word",
+      "example": "It's worth comparing both options.",
+      "translation": "Đáng so sánh cả hai phương án.",
+      "lessonIds": [
+        194
+      ]
+    },
+    {
+      "id": "v-c5918b665934",
+      "en": "worth",
+      "vi": "đáng",
+      "kind": "word",
+      "example": "It's worth trying.",
+      "translation": "Đáng để thử.",
+      "lessonIds": [
+        194
+      ]
+    },
+    {
+      "id": "v-15cdad7a0522",
+      "en": "afford",
+      "vi": "có đủ khả năng chi trả",
+      "kind": "word",
+      "example": "I can't afford to buy a new car.",
+      "translation": "Tôi chưa đủ khả năng mua ô tô mới.",
+      "lessonIds": [
+        195
+      ]
+    },
+    {
+      "id": "v-8ccbde832c3e",
+      "en": "ignore",
+      "vi": "bỏ qua",
+      "kind": "word",
+      "example": "We can't afford to ignore this defect.",
+      "translation": "Chúng ta không thể phớt lờ lỗi này.",
+      "lessonIds": [
+        195
+      ]
+    },
+    {
+      "id": "v-4db924a2e861",
+      "en": "lose",
+      "vi": "mất",
+      "kind": "word",
+      "example": "We can't afford to lose more time.",
+      "translation": "Chúng ta không thể mất thêm thời gian.",
+      "lessonIds": [
+        195
+      ]
+    }
+  ],
+  "byLesson": {
+    "1": [
+      "v-a827f279cb24",
+      "v-505eabdfb808",
+      "v-c33f059b0ca7",
+      "v-2dd2bed72567",
+      "v-264f39cab871",
+      "v-e274eeff768c"
+    ],
+    "2": [
+      "v-a2a75a27ba7f",
+      "v-59ea4ada2701",
+      "v-8f4e3e3c24ba",
+      "v-bd7580126b94",
+      "v-2dd2bed72567",
+      "v-392d7871944a"
+    ],
+    "3": [
+      "v-ace6752be4cc",
+      "v-6490e67e8283",
+      "v-8d7050ffcf7a",
+      "v-1481d0a0ceb1",
+      "v-a27297bde973",
+      "v-2739bb260ce4"
+    ],
+    "4": [
+      "v-eb3c62690ec9",
+      "v-8d7050ffcf7a",
+      "v-c2e2d6621334",
+      "v-d25187dc137f",
+      "v-e274eeff768c"
+    ],
+    "5": [
+      "v-ace6752be4cc",
+      "v-97912524f347",
+      "v-e2979e759574",
+      "v-2f94522912c7",
+      "v-6463654671b9"
+    ],
+    "6": [
+      "v-f3f806213d7f",
+      "v-0a2b9827e548",
+      "v-bd7580126b94",
+      "v-fdd91fbac0e5",
+      "v-a2620cbc10f5"
+    ],
+    "7": [
+      "v-d3abab60bb0b",
+      "v-d57fd91679ff",
+      "v-505eabdfb808",
+      "v-dbd79b319f5c",
+      "v-5929e58a5aa1",
+      "v-bf31c52c32b0"
+    ],
+    "8": [
+      "v-0e8a3ad980ec",
+      "v-00819c0e54f9",
+      "v-f12e1e8f455f",
+      "v-bed97175b06e",
+      "v-e318aa1a244c"
+    ],
+    "9": [
+      "v-788497e72fe5",
+      "v-37926bac1086",
+      "v-7b231a50a498",
+      "v-a27297bde973",
+      "v-d25187dc137f",
+      "v-c2a6b03f190d"
+    ],
+    "10": [
+      "v-adfa59cc50d2",
+      "v-bd7580126b94",
+      "v-7a9b5c03c818",
+      "v-1ca0739975cf",
+      "v-8151325dcdba",
+      "v-27a5a05c01ee"
+    ],
+    "11": [
+      "v-e23839cd729a",
+      "v-f51a32c7f8fd",
+      "v-bd7580126b94",
+      "v-264f39cab871",
+      "v-edee9402d198",
+      "v-1b480158e1f3"
+    ],
+    "12": [
+      "v-7817c52b2560",
+      "v-1ca0739975cf",
+      "v-a27297bde973",
+      "v-27a5a05c01ee",
+      "v-bd370d1b6f9b"
+    ],
+    "13": [
+      "v-7817c52b2560",
+      "v-a27297bde973",
+      "v-928bdadf3973",
+      "v-193a9fcc8a56",
+      "v-a498d854840e"
+    ],
+    "14": [
+      "v-e2979e759574",
+      "v-a31e44e0548b",
+      "v-866e90dff0f0",
+      "v-e0996a37c13d",
+      "v-6fa9b95e6ace"
+    ],
+    "15": [
+      "v-378eaf1e9d34",
+      "v-433cdfecfbc5",
+      "v-2739bb260ce4",
+      "v-f25470201a13",
+      "v-efe30e310694",
+      "v-d25187dc137f"
+    ],
+    "16": [
+      "v-97912524f347",
+      "v-6d5a45920a15",
+      "v-885dc4a9b362",
+      "v-7d3f44729dc2",
+      "v-714eea0f4c98"
+    ],
+    "17": [
+      "v-e2979e759574",
+      "v-13a1891af75c",
+      "v-d56d985300d4",
+      "v-dbd79b319f5c",
+      "v-f99abcfae6c3",
+      "v-a17c9aaa61e8"
+    ],
+    "18": [
+      "v-0a2b9827e548",
+      "v-a94a8fe5ccb1",
+      "v-09e3d1de51ae",
+      "v-0af54a90f88b",
+      "v-abe18ae67af5"
+    ],
+    "19": [
+      "v-6b5465bf0bcc",
+      "v-e83249bd3ba7",
+      "v-32917d064ffa",
+      "v-805465819e8a",
+      "v-e0da94eb6638"
+    ],
+    "20": [
+      "v-bd7580126b94",
+      "v-dbd79b319f5c",
+      "v-2b020927d3c6",
+      "v-714eea0f4c98",
+      "v-e274eeff768c"
+    ],
+    "21": [
+      "v-6b03dd117d95",
+      "v-2fc03be5f18a",
+      "v-1be2a44cb53d",
+      "v-dbd79b319f5c",
+      "v-264f39cab871",
+      "v-a94a8fe5ccb1"
+    ],
+    "22": [
+      "v-c2e2d6621334",
+      "v-4fbacc2fa0ff",
+      "v-5f00f7a0a9f5",
+      "v-3cbcd90adc4b",
+      "v-e340fafdc6c6"
+    ],
+    "23": [
+      "v-0a2b9827e548",
+      "v-1ca0739975cf",
+      "v-866e90dff0f0",
+      "v-a17c9aaa61e8",
+      "v-39ccb32d95ed",
+      "v-efe30e310694"
+    ],
+    "24": [
+      "v-378eaf1e9d34",
+      "v-a5a0d15d4ae8",
+      "v-433cdfecfbc5",
+      "v-16c1eb258d86",
+      "v-0652ac8321c0"
+    ],
+    "25": [
+      "v-ff744cd08217",
+      "v-426144f4dedc",
+      "v-1b669334dae8",
+      "v-c9600527f45e",
+      "v-92005ecf3788",
+      "v-efe30e310694"
+    ],
+    "26": [
+      "v-1a73af9e7ae0",
+      "v-7817c52b2560",
+      "v-d56d985300d4",
+      "v-a88b7dcd1a9e",
+      "v-1be2a44cb53d",
+      "v-a17c9aaa61e8"
+    ],
+    "27": [
+      "v-38428a698ab1",
+      "v-f51a32c7f8fd",
+      "v-433cdfecfbc5",
+      "v-a27297bde973",
+      "v-04303448e680"
+    ],
+    "28": [
+      "v-7b231a50a498",
+      "v-bd7580126b94",
+      "v-37a5301a88da",
+      "v-75c0533730ca",
+      "v-e18a89f9cc5b",
+      "v-bed97175b06e"
+    ],
+    "29": [
+      "v-a27297bde973",
+      "v-61e62b213a1a",
+      "v-b972c8ef2b9a",
+      "v-d56d985300d4",
+      "v-bc8d8647b02d",
+      "v-92005ecf3788"
+    ],
+    "30": [
+      "v-f51a32c7f8fd",
+      "v-e6427457497f",
+      "v-5406167a5113",
+      "v-366a74945ffc",
+      "v-b42c7e507edb"
+    ],
+    "31": [
+      "v-a4a24b883961",
+      "v-12625ba3c14e",
+      "v-b56def36afbf",
+      "v-43dd5a3c8c0b",
+      "v-fa489f44196a"
+    ],
+    "32": [
+      "v-7b231a50a498",
+      "v-7817c52b2560",
+      "v-1a8565a9dc72",
+      "v-37a5301a88da",
+      "v-97accafb5337"
+    ],
+    "33": [
+      "v-c2e2d6621334",
+      "v-1be2a44cb53d",
+      "v-b28b7af69320",
+      "v-a2620cbc10f5",
+      "v-c2a6b03f190d",
+      "v-c00dbbc9dadf"
+    ],
+    "34": [
+      "v-37926bac1086",
+      "v-8d7050ffcf7a",
+      "v-ea9ffb6eb4a5",
+      "v-1b669334dae8",
+      "v-c2e2d6621334",
+      "v-75c0533730ca"
+    ],
+    "35": [
+      "v-a1e3124328de",
+      "v-3b2be2e26344",
+      "v-bd7580126b94",
+      "v-a5a0d15d4ae8",
+      "v-d38c6f0460f1"
+    ],
+    "36": [
+      "v-59494695a317",
+      "v-2cce4a92f41f",
+      "v-2dd2bed72567",
+      "v-6d5a45920a15",
+      "v-a17c9aaa61e8",
+      "v-e7c95b4c2824"
+    ],
+    "37": [
+      "v-6730f85c1352",
+      "v-6d912e4b4a5d",
+      "v-8e73840bbf9c",
+      "v-1b669334dae8",
+      "v-69a42959af3e",
+      "v-1ca0739975cf"
+    ],
+    "38": [
+      "v-3b2be2e26344",
+      "v-11e9ba26c91a",
+      "v-bd7580126b94",
+      "v-cdf7e925f574",
+      "v-44213f9f4d59",
+      "v-cce55e4309a7"
+    ],
+    "39": [
+      "v-83dd9d6af43f",
+      "v-ef15f48c9654",
+      "v-a27297bde973",
+      "v-f84e2e2dadd8",
+      "v-e7c95b4c2824",
+      "v-714eea0f4c98"
+    ],
+    "40": [
+      "v-227f38db8f94",
+      "v-a17c9aaa61e8",
+      "v-39ccb32d95ed",
+      "v-5d6200f8cf98",
+      "v-7d5f13d5e617"
+    ],
+    "41": [
+      "v-bd7580126b94",
+      "v-45a21e4b5b2a",
+      "v-61e62b213a1a",
+      "v-d56d985300d4",
+      "v-a17c9aaa61e8",
+      "v-df06b147f778"
+    ],
+    "42": [
+      "v-a5a0d15d4ae8",
+      "v-44213f9f4d59",
+      "v-1ca0739975cf",
+      "v-1be2a44cb53d",
+      "v-6cb148773f1f"
+    ],
+    "43": [
+      "v-56019fb78ba4",
+      "v-e2979e759574",
+      "v-b7c8ffb8fbc6",
+      "v-1b669334dae8",
+      "v-f7c1380a0d71",
+      "v-a664f10b5e58"
+    ],
+    "44": [
+      "v-9796809f7dae",
+      "v-b7c61c80ab26",
+      "v-bc8d8647b02d",
+      "v-264f39cab871",
+      "v-fbec17cb2fcb",
+      "v-37ed539c0cef"
+    ],
+    "45": [
+      "v-ea9ffb6eb4a5",
+      "v-1b669334dae8",
+      "v-433cdfecfbc5",
+      "v-a27297bde973",
+      "v-00819c0e54f9",
+      "v-a17c9aaa61e8"
+    ],
+    "46": [
+      "v-d56d985300d4",
+      "v-1be2a44cb53d",
+      "v-bd370d1b6f9b",
+      "v-c0ee32d825d6",
+      "v-e274eeff768c"
+    ],
+    "47": [
+      "v-1b669334dae8",
+      "v-818743b967a1",
+      "v-3a0c3c707ba6",
+      "v-bf267923fdeb",
+      "v-616a9a19efb8"
+    ],
+    "48": [
+      "v-697823d30868",
+      "v-bd7580126b94",
+      "v-2cce4a92f41f",
+      "v-a27297bde973",
+      "v-0e93069c4011",
+      "v-2dd2bed72567"
+    ],
+    "49": [
+      "v-3cacc7bfac0a",
+      "v-c0ac4842418e",
+      "v-e18a89f9cc5b",
+      "v-c455b38e0762",
+      "v-a94a8fe5ccb1",
+      "v-e274eeff768c"
+    ],
+    "50": [
+      "v-d0c4047caa5b",
+      "v-f7c1380a0d71",
+      "v-c2e2d6621334",
+      "v-ccadf5de3d73",
+      "v-4979d619a7b7",
+      "v-92005ecf3788"
+    ],
+    "51": [
+      "v-2cce4a92f41f",
+      "v-2dd2bed72567",
+      "v-bc8d8647b02d",
+      "v-a17c9aaa61e8",
+      "v-c455b38e0762",
+      "v-d25187dc137f"
+    ],
+    "52": [
+      "v-8501a34f34de",
+      "v-b3d0a8449e07",
+      "v-433cdfecfbc5",
+      "v-aac366da5f90",
+      "v-d56d985300d4",
+      "v-b7c61c80ab26"
+    ],
+    "53": [
+      "v-d0b5fd347939",
+      "v-a27297bde973",
+      "v-be6c324c05dd",
+      "v-00819c0e54f9",
+      "v-31aed9e37eb9",
+      "v-bc8d8647b02d"
+    ],
+    "54": [
+      "v-fa8f906a23fd",
+      "v-e2979e759574",
+      "v-b7c8ffb8fbc6",
+      "v-aac366da5f90",
+      "v-00819c0e54f9",
+      "v-5d6200f8cf98"
+    ],
+    "55": [
+      "v-8151325dcdba",
+      "v-a88b7dcd1a9e",
+      "v-264f39cab871",
+      "v-27e7700fdaa1",
+      "v-d25187dc137f"
+    ],
+    "56": [
+      "v-6b03dd117d95",
+      "v-38428a698ab1",
+      "v-e2979e759574",
+      "v-8151325dcdba",
+      "v-1be2a44cb53d",
+      "v-dbd79b319f5c"
+    ],
+    "57": [
+      "v-231e564db4cd",
+      "v-7817c52b2560",
+      "v-13a1891af75c",
+      "v-a27297bde973",
+      "v-a94a8fe5ccb1"
+    ],
+    "58": [
+      "v-c1ab9924ecda",
+      "v-ea9ffb6eb4a5",
+      "v-1b669334dae8",
+      "v-45a21e4b5b2a",
+      "v-12625ba3c14e",
+      "v-00819c0e54f9"
+    ],
+    "59": [
+      "v-378eaf1e9d34",
+      "v-a5a0d15d4ae8",
+      "v-2fc03be5f18a",
+      "v-efe30e310694",
+      "v-27a5a05c01ee"
+    ],
+    "60": [
+      "v-3cacc7bfac0a",
+      "v-2cce4a92f41f",
+      "v-00819c0e54f9",
+      "v-7dca5d4cddf5",
+      "v-e83249bd3ba7",
+      "v-a94a8fe5ccb1"
+    ],
+    "61": [
+      "v-5b4009518b37",
+      "v-f7c1380a0d71",
+      "v-433cdfecfbc5",
+      "v-c33f059b0ca7",
+      "v-d56d985300d4",
+      "v-5929e58a5aa1"
+    ],
+    "62": [
+      "v-8288cac5588a",
+      "v-b43cc86e502f",
+      "v-ea9ffb6eb4a5",
+      "v-1b669334dae8",
+      "v-1a8565a9dc72",
+      "v-98f54143ab4e"
+    ],
+    "63": [
+      "v-1b669334dae8",
+      "v-a17c9aaa61e8",
+      "v-d25187dc137f",
+      "v-4236d0f074e5",
+      "v-2fa65a5b9462"
+    ],
+    "64": [
+      "v-6730f85c1352",
+      "v-e2979e759574",
+      "v-1a73af9e7ae0",
+      "v-1b669334dae8",
+      "v-48c3689f6dd5",
+      "v-d33f85fc81c5"
+    ],
+    "65": [
+      "v-5a94729cd8f5",
+      "v-1b669334dae8",
+      "v-f7c1380a0d71",
+      "v-2cce4a92f41f",
+      "v-00819c0e54f9",
+      "v-264f39cab871"
+    ],
+    "66": [
+      "v-ff744cd08217",
+      "v-0a25ba599131",
+      "v-bc8d8647b02d",
+      "v-e05572d87905",
+      "v-120884d50663"
+    ],
+    "67": [
+      "v-bd7580126b94",
+      "v-a27297bde973",
+      "v-00819c0e54f9",
+      "v-213ed3ea453b",
+      "v-4ff0b1538469"
+    ],
+    "68": [
+      "v-ef15f48c9654",
+      "v-505eabdfb808",
+      "v-a5dfd1e2a154",
+      "v-e09315fa02d7",
+      "v-29ad7d23ad68"
+    ],
+    "69": [
+      "v-7550b672e162",
+      "v-4fbacc2fa0ff",
+      "v-b7c61c80ab26",
+      "v-a17c9aaa61e8",
+      "v-264f39cab871",
+      "v-e7c95b4c2824"
+    ],
+    "70": [
+      "v-6730f85c1352",
+      "v-7b231a50a498",
+      "v-a5a0d15d4ae8",
+      "v-ccadf5de3d73",
+      "v-b7c61c80ab26",
+      "v-2dd2bed72567"
+    ],
+    "71": [
+      "v-94ec44c4f4ad",
+      "v-69a42959af3e",
+      "v-37a5301a88da",
+      "v-f12e1e8f455f",
+      "v-e274eeff768c"
+    ],
+    "72": [
+      "v-fc940843d0bc",
+      "v-0a2b9827e548",
+      "v-c2e2d6621334",
+      "v-a31e44e0548b",
+      "v-c33f059b0ca7",
+      "v-e0996a37c13d"
+    ],
+    "73": [
+      "v-cab5b6e0a675",
+      "v-75f7a6e01f5d",
+      "v-be6c324c05dd",
+      "v-e0996a37c13d",
+      "v-885dc4a9b362",
+      "v-efe30e310694"
+    ],
+    "74": [
+      "v-e2979e759574",
+      "v-49a04ba44696",
+      "v-31aed9e37eb9",
+      "v-97accafb5337",
+      "v-264f39cab871"
+    ],
+    "75": [
+      "v-e1a31b3e461a",
+      "v-fd2a7e1cb00c",
+      "v-2fc03be5f18a",
+      "v-00819c0e54f9",
+      "v-e18a89f9cc5b",
+      "v-a17c9aaa61e8"
+    ],
+    "76": [
+      "v-8501a34f34de",
+      "v-5aaf8905f32a",
+      "v-1b669334dae8",
+      "v-ccfcd3664e19",
+      "v-d25187dc137f"
+    ],
+    "77": [
+      "v-8501a34f34de",
+      "v-426144f4dedc",
+      "v-0a2b9827e548",
+      "v-1a8565a9dc72",
+      "v-c9600527f45e",
+      "v-e7c95b4c2824"
+    ],
+    "78": [
+      "v-f584439dd0ea",
+      "v-97912524f347",
+      "v-ccadf5de3d73",
+      "v-84c1951c150c",
+      "v-b0796e5caf91"
+    ],
+    "79": [
+      "v-100ec4462dec",
+      "v-c9600527f45e",
+      "v-e0996a37c13d",
+      "v-069fd3a44db6",
+      "v-885dc4a9b362",
+      "v-e7c95b4c2824"
+    ],
+    "80": [
+      "v-bd7580126b94",
+      "v-fd0a4950be7b",
+      "v-2fc03be5f18a",
+      "v-e0996a37c13d",
+      "v-069fd3a44db6",
+      "v-a17c9aaa61e8"
+    ],
+    "81": [
+      "v-97912524f347",
+      "v-b7c8ffb8fbc6",
+      "v-2b020927d3c6",
+      "v-264f39cab871",
+      "v-a94a8fe5ccb1",
+      "v-df06b147f778"
+    ],
+    "82": [
+      "v-48a8832d1417",
+      "v-e2979e759574",
+      "v-b7c8ffb8fbc6",
+      "v-bd7580126b94",
+      "v-44213f9f4d59",
+      "v-bfbaf8b2d1cd"
+    ],
+    "83": [
+      "v-8501a34f34de",
+      "v-7817c52b2560",
+      "v-1a8565a9dc72",
+      "v-a31e44e0548b",
+      "v-d56d985300d4",
+      "v-ab464f025204"
+    ],
+    "84": [
+      "v-e23839cd729a",
+      "v-97912524f347",
+      "v-fd2a7e1cb00c",
+      "v-2fc03be5f18a",
+      "v-1e28e36dc5e9"
+    ],
+    "85": [
+      "v-e05584535f18",
+      "v-dcd5e5991d0c",
+      "v-bd7580126b94",
+      "v-ea88fbaa99b7",
+      "v-2fc03be5f18a",
+      "v-f12e1e8f455f"
+    ],
+    "86": [
+      "v-1ca7c5fd3464",
+      "v-af9b7efaffb8",
+      "v-97912524f347",
+      "v-bd7580126b94",
+      "v-c2e2d6621334",
+      "v-1ca0739975cf"
+    ],
+    "87": [
+      "v-fc399f91c8b8",
+      "v-012071d73592",
+      "v-b7c8ffb8fbc6",
+      "v-61e62b213a1a",
+      "v-2fc03be5f18a",
+      "v-069fd3a44db6"
+    ],
+    "88": [
+      "v-c1ab9924ecda",
+      "v-500f872eb198",
+      "v-c2e2d6621334",
+      "v-4ff18f00176f",
+      "v-4fbacc2fa0ff",
+      "v-f12e1e8f455f"
+    ],
+    "89": [
+      "v-dea713fc735e",
+      "v-2ecffa0d0adc",
+      "v-9796809f7dae",
+      "v-2cce4a92f41f",
+      "v-0e8a3ad980ec",
+      "v-511e99115957"
+    ],
+    "90": [
+      "v-73710e07ad77",
+      "v-97912524f347",
+      "v-0a2b9827e548",
+      "v-bfbaf8b2d1cd",
+      "v-4fbacc2fa0ff",
+      "v-e83249bd3ba7"
+    ],
+    "91": [
+      "v-7e2fb968a45f",
+      "v-d7cee4d0de5f",
+      "v-378eaf1e9d34",
+      "v-48c3689f6dd5",
+      "v-f12e1e8f455f",
+      "v-a17c9aaa61e8"
+    ],
+    "92": [
+      "v-f669be6f4697",
+      "v-ff744cd08217",
+      "v-2ecffa0d0adc",
+      "v-0a2b9827e548",
+      "v-1b669334dae8",
+      "v-e6642a951dd4"
+    ],
+    "93": [
+      "v-321d2aeba490",
+      "v-94509ddf85cc",
+      "v-378eaf1e9d34",
+      "v-1029d6764481",
+      "v-efb893611e6f",
+      "v-a17c9aaa61e8"
+    ],
+    "94": [
+      "v-b6953ddde01e",
+      "v-f8eb525d26e1",
+      "v-94509ddf85cc",
+      "v-97912524f347",
+      "v-ccadf5de3d73",
+      "v-5f00f7a0a9f5"
+    ],
+    "95": [
+      "v-1ca7c5fd3464",
+      "v-b39f008e318e",
+      "v-100ec4462dec",
+      "v-af9b7efaffb8",
+      "v-48c3689f6dd5",
+      "v-be6c324c05dd"
+    ],
+    "96": [
+      "v-59494695a317",
+      "v-426144f4dedc",
+      "v-e0996a37c13d",
+      "v-264f39cab871",
+      "v-efe30e310694",
+      "v-a94a8fe5ccb1"
+    ],
+    "97": [
+      "v-e2979e759574",
+      "v-3179a65eff25",
+      "v-bd7580126b94",
+      "v-a5a0d15d4ae8",
+      "v-2dd2bed72567",
+      "v-a17c9aaa61e8"
+    ],
+    "98": [
+      "v-a9e7c6816e41",
+      "v-4377215cccd0",
+      "v-0ec6d1505497",
+      "v-e2979e759574",
+      "v-37a5301a88da",
+      "v-7d3f44729dc2"
+    ],
+    "99": [
+      "v-217965bd1ded",
+      "v-2cce4a92f41f",
+      "v-61e62b213a1a",
+      "v-818743b967a1",
+      "v-069fd3a44db6",
+      "v-f12e1e8f455f"
+    ],
+    "100": [
+      "v-7afc62b8cbf8",
+      "v-b7c8ffb8fbc6",
+      "v-7817c52b2560",
+      "v-1a8565a9dc72",
+      "v-0269f50d8530",
+      "v-a17c9aaa61e8"
+    ],
+    "101": [
+      "v-52f7f7cc6f8d",
+      "v-c0ac4842418e",
+      "v-2fc03be5f18a",
+      "v-d56d985300d4",
+      "v-00819c0e54f9",
+      "v-5d6200f8cf98"
+    ],
+    "102": [
+      "v-ea88fbaa99b7",
+      "v-b56def36afbf",
+      "v-cae355b615b6",
+      "v-0a25ba599131",
+      "v-d56d985300d4",
+      "v-2dd2bed72567"
+    ],
+    "103": [
+      "v-11e9ba26c91a",
+      "v-d0c4047caa5b",
+      "v-f7c1380a0d71",
+      "v-7817c52b2560",
+      "v-cae355b615b6",
+      "v-b972c8ef2b9a"
+    ],
+    "104": [
+      "v-818743b967a1",
+      "v-31aed9e37eb9",
+      "v-1e5d33970728",
+      "v-f50fc139c678",
+      "v-a1af750ebb01"
+    ],
+    "105": [
+      "v-ace6752be4cc",
+      "v-3b2be2e26344",
+      "v-23a230612ee1",
+      "v-92a663b98b41",
+      "v-d541cb1fc825"
+    ],
+    "106": [
+      "v-f7c1380a0d71",
+      "v-a27297bde973",
+      "v-f84e2e2dadd8",
+      "v-c455b38e0762",
+      "v-75490f32c06a"
+    ],
+    "107": [
+      "v-0a73b5cb692c",
+      "v-eea0325f09ff",
+      "v-f7c1380a0d71",
+      "v-b56def36afbf",
+      "v-d56d985300d4",
+      "v-b7c61c80ab26"
+    ],
+    "108": [
+      "v-85973bd151f0",
+      "v-8501a34f34de",
+      "v-49a04ba44696",
+      "v-163001e29033",
+      "v-92005ecf3788",
+      "v-97accafb5337"
+    ],
+    "109": [
+      "v-897a1c598764",
+      "v-10bb09f9bddc",
+      "v-0a25ba599131",
+      "v-069fd3a44db6",
+      "v-92005ecf3788"
+    ],
+    "110": [
+      "v-85a71acd1961",
+      "v-e86f192ae923",
+      "v-cfc8b23ab1a1",
+      "v-ab464f025204",
+      "v-dd7b1d0288f0",
+      "v-5d6200f8cf98"
+    ],
+    "111": [
+      "v-83dd9d6af43f",
+      "v-cab5b6e0a675",
+      "v-ea88fbaa99b7",
+      "v-37a5301a88da",
+      "v-2dd2bed72567",
+      "v-c455b38e0762"
+    ],
+    "112": [
+      "v-25018d83422a",
+      "v-3b2be2e26344",
+      "v-624851096d1b",
+      "v-c0ac4842418e",
+      "v-ac814ccccbf9"
+    ],
+    "113": [
+      "v-7bf7ca17c6c6",
+      "v-483f112c6848",
+      "v-b021df71688f",
+      "v-a5a0d15d4ae8",
+      "v-d56d985300d4",
+      "v-daaad336276d"
+    ],
+    "114": [
+      "v-d1b38a28131e",
+      "v-8026ed647ec0",
+      "v-59ea4ada2701",
+      "v-6f2cbfec8210",
+      "v-c0b137fe2d79",
+      "v-3978d009748e"
+    ],
+    "115": [
+      "v-6eae00bd772b",
+      "v-f07b6467bd60",
+      "v-b7c8ffb8fbc6",
+      "v-f7c1380a0d71",
+      "v-c0ac4842418e",
+      "v-b972c8ef2b9a"
+    ],
+    "116": [
+      "v-ef8fe782bf94",
+      "v-4fbacc2fa0ff",
+      "v-8d0cdea0adfc",
+      "v-a17c9aaa61e8",
+      "v-264f39cab871",
+      "v-5f00f7a0a9f5"
+    ],
+    "117": [
+      "v-866e90dff0f0",
+      "v-2b020927d3c6",
+      "v-bc8d8647b02d",
+      "v-2a1b875b84fa",
+      "v-264f39cab871",
+      "v-392d7871944a"
+    ],
+    "118": [
+      "v-f98961015a0a",
+      "v-89833ceca672",
+      "v-9034ff9e2b8f",
+      "v-433cdfecfbc5",
+      "v-7550b672e162",
+      "v-61e62b213a1a"
+    ],
+    "119": [
+      "v-6e546a8ece83",
+      "v-8c9922f76b3a",
+      "v-a27297bde973",
+      "v-818743b967a1",
+      "v-2dd2bed72567",
+      "v-a17c9aaa61e8"
+    ],
+    "120": [
+      "v-7d3867a5ef22",
+      "v-1a73af9e7ae0",
+      "v-a5a0d15d4ae8",
+      "v-851e13a65333",
+      "v-125baf5d44b0",
+      "v-bc8d8647b02d"
+    ],
+    "121": [
+      "v-a1e3124328de",
+      "v-37926bac1086",
+      "v-c1ab9924ecda",
+      "v-0e0730d60c07",
+      "v-ff744cd08217",
+      "v-c2e2d6621334"
+    ],
+    "122": [
+      "v-6b03dd117d95",
+      "v-5b30e2c5ecb9",
+      "v-90f9b69fcbf8",
+      "v-98f54143ab4e",
+      "v-1be2a44cb53d",
+      "v-dbd79b319f5c"
+    ],
+    "123": [
+      "v-5545a3812ab6",
+      "v-a1e3124328de",
+      "v-903571af4865",
+      "v-b39f008e318e",
+      "v-98f54143ab4e",
+      "v-2dd2bed72567"
+    ],
+    "124": [
+      "v-90f9b69fcbf8",
+      "v-48a8832d1417",
+      "v-697823d30868",
+      "v-f9c9758ad2e5",
+      "v-bdf5c73d18f4",
+      "v-e2979e759574"
+    ],
+    "125": [
+      "v-706b5235e9f3",
+      "v-82bea5645079",
+      "v-378eaf1e9d34",
+      "v-69a42959af3e",
+      "v-1b2bf1cea798",
+      "v-2cce4a92f41f"
+    ],
+    "126": [
+      "v-6730f85c1352",
+      "v-b6953ddde01e",
+      "v-94509ddf85cc",
+      "v-af9b7efaffb8",
+      "v-378eaf1e9d34",
+      "v-4ff18f00176f"
+    ],
+    "127": [
+      "v-464e4361f38b",
+      "v-b6af7691e1c7",
+      "v-231e564db4cd",
+      "v-59494695a317",
+      "v-e22586930a5b",
+      "v-00819c0e54f9"
+    ],
+    "128": [
+      "v-231e564db4cd",
+      "v-fe96dd39756a",
+      "v-0a2b9827e548",
+      "v-a27297bde973",
+      "v-d56d985300d4",
+      "v-e0996a37c13d"
+    ],
+    "129": [
+      "v-59494695a317",
+      "v-ef15f48c9654",
+      "v-e2979e759574",
+      "v-433cdfecfbc5",
+      "v-12625ba3c14e",
+      "v-37a5301a88da"
+    ],
+    "130": [
+      "v-e23839cd729a",
+      "v-de93ba2d15f3",
+      "v-021710fa7866",
+      "v-392d7871944a",
+      "v-efe30e310694"
+    ],
+    "131": [
+      "v-8bb7858a79d6",
+      "v-a69cbee7e3a4",
+      "v-00364068dc77",
+      "v-57c69e7643e7",
+      "v-11e9ba26c91a",
+      "v-98f54143ab4e"
+    ],
+    "132": [
+      "v-464e4361f38b",
+      "v-2cce4a92f41f",
+      "v-f7c91fefc9c3",
+      "v-48c3689f6dd5",
+      "v-0e8a3ad980ec",
+      "v-c9279f09f829"
+    ],
+    "133": [
+      "v-1ca7c5fd3464",
+      "v-2ecffa0d0adc",
+      "v-fd2a7e1cb00c",
+      "v-a31e44e0548b",
+      "v-1ca0739975cf",
+      "v-bfbaf8b2d1cd"
+    ],
+    "134": [
+      "v-3afbcfb4c94c",
+      "v-cab5b6e0a675",
+      "v-ff744cd08217",
+      "v-fc399f91c8b8",
+      "v-11e9ba26c91a",
+      "v-e2979e759574"
+    ],
+    "135": [
+      "v-319f64f420c6",
+      "v-22b116248b65",
+      "v-2ecffa0d0adc",
+      "v-c2e2d6621334",
+      "v-4fbacc2fa0ff",
+      "v-0e8a3ad980ec"
+    ],
+    "136": [
+      "v-0d117e422ae6",
+      "v-639f520f9593",
+      "v-110dd32f9306",
+      "v-d7cee4d0de5f",
+      "v-f9c9758ad2e5",
+      "v-378eaf1e9d34"
+    ],
+    "137": [
+      "v-7033e90fcdda",
+      "v-22b116248b65",
+      "v-fc399f91c8b8",
+      "v-1ca0739975cf",
+      "v-1029d6764481",
+      "v-f12e1e8f455f"
+    ],
+    "138": [
+      "v-8288cac5588a",
+      "v-b43cc86e502f",
+      "v-745d1918a44b",
+      "v-80e61027a7c9",
+      "v-1ca0739975cf",
+      "v-1029d6764481"
+    ],
+    "139": [
+      "v-dfe4754bfccf",
+      "v-5b30e2c5ecb9",
+      "v-9fea79407360",
+      "v-97912524f347",
+      "v-378eaf1e9d34",
+      "v-c0ac4842418e"
+    ],
+    "140": [
+      "v-6730f85c1352",
+      "v-d35ce8acb0d0",
+      "v-6c03ac0ea724",
+      "v-100ec4462dec",
+      "v-af9b7efaffb8",
+      "v-d0c4047caa5b"
+    ],
+    "141": [
+      "v-6b03dd117d95",
+      "v-af9b7efaffb8",
+      "v-58b2f303ba75",
+      "v-b45c41a1bed8",
+      "v-fd2a7e1cb00c",
+      "v-358bf3e5959c"
+    ],
+    "142": [
+      "v-f8eb525d26e1",
+      "v-97912524f347",
+      "v-3cc1d5a427a4",
+      "v-7817c52b2560",
+      "v-3b959693d09b",
+      "v-86a4261d849a"
+    ],
+    "143": [
+      "v-fe96dd39756a",
+      "v-433cdfecfbc5",
+      "v-1ca0739975cf",
+      "v-2fc03be5f18a",
+      "v-aac366da5f90",
+      "v-2739bb260ce4"
+    ],
+    "144": [
+      "v-2e8974b2e621",
+      "v-7a4ffdc40250",
+      "v-dcd5e5991d0c",
+      "v-6c03ac0ea724",
+      "v-af9b7efaffb8",
+      "v-3cc1d5a427a4"
+    ],
+    "145": [
+      "v-fa8f906a23fd",
+      "v-7033e90fcdda",
+      "v-bedcc40ee5df",
+      "v-1ca7c5fd3464",
+      "v-af9b7efaffb8",
+      "v-a85df8270dcc"
+    ],
+    "146": [
+      "v-90f9b69fcbf8",
+      "v-82bea5645079",
+      "v-697823d30868",
+      "v-d534eb4b269b",
+      "v-75328ef481b4",
+      "v-69a42959af3e"
+    ],
+    "147": [
+      "v-82bea5645079",
+      "v-22b116248b65",
+      "v-da225248d262",
+      "v-1ca7c5fd3464",
+      "v-eb6e74ca6cfe",
+      "v-d0c4047caa5b"
+    ],
+    "148": [
+      "v-74d348a2d9fd",
+      "v-22b116248b65",
+      "v-697823d30868",
+      "v-2ecffa0d0adc",
+      "v-97912524f347",
+      "v-48e882dcf344"
+    ],
+    "149": [
+      "v-eee0bbba4ff9",
+      "v-b3d0a8449e07",
+      "v-69a42959af3e",
+      "v-9796809f7dae",
+      "v-c2e2d6621334",
+      "v-433cdfecfbc5"
+    ],
+    "150": [
+      "v-56019fb78ba4",
+      "v-b39f008e318e",
+      "v-ef15f48c9654",
+      "v-f51a32c7f8fd",
+      "v-13a1891af75c",
+      "v-34eb4c4ef005"
+    ],
+    "151": [
+      "v-ff4141bf61e1",
+      "v-4377215cccd0",
+      "v-af153c298286",
+      "v-0ec6d1505497",
+      "v-e2979e759574",
+      "v-e22586930a5b"
+    ],
+    "152": [
+      "v-8501a34f34de",
+      "v-97912524f347",
+      "v-6a4060f4d918",
+      "v-d0c4047caa5b",
+      "v-bd7580126b94",
+      "v-3b959693d09b"
+    ],
+    "153": [
+      "v-59494695a317",
+      "v-d376ca2995b3",
+      "v-e2979e759574",
+      "v-01f561ac4ab1",
+      "v-7550b672e162",
+      "v-2b020927d3c6"
+    ],
+    "154": [
+      "v-1e6b54b281c6",
+      "v-78c1a1131554",
+      "v-d0b5fd347939",
+      "v-1fe94581df8b",
+      "v-936e24f506b0",
+      "v-17054545c5bc"
+    ],
+    "155": [
+      "v-928c6786e637",
+      "v-697823d30868",
+      "v-af9b7efaffb8",
+      "v-2ecffa0d0adc",
+      "v-2124037ca66a",
+      "v-4ff18f00176f"
+    ],
+    "156": [
+      "v-dcd5e5991d0c",
+      "v-477418cd7f11",
+      "v-fc399f91c8b8",
+      "v-f51a32c7f8fd",
+      "v-0a2b9827e548",
+      "v-c0bed61c5a07"
+    ],
+    "157": [
+      "v-e1a31b3e461a",
+      "v-378eaf1e9d34",
+      "v-1b2bf1cea798",
+      "v-818743b967a1",
+      "v-a5996c28540c",
+      "v-efe30e310694"
+    ],
+    "158": [
+      "v-8c9922f76b3a",
+      "v-3179a65eff25",
+      "v-f800c8377b66",
+      "v-433cdfecfbc5",
+      "v-adec79fd87d0",
+      "v-cae355b615b6"
+    ],
+    "159": [
+      "v-433cdfecfbc5",
+      "v-0269f50d8530",
+      "v-48075864b259",
+      "v-885dc4a9b362",
+      "v-264f39cab871",
+      "v-e09315fa02d7"
+    ],
+    "160": [
+      "v-bd9ce03c9a89",
+      "v-d244c6843190",
+      "v-6c241e40fc8e",
+      "v-b39f008e318e",
+      "v-48e5bef8a082",
+      "v-be6c324c05dd"
+    ],
+    "161": [
+      "v-bd7580126b94",
+      "v-cdf7e925f574",
+      "v-dafd501364a8",
+      "v-61e62b213a1a",
+      "v-2b020927d3c6",
+      "v-b415e16fbe4c"
+    ],
+    "162": [
+      "v-56019fb78ba4",
+      "v-6730f85c1352",
+      "v-9a493639340a",
+      "v-9bf0f8ff5f5d",
+      "v-bd7580126b94",
+      "v-231e65684158"
+    ],
+    "163": [
+      "v-b39f008e318e",
+      "v-c2e2d6621334",
+      "v-34eb4c4ef005",
+      "v-dafd501364a8",
+      "v-a17c9aaa61e8",
+      "v-bd370d1b6f9b"
+    ],
+    "164": [
+      "v-88a1cf74bc57",
+      "v-c9addaa49db2",
+      "v-0f1961094738",
+      "v-e29e8d943c26",
+      "v-819f41f05837",
+      "v-48075864b259"
+    ],
+    "165": [
+      "v-56019fb78ba4",
+      "v-f8eb525d26e1",
+      "v-c2e2d6621334",
+      "v-34eb4c4ef005",
+      "v-a27297bde973",
+      "v-b82b40b84a2f"
+    ],
+    "166": [
+      "v-f3f1dd33eb2a",
+      "v-e23839cd729a",
+      "v-ef8fe782bf94",
+      "v-34eb4c4ef005",
+      "v-bfbaf8b2d1cd",
+      "v-0e8a3ad980ec"
+    ],
+    "167": [
+      "v-4377215cccd0",
+      "v-fcb60bc535f4",
+      "v-97912524f347",
+      "v-426144f4dedc",
+      "v-11e9ba26c91a",
+      "v-37a5301a88da"
+    ],
+    "168": [
+      "v-6d88728d41dd",
+      "v-bfc5ee3337ea",
+      "v-e23839cd729a",
+      "v-0e8a3ad980ec",
+      "v-c9600527f45e",
+      "v-6578912eabc4"
+    ],
+    "169": [
+      "v-788497e72fe5",
+      "v-90f9b69fcbf8",
+      "v-36847a298bc3",
+      "v-0a2b9827e548",
+      "v-34eb4c4ef005",
+      "v-9009b730f26e"
+    ],
+    "170": [
+      "v-b39f008e318e",
+      "v-2065075fd5e6",
+      "v-433cdfecfbc5",
+      "v-a27297bde973",
+      "v-a5dfd1e2a154",
+      "v-2dd2bed72567"
+    ],
+    "171": [
+      "v-af153c298286",
+      "v-e2979e759574",
+      "v-bd7580126b94",
+      "v-e22586930a5b",
+      "v-edee9402d198",
+      "v-a94a8fe5ccb1"
+    ],
+    "172": [
+      "v-e7e5cb2f5eb7",
+      "v-100ec4462dec",
+      "v-433cdfecfbc5",
+      "v-61e62b213a1a",
+      "v-4fbacc2fa0ff",
+      "v-264f39cab871"
+    ],
+    "173": [
+      "v-982d46d22d95",
+      "v-697823d30868",
+      "v-d0b5fd347939",
+      "v-b3d0a8449e07",
+      "v-a27297bde973",
+      "v-0a25ba599131"
+    ],
+    "174": [
+      "v-15320ae28eb8",
+      "v-75f7a6e01f5d",
+      "v-b39f008e318e",
+      "v-e23839cd729a",
+      "v-a9a581005e96",
+      "v-be6c324c05dd"
+    ],
+    "175": [
+      "v-5545a3812ab6",
+      "v-8288cac5588a",
+      "v-56019fb78ba4",
+      "v-903571af4865",
+      "v-b43cc86e502f",
+      "v-b39f008e318e"
+    ],
+    "176": [
+      "v-062be3459e84",
+      "v-59494695a317",
+      "v-8501a34f34de",
+      "v-98f54143ab4e",
+      "v-7550b672e162",
+      "v-cce55e4309a7"
+    ],
+    "177": [
+      "v-710e35bac934",
+      "v-252c577da673",
+      "v-00ac24f8c42d",
+      "v-9413ee70957a",
+      "v-44213f9f4d59",
+      "v-cce55e4309a7"
+    ],
+    "178": [
+      "v-1435b2082842",
+      "v-14e60ace3d83",
+      "v-cae355b615b6",
+      "v-320ad267d8d9",
+      "v-6d5a45920a15",
+      "v-c692d6a10598"
+    ],
+    "179": [
+      "v-6490e67e8283",
+      "v-adfa59cc50d2",
+      "v-bd7580126b94",
+      "v-a27297bde973",
+      "v-faa5d6830269",
+      "v-b7b2fb7443bc"
+    ],
+    "180": [
+      "v-cda0f61ff9e5",
+      "v-d2e0f4f37e4f",
+      "v-5c47841652e7",
+      "v-c662180230ca",
+      "v-6b5465bf0bcc",
+      "v-7a9b5c03c818"
+    ],
+    "181": [
+      "v-320ad267d8d9",
+      "v-0e93069c4011",
+      "v-818743b967a1",
+      "v-31aed9e37eb9",
+      "v-bc8d8647b02d"
+    ],
+    "182": [
+      "v-549a03e6231c",
+      "v-11e9ba26c91a",
+      "v-1b669334dae8",
+      "v-a664f10b5e58",
+      "v-4809561b3438",
+      "v-44d536903233"
+    ],
+    "183": [
+      "v-217965bd1ded",
+      "v-52f7f7cc6f8d",
+      "v-2cce4a92f41f",
+      "v-ab464f025204",
+      "v-4979d619a7b7",
+      "v-e0996a37c13d"
+    ],
+    "184": [
+      "v-59494695a317",
+      "v-a31e44e0548b",
+      "v-a7481340412e",
+      "v-d56d985300d4",
+      "v-818743b967a1",
+      "v-e0996a37c13d"
+    ],
+    "185": [
+      "v-18c0f103187c",
+      "v-cdf7e925f574",
+      "v-c33f059b0ca7",
+      "v-8d767bf5b723",
+      "v-2b020927d3c6",
+      "v-39ccb32d95ed"
+    ],
+    "186": [
+      "v-c6871ef69a12",
+      "v-1b669334dae8",
+      "v-b966791362f8",
+      "v-a31e44e0548b",
+      "v-0269f50d8530",
+      "v-4fbacc2fa0ff"
+    ],
+    "187": [
+      "v-505eabdfb808",
+      "v-a31e44e0548b",
+      "v-0e8a3ad980ec",
+      "v-ccfcd3664e19",
+      "v-4955742b2d74",
+      "v-392d7871944a"
+    ],
+    "188": [
+      "v-92504616ed59",
+      "v-e2979e759574",
+      "v-7817c52b2560",
+      "v-7550b672e162",
+      "v-5d6200f8cf98",
+      "v-a94a8fe5ccb1"
+    ],
+    "189": [
+      "v-1b42e4bbc090",
+      "v-38494b4ad0b9",
+      "v-d57fd91679ff",
+      "v-45a21e4b5b2a",
+      "v-6ac9bf43972d",
+      "v-44213f9f4d59"
+    ],
+    "190": [
+      "v-d27c7a190bdd",
+      "v-68f555517966",
+      "v-5dcbdf371f18",
+      "v-f8a3616d7e58",
+      "v-e7c95b4c2824",
+      "v-bed97175b06e"
+    ],
+    "191": [
+      "v-38a007151abe",
+      "v-ffdf8c66d3c2",
+      "v-264f39cab871",
+      "v-e7c95b4c2824",
+      "v-efe30e310694",
+      "v-fbec17cb2fcb"
+    ],
+    "192": [
+      "v-7ca5c1bf6d37",
+      "v-7b231a50a498",
+      "v-38428a698ab1",
+      "v-bd7580126b94",
+      "v-a88b7dcd1a9e",
+      "v-92005ecf3788"
+    ],
+    "193": [
+      "v-14a9d766458d",
+      "v-29db0ebf06a6",
+      "v-f1218e3a24f5",
+      "v-1b669334dae8",
+      "v-e29e8d943c26",
+      "v-832f94bf5aec"
+    ],
+    "194": [
+      "v-1c3471ca3188",
+      "v-0a2b9827e548",
+      "v-513f8de9259f",
+      "v-227f38db8f94",
+      "v-d33f85fc81c5",
+      "v-c5918b665934"
+    ],
+    "195": [
+      "v-18c0f103187c",
+      "v-15cdad7a0522",
+      "v-1ca0739975cf",
+      "v-8ccbde832c3e",
+      "v-5d6200f8cf98",
+      "v-4db924a2e861"
+    ],
+    "196": [
+      "v-5a94729cd8f5",
+      "v-d0c4047caa5b",
+      "v-c33f059b0ca7",
+      "v-37a5301a88da",
+      "v-61e62b213a1a",
+      "v-d56d985300d4"
+    ],
+    "197": [
+      "v-7afc62b8cbf8",
+      "v-6d912e4b4a5d",
+      "v-5aaf8905f32a",
+      "v-bd7580126b94",
+      "v-433cdfecfbc5",
+      "v-61e62b213a1a"
+    ]
+  }
+}
