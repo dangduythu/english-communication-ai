@@ -93,6 +93,7 @@ async function checkV2(page,legacy,viewport){
  await page.locator(`[data-word-status="${wordId}"]`).selectOption('unknown');
  await page.locator('#flash-start').click();await page.locator('#flash-reveal').click();await page.locator('[data-flash-grade="known"]').click();await page.locator('#flash-close').click();
  assert.equal((await state()).words[wordId].status,'known');
+ fs.mkdirSync(path.join(root,'test-results'),{recursive:true});await page.screenshot({path:path.join(root,'test-results',`vocabulary-${viewport.width}.png`),fullPage:true});
  await page.locator('#vquery').fill('zzzzz-no-word');assert.equal(await page.locator('.vocab-card').count(),0);await page.locator('#vquery').fill('');
  assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),true,`vocabulary overflow ${viewport.width}`);
  await page.locator('[data-nav="practice"]').first().click();await page.locator('#practice-lesson').selectOption('1');
@@ -108,6 +109,7 @@ async function checkV2(page,legacy,viewport){
  await page.locator('#grade-answer').click();assert.match(await page.locator('.feedback').textContent(),/thứ tự chưa đúng/);await page.locator('#retry-question').click();
  const pool=order.tokens.map((t,i)=>({t,i}));for(const t of order.answer.split(' ')){const pos=pool.findIndex(x=>x.t===t);const {i}=pool.splice(pos,1)[0];await page.locator(`[data-pick="${i}"]`).click()}
  await page.locator('#grade-answer').click();assert.ok(await page.locator('.feedback.correct').isVisible());assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),true,`practice overflow ${viewport.width}`);
+ await page.screenshot({path:path.join(root,'test-results',`correction-${viewport.width}.png`),fullPage:true});
  await page.locator('#next-question').click();assert.equal(await page.locator('.score-ring').textContent(),'100/100');
  await page.locator('#practice-lesson').selectOption('2');const q2=exercises.find(q=>q.id==='2-choice');await page.locator(`input[name="choice"][value="${(q2.options.indexOf(q2.answer)+1)%4}"]`).check();await page.locator('#grade-answer').click();
  await page.locator('#practice-weak').click();assert.equal(await page.locator('.exercise').getAttribute('data-question'),'2-choice');await page.locator(`input[name="choice"][value="${q2.options.indexOf(q2.answer)}"]`).check();await page.locator('#grade-answer').click();
