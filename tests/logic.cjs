@@ -24,5 +24,16 @@ run('startPractice(1);submitAnswer("wrong")');const first=run('state.answers["1-
 assert.equal(run('state.answers["1-choice"].firstAnswer'),first);
 assert.equal(Core.validV2({words:[],answers:{}}),false);
 assert.equal(Core.correction({type:'order',answer:'I am ready'},'ready am I').message,'Bạn đã có đủ từ nhưng thứ tự chưa đúng.');
+
+for(const q of exercises)for(const variant of q.acceptedAnswers||[])assert.equal(Core.grade(q,variant),true,q.id+' alternate');
+assert.equal(Core.validV21({goals:{lessons:1,words:5,questions:6}}),true);
+assert.equal(Core.validV21({goals:{lessons:0,words:5,questions:6}}),false);
+assert.equal(Core.validV21({activity:{'2026-10-28':{lessons:[198],words:[],questions:[]}}}),false);
+assert.equal(Core.validV21({reports:[{id:'x',questionId:'1-choice',prompt:'x',answer:'',comment:'valid report',at:'bad'}]}),false);
+assert.equal(Core.validV21({quizzes:[{id:'x',group:'all',at:new Date().toISOString(),total:12,correct:10,score:100}]}),false);
+run('startPractice(1);submitAnswer(currentQuestion().answer)');const n=run('state.activity[today()].questions.length');run('resetQuestion();submitAnswer(currentQuestion().answer)');assert.equal(run('state.activity[today()].questions.length'),n);
+run('quizGroup="all";startQuiz()');assert.equal(run('practiceRun.ids.length'),12);assert.equal(run('new Set(practiceRun.ids).size'),12);
+for(let i=0;i<12;i++){run('submitAnswer(currentQuestion().answer);advancePractice()')}
+assert.equal(run('state.quizzes.at(-1).score'),100);assert.equal(run('state.quizzes.at(-1).total'),12);assert.equal(run('validState(state)'),true);
 run("localStorage.setItem=()=>{throw Error('quota')}");assert.equal(run('save()'),false);
 console.log('PASS: 197 lesson renders / 985 examples, library, completion, escaped notes, persistence, all review intervals, invalid imports, storage failure');})().catch(e=>{console.error(e);process.exitCode=1});

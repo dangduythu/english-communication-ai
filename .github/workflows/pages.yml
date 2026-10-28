@@ -29,7 +29,9 @@ jobs:
         if: always()
         with:
           name: build-desktop-mobile-screenshots
-          path: test-results/
+          path: |
+            test-results/
+            release/T-English_V2.1_PC.zip
   deploy:
     if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
     needs: validate
@@ -44,7 +46,9 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
       - run: |
-          mkdir -p _site/assets _site/data
+          mkdir -p _site/assets _site/data _site/downloads
+          python3 scripts/build_desktop.py
+          cp release/T-English_V2.1_PC.zip _site/downloads/
           cp index.html app.js core.js style.css sw.js manifest.webmanifest _site/
           cp assets/* _site/assets/
           cp data/*.json _site/data/
@@ -72,4 +76,6 @@ jobs:
         if: always()
         with:
           name: live-desktop-mobile-screenshots
-          path: test-results/
+          path: |
+            test-results/
+            release/T-English_V2.1_PC.zip

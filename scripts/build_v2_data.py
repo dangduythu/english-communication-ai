@@ -473,7 +473,11 @@ for l in lessons:
  links[str(l['id'])]=ids
  # One of each exercise type per lesson, all answers grounded in V1 content.
  entry=bank[ids[0]]
- alternatives=sorted({e['vi'] for e in terms.values() if e['vi']!=entry['vi']})
+ def distinct_meaning(candidate,correct):
+  a=[part.strip().casefold() for part in candidate.split(';')]
+  b=[part.strip().casefold() for part in correct.split(';')]
+  return not any(len(x)>=4 and len(y)>=4 and (x in y or y in x) for x in a for y in b)
+ alternatives=sorted({e['vi'] for e in terms.values() if distinct_meaning(e['vi'],entry['vi'])})
  rng=random.Random(l['id']); options=rng.sample(alternatives,3)+[entry['vi']];rng.shuffle(options)
  exercises.append({'id':f'{l["id"]}-choice','lessonId':l['id'],'type':'choice','prompt':f'Chọn nghĩa của “{entry["en"]}”.','options':options,'answer':entry['vi'],'vocabId':entry['id'],'explanation':f'“{entry["en"]}” trong bài này có nghĩa là “{entry["vi"]}”.','context':entry['example']})
  ex=next(e for e in l['examples'] if match(entry['en'],e['en']))
@@ -494,6 +498,17 @@ for l in lessons:
  tokens=ex['en'].split();indices=list(range(len(tokens)));rng.shuffle(indices)
  if indices==list(range(len(tokens))):indices=indices[1:]+indices[:1]
  exercises.append({'id':f'{l["id"]}-order','lessonId':l['id'],'type':'order','prompt':'Sắp xếp các từ theo nghĩa tiếng Việt.','hint':ex['vi'],'answer':ex['en'],'tokens':[tokens[i] for i in indices],'explanation':rule,'correctSentence':ex['en']})
+# Reviewed lexical variants and limited, grammatical fronted time phrases.
+variants={'colleague':['coworker','co-worker'],'vacation':['holiday'],'restroom':['bathroom'],'bike':['bicycle'],'city center':['city centre'],'labor cost':['labour cost'],'stabilize':['stabilise'],'standardizing':['standardising'],'labeled':['labelled'],'prioritize':['prioritise'],'summarize':['summarise']}
+for q in exercises:
+ accepted=[]
+ if q['type']=='cloze':accepted=variants.get(q['answer'].lower(),[])
+ if q['type']=='order' and q['answer'].endswith('.') and re.match(r"^(I |I'm |We |We're |He |She |They |The team |Our team )",q['answer']) and not re.search(r'\b(if|because|although|when|until|that)\b',q['answer'],re.I):
+  m=re.search(r' (every morning|every day|this morning|this week|next week|last week|today|tomorrow|yesterday)\.$',q['answer'],re.I)
+  if m:accepted.append(m.group(1).capitalize()+', '+q['answer'][:m.start()]+'.')
+ if accepted:
+  q['acceptedAnswers']=accepted
+  q['variantNote']='Có thể dùng biến thể đã được duyệt nếu giữ đúng nghĩa và cấu trúc. Đáp án mẫu chỉ là một cách diễn đạt.'
 (root/'data/vocabulary.json').write_text(json.dumps({'entries':list(bank.values()),'byLesson':links},ensure_ascii=False,indent=2)+'\n')
 (root/'data/exercises.json').write_text(json.dumps(exercises,ensure_ascii=False,indent=2)+'\n')
 print(f'{len(bank)} vocabulary entries; {len(exercises)} exercises; all {len(links)} lessons linked; minimum {min(map(len,links.values()))} entries per lesson')
