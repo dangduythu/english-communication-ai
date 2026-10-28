@@ -5,10 +5,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “production line”.",
     "options": [
-      "đặt món; đơn hàng",
+      "đặt món; đơn hàng; thứ tự",
       "dây chuyền sản xuất",
-      "thông tin",
-      "các điểm"
+      "tháng",
+      "các ý tưởng"
     ],
     "answer": "dây chuyền sản xuất",
     "vocabId": "v-a827f279cb24",
@@ -49,9 +49,9 @@
     "prompt": "Chọn nghĩa của “nice to meet you”.",
     "options": [
       "rất vui được gặp bạn",
-      "cuối cùng; vừa qua",
+      "con gái",
       "chi phí",
-      "chủ đề"
+      "chờ đợi (dạng -ing)"
     ],
     "answer": "rất vui được gặp bạn",
     "vocabId": "v-a2a75a27ba7f",
@@ -92,10 +92,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “colleague”.",
     "options": [
-      "gửi",
-      "sự thiếu",
+      "gọi lại cho bạn",
+      "sự phê duyệt",
       "đồng nghiệp",
-      "tiếng Anh"
+      "thực đơn"
     ],
     "answer": "đồng nghiệp",
     "vocabId": "v-ace6752be4cc",
@@ -135,9 +135,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “department”.",
     "options": [
-      "các giả định",
-      "gọi điện",
-      "kế hoạch",
+      "các bong bóng khí",
+      "gặp gỡ",
+      "kiểm tra",
       "phòng ban"
     ],
     "answer": "phòng ban",
@@ -180,10 +180,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “colleague”.",
     "options": [
-      "hóa đơn thanh toán",
-      "tuần",
+      "hành động khắc phục",
+      "trạm xe buýt",
       "đồng nghiệp",
-      "đang thử; đang cố gắng"
+      "đang chờ xử lý"
     ],
     "answer": "đồng nghiệp",
     "vocabId": "v-ace6752be4cc",
@@ -226,7 +226,7 @@
     "options": [
       "hiệu quả; có năng suất",
       "độ ẩm không khí",
-      "thư điện tử",
+      "thông tin",
       "được dự kiến"
     ],
     "answer": "hiệu quả; có năng suất",
@@ -266,10 +266,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “have a good”.",
     "options": [
-      "có đủ khả năng chi trả",
-      "nghĩ",
+      "có sẵn; còn trống",
+      "nghe có vẻ",
       "chúc một ... tốt lành",
-      "loại bỏ"
+      "liên quan đến"
     ],
     "answer": "chúc một ... tốt lành",
     "vocabId": "v-d3abab60bb0b",
@@ -310,9 +310,9 @@
     "prompt": "Chọn nghĩa của “target”.",
     "options": [
       "mục tiêu",
-      "một cách khác",
-      "gần hơn",
-      "mặc dù"
+      "mặt khác",
+      "giống nhau; cùng một",
+      "mất điện"
     ],
     "answer": "mục tiêu",
     "vocabId": "v-0e8a3ad980ec",
@@ -352,10 +352,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “team leader”.",
     "options": [
-      "trước; về phía trước",
+      "trách nhiệm phụ trách",
       "trưởng nhóm",
-      "phê duyệt",
-      "mệt mỏi"
+      "phân công",
+      "mặc dù"
     ],
     "answer": "trưởng nhóm",
     "vocabId": "v-788497e72fe5",
@@ -396,8 +396,8 @@
     "prompt": "Chọn nghĩa của “pharmacy”.",
     "options": [
       "bận rộn",
-      "thú vị",
-      "nhà vệ sinh",
+      "thích hơn",
+      "nhà",
       "nhà thuốc"
     ],
     "answer": "nhà thuốc",
@@ -439,9 +439,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “deadline”.",
     "options": [
-      "đã được quan sát",
-      "năng suất",
-      "thiết bị",
+      "đã được dán nhãn",
+      "nói cách khác",
+      "theo như",
       "hạn chót"
     ],
     "answer": "hạn chót",
@@ -483,9 +483,9 @@
     "prompt": "Chọn nghĩa của “machine”.",
     "options": [
       "máy móc",
-      "khiếu nại",
-      "phần cuối",
-      "việc hiểu"
+      "hằng tháng",
+      "phương pháp",
+      "tỷ lệ sản phẩm đạt"
     ],
     "answer": "máy móc",
     "vocabId": "v-7817c52b2560",
@@ -528,9 +528,9 @@
     "prompt": "Chọn nghĩa của “machine”.",
     "options": [
       "máy móc",
-      "hơi ẩm",
-      "việc đầu tư",
-      "không đủ"
+      "hóa đơn thanh toán",
+      "việc tiêu chuẩn hóa",
+      "không đúng"
     ],
     "answer": "máy móc",
     "vocabId": "v-7817c52b2560",
@@ -572,10 +572,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “supplier”.",
     "options": [
-      "các hành động phòng ngừa",
-      "vật liệu",
+      "các giả định",
+      "văn phòng",
       "nhà cung cấp",
-      "trả lời"
+      "trước; về phía trước"
     ],
     "answer": "nhà cung cấp",
     "vocabId": "v-e2979e759574",
@@ -617,9 +617,9 @@
     "prompt": "Chọn nghĩa của “defects”.",
     "options": [
       "biểu đồ",
-      "sự biến thiên",
+      "sớm",
       "các lỗi sản phẩm",
-      "giai đoạn"
+      "gia hạn"
     ],
     "answer": "các lỗi sản phẩm",
     "vocabId": "v-378eaf1e9d34",
@@ -662,9 +662,9 @@
     "prompt": "Chọn nghĩa của “material”.",
     "options": [
       "vật liệu",
-      "mưa",
-      "phút",
-      "phức tạp"
+      "máy móc",
+      "phòng",
+      "phẳng"
     ],
     "answer": "vật liệu",
     "vocabId": "v-97912524f347",
@@ -705,9 +705,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “supplier”.",
     "options": [
-      "sự bất tiện",
+      "sớm hơn tiến độ",
       "nhà cung cấp",
-      "người vận hành",
+      "ngăn ngừa",
       "địa chỉ"
     ],
     "answer": "nhà cung cấp",
@@ -750,9 +750,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “training”.",
     "options": [
-      "việc học",
-      "cửa sổ",
-      "các thông số cài đặt",
+      "viết",
+      "cỡ mẫu",
+      "các sai sót",
       "đào tạo"
     ],
     "answer": "đào tạo",
@@ -796,8 +796,8 @@
     "options": [
       "bỏ qua",
       "sân bay",
-      "đúng lịch",
-      "việc thu thập"
+      "đúng giờ",
+      "việc thao tác; xử lý"
     ],
     "answer": "sân bay",
     "vocabId": "v-6b5465bf0bcc",
@@ -838,15 +838,15 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “meeting”.",
     "options": [
-      "đúng tiến độ",
-      "xác định",
+      "đúng lịch",
+      "xu hướng",
       "cuộc họp",
-      "việc đặt chỗ"
+      "việc đi bộ"
     ],
     "answer": "cuộc họp",
     "vocabId": "v-bd7580126b94",
     "explanation": "“meeting” trong bài này có nghĩa là “cuộc họp”.",
-    "context": "Nice meeting you today."
+    "context": "How was the meeting?"
   },
   {
     "id": "20-cloze",
@@ -883,9 +883,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “night shift”.",
     "options": [
-      "cảm biến",
-      "nhiều hơn",
-      "vui vẻ",
+      "cơm gà",
+      "nhiều (danh từ không đếm được)",
+      "việc đầu tư",
       "ca đêm"
     ],
     "answer": "ca đêm",
@@ -927,9 +927,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “process”.",
     "options": [
-      "hiệu quả; có năng suất",
+      "hai lần",
       "bạn có phiền không",
-      "câu trả lời",
+      "các đồ gá",
       "quy trình"
     ],
     "answer": "quy trình",
@@ -972,9 +972,9 @@
     "prompt": "Chọn nghĩa của “training”.",
     "options": [
       "ưu tiên",
-      "không đủ",
+      "không đúng",
       "đào tạo",
-      "đã được quan sát"
+      "đã được dán nhãn"
     ],
     "answer": "đào tạo",
     "vocabId": "v-0a2b9827e548",
@@ -1017,9 +1017,9 @@
     "prompt": "Chọn nghĩa của “defects”.",
     "options": [
       "các lỗi sản phẩm",
-      "thử; cố gắng",
-      "xem lại; ôn tập",
-      "mới nhất"
+      "thời gian rảnh",
+      "về nhà",
+      "một người phụ trách duy nhất"
     ],
     "answer": "các lỗi sản phẩm",
     "vocabId": "v-378eaf1e9d34",
@@ -1060,10 +1060,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “checklist”.",
     "options": [
-      "một lát",
+      "một cách khác",
       "buổi sáng",
       "danh sách kiểm tra",
-      "đã nhận"
+      "đã lên kế hoạch"
     ],
     "answer": "danh sách kiểm tra",
     "vocabId": "v-ff744cd08217",
@@ -1103,10 +1103,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “contact”.",
     "options": [
-      "việc học",
-      "đào tạo",
+      "viết",
+      "điều đó phụ thuộc vào",
       "liên hệ",
-      "ghế"
+      "dự án"
     ],
     "answer": "liên hệ",
     "vocabId": "v-1a73af9e7ae0",
@@ -1147,9 +1147,9 @@
     "prompt": "Chọn nghĩa của “received”.",
     "options": [
       "đã nhận",
-      "từ",
-      "phế phẩm",
-      "vấn đề; khó khăn"
+      "tốt hơn",
+      "phần cuối",
+      "ví dụ"
     ],
     "answer": "đã nhận",
     "vocabId": "v-38428a698ab1",
@@ -1192,9 +1192,9 @@
     "prompt": "Chọn nghĩa của “available”.",
     "options": [
       "có sẵn; còn trống",
-      "các ý tưởng",
-      "các lỗi sản phẩm",
-      "đi ra ngoài"
+      "các trách nhiệm",
+      "các khiếu nại",
+      "đi bộ"
     ],
     "answer": "có sẵn; còn trống",
     "vocabId": "v-7b231a50a498",
@@ -1237,9 +1237,9 @@
     "prompt": "Chọn nghĩa của “report”.",
     "options": [
       "báo cáo",
-      "chịu trách nhiệm",
-      "thay thế",
-      "lợi ích"
+      "chậm tiến độ",
+      "sự tái diễn",
+      "lớp học"
     ],
     "answer": "báo cáo",
     "vocabId": "v-a27297bde973",
@@ -1282,8 +1282,8 @@
     "options": [
       "địa chỉ",
       "lô hàng; việc giao hàng",
-      "không đủ",
-      "sự phòng ngừa"
+      "không đúng",
+      "sự nhầm lẫn"
     ],
     "answer": "lô hàng; việc giao hàng",
     "vocabId": "v-f51a32c7f8fd",
@@ -1327,8 +1327,8 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “would you mind”.",
     "options": [
-      "phương pháp",
-      "các lựa chọn",
+      "phòng ban",
+      "các kết quả",
       "bong bóng khí",
       "bạn có phiền không"
     ],
@@ -1372,10 +1372,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “available”.",
     "options": [
-      "giải thích",
-      "chịu trách nhiệm",
+      "giá tiền",
+      "chậm tiến độ",
       "có sẵn; còn trống",
-      "có nghĩa là"
+      "có hiệu quả"
     ],
     "answer": "có sẵn; còn trống",
     "vocabId": "v-7b231a50a498",
@@ -1419,10 +1419,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “process”.",
     "options": [
-      "thú vị",
-      "tăng; sự gia tăng",
+      "thích hơn",
+      "tìm thấy",
       "quy trình",
-      "cảm biến"
+      "cơm gà"
     ],
     "answer": "quy trình",
     "vocabId": "v-c2e2d6621334",
@@ -1463,10 +1463,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “responsible”.",
     "options": [
-      "máy móc",
-      "thực đơn",
+      "muốn",
+      "thức ăn",
       "chịu trách nhiệm",
-      "sự gia hạn"
+      "sự chậm trễ; trì hoãn"
     ],
     "answer": "chịu trách nhiệm",
     "vocabId": "v-37926bac1086",
@@ -1507,10 +1507,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “improvement”.",
     "options": [
-      "thay thế",
+      "sự tái diễn",
       "sự cải tiến",
-      "đào tạo; tàu hỏa",
-      "lâu hơn"
+      "đào tạo lại",
+      "làm ổn định"
     ],
     "answer": "sự cải tiến",
     "vocabId": "v-a1e3124328de",
@@ -1554,7 +1554,7 @@
     "options": [
       "chi phí nhân công",
       "sự phê duyệt",
-      "làm ơn; vui lòng",
+      "loại bỏ",
       "báo cáo"
     ],
     "answer": "sự phê duyệt",
@@ -1596,9 +1596,9 @@
     "prompt": "Chọn nghĩa của “root cause”.",
     "options": [
       "nguyên nhân gốc rễ",
-      "trình tự",
-      "cuối cùng; vừa qua",
-      "việc điều tra"
+      "trà",
+      "con gái",
+      "việc thu thập"
     ],
     "answer": "nguyên nhân gốc rễ",
     "vocabId": "v-6730f85c1352",
@@ -1640,10 +1640,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “question”.",
     "options": [
-      "nhà vệ sinh",
-      "nhiệt độ",
+      "nhà cung cấp",
+      "nhiều (danh từ đếm được)",
       "câu hỏi",
-      "tập trung vào"
+      "tạm hoãn"
     ],
     "answer": "câu hỏi",
     "vocabId": "v-3b2be2e26344",
@@ -1685,10 +1685,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “information”.",
     "options": [
-      "hơi ẩm",
-      "mới nhất",
+      "hóa đơn thanh toán",
+      "một người phụ trách duy nhất",
       "thông tin",
-      "giai đoạn"
+      "gia hạn"
     ],
     "answer": "thông tin",
     "vocabId": "v-83dd9d6af43f",
@@ -1728,10 +1728,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “reading”.",
     "options": [
-      "sự bất tiện",
-      "thời gian dừng máy",
+      "sớm hơn tiến độ",
+      "thư điện tử",
       "việc đọc",
-      "phát hiện"
+      "năng suất"
     ],
     "answer": "việc đọc",
     "vocabId": "v-227f38db8f94",
@@ -1772,15 +1772,15 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “meeting”.",
     "options": [
-      "mới",
-      "gọi lại cho bạn",
+      "một lát",
+      "gần nhất",
       "cuộc họp",
-      "lâu hơn"
+      "làm ổn định"
     ],
     "answer": "cuộc họp",
     "vocabId": "v-bd7580126b94",
     "explanation": "“meeting” trong bài này có nghĩa là “cuộc họp”.",
-    "context": "Nice meeting you today."
+    "context": "How was the meeting?"
   },
   {
     "id": "41-cloze",
@@ -1819,9 +1819,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “problem”.",
     "options": [
-      "các lỗi sản phẩm",
+      "các khiếu nại",
       "vấn đề; khó khăn",
-      "tần suất",
+      "tăng; sự gia tăng",
       "bạn có phiền không"
     ],
     "answer": "vấn đề; khó khăn",
@@ -1863,9 +1863,9 @@
     "prompt": "Chọn nghĩa của “action plan”.",
     "options": [
       "bị hỏng",
-      "văn phòng",
+      "vui vẻ",
       "kế hoạch hành động",
-      "không đúng"
+      "không có gì (đáp lại lời cảm ơn)"
     ],
     "answer": "kế hoạch hành động",
     "vocabId": "v-56019fb78ba4",
@@ -1907,10 +1907,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “monitor”.",
     "options": [
-      "sự phòng ngừa",
-      "sớm hơn tiến độ",
+      "sự nhầm lẫn",
+      "số lượng",
       "theo dõi",
-      "ngày nghỉ"
+      "nguyên nhân; gây ra"
     ],
     "answer": "theo dõi",
     "vocabId": "v-9796809f7dae",
@@ -1952,9 +1952,9 @@
     "prompt": "Chọn nghĩa của “learning”.",
     "options": [
       "việc học",
-      "nhiều (danh từ không đếm được)",
-      "khuyến nghị",
-      "quy trình hướng dẫn"
+      "người quản lý",
+      "khiếu nại",
+      "quan trọng"
     ],
     "answer": "việc học",
     "vocabId": "v-ea9ffb6eb4a5",
@@ -1995,9 +1995,9 @@
     "prompt": "Chọn nghĩa của “check”.",
     "options": [
       "kiểm tra",
-      "chịu trách nhiệm",
+      "chậm tiến độ",
       "bị lỏng",
-      "ngoài ra"
+      "nghĩ"
     ],
     "answer": "kiểm tra",
     "vocabId": "v-d56d985300d4",
@@ -2039,9 +2039,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “English”.",
     "options": [
-      "mua hàng",
-      "chân không",
-      "nhà vệ sinh",
+      "lợi ích",
+      "chào đón; không có gì (đáp lời cảm ơn)",
+      "nhà cung cấp",
       "tiếng Anh"
     ],
     "answer": "tiếng Anh",
@@ -2083,10 +2083,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “operators”.",
     "options": [
-      "kỳ nghỉ",
-      "thay thế",
+      "kết quả kiểm thử",
+      "sự tái diễn",
       "những người vận hành",
-      "các điều kiện"
+      "các từ"
     ],
     "answer": "những người vận hành",
     "vocabId": "v-697823d30868",
@@ -2128,10 +2128,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “replace”.",
     "options": [
-      "người quản lý",
+      "ngày nghỉ",
       "thay thế",
-      "lớp học",
-      "chúc một ... tốt lành"
+      "lịch trình",
+      "chính"
     ],
     "answer": "thay thế",
     "vocabId": "v-3cacc7bfac0a",
@@ -2175,10 +2175,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “confirm”.",
     "options": [
-      "rất hân hạnh",
+      "ra mắt; triển khai",
       "xác nhận",
-      "mất",
-      "học"
+      "mì",
+      "hạn chót"
     ],
     "answer": "xác nhận",
     "vocabId": "v-d0c4047caa5b",
@@ -2220,9 +2220,9 @@
     "prompt": "Chọn nghĩa của “finish”.",
     "options": [
       "hoàn thành; kết thúc",
-      "theo dõi",
-      "hiệu quả; có năng suất",
-      "so với"
+      "thay thế",
+      "hai lần",
+      "rời đi"
     ],
     "answer": "hoàn thành; kết thúc",
     "vocabId": "v-2cce4a92f41f",
@@ -2264,8 +2264,8 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “decision”.",
     "options": [
-      "khiếu nại",
-      "yêu cầu",
+      "hằng tháng",
+      "xác minh",
       "cha mẹ",
       "quyết định"
     ],
@@ -2309,9 +2309,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “procedure”.",
     "options": [
-      "trả lời",
-      "giải thích",
-      "nước",
+      "trước; về phía trước",
+      "giá tiền",
+      "năm",
       "quy trình hướng dẫn"
     ],
     "answer": "quy trình hướng dẫn",
@@ -2353,10 +2353,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “related to”.",
     "options": [
-      "câu hỏi",
+      "các điểm",
       "liên quan đến",
-      "nhận",
-      "theo như"
+      "nhóm",
+      "theo dõi"
     ],
     "answer": "liên quan đến",
     "vocabId": "v-fa8f906a23fd",
@@ -2399,10 +2399,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “sample”.",
     "options": [
-      "dữ liệu",
+      "dây chuyền; hàng",
       "mẫu",
-      "cuối cùng; vừa qua",
-      "có sẵn; còn trống"
+      "con gái",
+      "có nghĩa là; muốn nói"
     ],
     "answer": "mẫu",
     "vocabId": "v-8151325dcdba",
@@ -2443,10 +2443,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “night shift”.",
     "options": [
-      "thiết bị",
+      "theo như",
       "biểu đồ",
       "ca đêm",
-      "phần cuối"
+      "phương pháp"
     ],
     "answer": "ca đêm",
     "vocabId": "v-6b03dd117d95",
@@ -2488,8 +2488,8 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “completed”.",
     "options": [
-      "tin tưởng",
-      "mẫu",
+      "thử; cố gắng",
+      "mất",
       "đã hoàn thành",
       "bị trộn lẫn"
     ],
@@ -2533,9 +2533,9 @@
     "prompt": "Chọn nghĩa của “monitoring”.",
     "options": [
       "việc theo dõi",
-      "gia hạn",
-      "thời gian rảnh",
-      "dữ liệu"
+      "ghế",
+      "thời gian",
+      "dây chuyền; hàng"
     ],
     "answer": "việc theo dõi",
     "vocabId": "v-c1ab9924ecda",
@@ -2578,9 +2578,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “defects”.",
     "options": [
-      "chủ đề",
-      "tỷ lệ sản phẩm đạt",
-      "giờ",
+      "chờ đợi (dạng -ing)",
+      "tổn thất",
+      "giảm; sự suy giảm",
       "các lỗi sản phẩm"
     ],
     "answer": "các lỗi sản phẩm",
@@ -2623,10 +2623,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “replace”.",
     "options": [
-      "thời gian dừng máy",
-      "kế hoạch khôi phục tiến độ",
+      "thư điện tử",
+      "kế hoạch",
       "thay thế",
-      "không có vấn đề gì"
+      "khóa học"
     ],
     "answer": "thay thế",
     "vocabId": "v-3cacc7bfac0a",
@@ -2670,10 +2670,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “important”.",
     "options": [
-      "rất hân hạnh",
-      "theo ý kiến của tôi",
+      "ra mắt; triển khai",
+      "theo dõi tiếp; đôn đốc",
       "quan trọng",
-      "danh sách kiểm tra"
+      "cứ tự nhiên"
     ],
     "answer": "quan trọng",
     "vocabId": "v-5b4009518b37",
@@ -2715,10 +2715,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “cost reduction”.",
     "options": [
-      "thời gian",
-      "chính",
+      "thú vị",
+      "chân không",
       "giảm chi phí",
-      "cần"
+      "cảm thấy"
     ],
     "answer": "giảm chi phí",
     "vocabId": "v-8288cac5588a",
@@ -2759,9 +2759,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “English”.",
     "options": [
-      "khả năng truy xuất nguồn gốc",
-      "nhẹ; nhỏ",
-      "hãy cho tôi biết",
+      "không đủ",
+      "nhận",
+      "hành động",
       "tiếng Anh"
     ],
     "answer": "tiếng Anh",
@@ -2803,9 +2803,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “root cause”.",
     "options": [
-      "các tiêu chí",
-      "phẳng",
-      "tóm tắt",
+      "các thay đổi",
+      "phản hồi",
+      "tái diễn",
       "nguyên nhân gốc rễ"
     ],
     "answer": "nguyên nhân gốc rễ",
@@ -2847,10 +2847,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “on time”.",
     "options": [
-      "người vận hành",
-      "sẵn sàng",
+      "ngăn ngừa",
+      "sản lượng",
       "đúng giờ",
-      "không đồng ý"
+      "không có vấn đề gì"
     ],
     "answer": "đúng giờ",
     "vocabId": "v-5a94729cd8f5",
@@ -2892,10 +2892,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “checklist”.",
     "options": [
-      "chất lượng",
-      "nhóm",
+      "chương trình họp",
+      "nhãn; dán nhãn",
       "danh sách kiểm tra",
-      "kết quả là"
+      "kết quả"
     ],
     "answer": "danh sách kiểm tra",
     "vocabId": "v-ff744cd08217",
@@ -2937,15 +2937,15 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “meeting”.",
     "options": [
-      "chậm tiến độ",
-      "đã lên kế hoạch",
-      "các sai sót",
+      "chậm rãi",
+      "đã khóa",
+      "các lựa chọn",
       "cuộc họp"
     ],
     "answer": "cuộc họp",
     "vocabId": "v-bd7580126b94",
     "explanation": "“meeting” trong bài này có nghĩa là “cuộc họp”.",
-    "context": "Nice meeting you today."
+    "context": "How was the meeting?"
   },
   {
     "id": "67-cloze",
@@ -2981,10 +2981,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “feedback”.",
     "options": [
-      "phòng",
+      "phân tích",
       "ý kiến phản hồi",
-      "việc đọc",
-      "đi bộ"
+      "việc điều tra",
+      "đang mưa"
     ],
     "answer": "ý kiến phản hồi",
     "vocabId": "v-ef15f48c9654",
@@ -3027,9 +3027,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “change”.",
     "options": [
-      "cà phê",
+      "cuối tuần",
       "thay đổi",
-      "việc đầu tư",
+      "việc tiêu chuẩn hóa",
       "bị hỏng"
     ],
     "answer": "thay đổi",
@@ -3071,9 +3071,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “root cause”.",
     "options": [
-      "vật liệu",
-      "các sai sót",
-      "khả năng truy xuất nguồn gốc",
+      "văn phòng",
+      "các lựa chọn",
+      "không đủ",
       "nguyên nhân gốc rễ"
     ],
     "answer": "nguyên nhân gốc rễ",
@@ -3117,10 +3117,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “believe”.",
     "options": [
-      "tuần",
+      "trạm xe buýt",
       "tin tưởng",
-      "sân bay",
-      "liệu rằng"
+      "so với",
+      "liên hệ"
     ],
     "answer": "tin tưởng",
     "vocabId": "v-94ec44c4f4ad",
@@ -3160,10 +3160,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “in my opinion”.",
     "options": [
-      "chậm rãi",
-      "tiếp tục",
+      "chất lượng",
+      "tiến độ",
       "theo ý kiến của tôi",
-      "đúng giờ"
+      "đã được quan sát"
     ],
     "answer": "theo ý kiến của tôi",
     "vocabId": "v-fc940843d0bc",
@@ -3206,9 +3206,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “acceptable”.",
     "options": [
-      "các thông số cài đặt",
-      "không có gì (đáp lại lời cảm ơn)",
-      "so với",
+      "các sai sót",
+      "khó khăn",
+      "rời đi",
       "có thể chấp nhận"
     ],
     "answer": "có thể chấp nhận",
@@ -3254,9 +3254,9 @@
     "prompt": "Chọn nghĩa của “supplier”.",
     "options": [
       "nhà cung cấp",
-      "số lượng",
-      "trước; về phía trước",
-      "các lựa chọn"
+      "sản phẩm",
+      "trách nhiệm phụ trách",
+      "các kết quả"
     ],
     "answer": "nhà cung cấp",
     "vocabId": "v-e2979e759574",
@@ -3302,9 +3302,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “recurring”.",
     "options": [
-      "nhóm",
-      "thử; cố gắng",
-      "nói cách khác",
+      "nhãn; dán nhãn",
+      "thời gian rảnh",
+      "những người vận hành",
       "tái diễn"
     ],
     "answer": "tái diễn",
@@ -3348,10 +3348,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “decision”.",
     "options": [
-      "mục tiêu cần đạt",
-      "mặc dù",
+      "mới nhất",
+      "mất điện",
       "quyết định",
-      "phê duyệt"
+      "phân công"
     ],
     "answer": "quyết định",
     "vocabId": "v-8501a34f34de",
@@ -3395,9 +3395,9 @@
     "prompt": "Chọn nghĩa của “decision”.",
     "options": [
       "quyết định",
-      "loại bỏ",
+      "liên quan đến",
       "đậu phộng",
-      "hãy cho tôi biết"
+      "hành động"
     ],
     "answer": "quyết định",
     "vocabId": "v-8501a34f34de",
@@ -3440,9 +3440,9 @@
     "prompt": "Chọn nghĩa của “disagree”.",
     "options": [
       "đồng nghiệp",
-      "dày",
+      "do đó",
       "không đồng ý",
-      "cà phê"
+      "cuối tuần"
     ],
     "answer": "không đồng ý",
     "vocabId": "v-f584439dd0ea",
@@ -3485,9 +3485,9 @@
     "prompt": "Chọn nghĩa của “evidence”.",
     "options": [
       "bằng chứng",
-      "mua",
-      "có rủi ro",
-      "nhận"
+      "lớp lót",
+      "có liên quan",
+      "nhóm"
     ],
     "answer": "bằng chứng",
     "vocabId": "v-100ec4462dec",
@@ -3532,15 +3532,15 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “meeting”.",
     "options": [
-      "khách hàng",
-      "sự thiếu",
-      "nghi ngờ",
+      "khiếu nại của khách hàng",
+      "sự phê duyệt",
+      "mục đích",
       "cuộc họp"
     ],
     "answer": "cuộc họp",
     "vocabId": "v-bd7580126b94",
     "explanation": "“meeting” trong bài này có nghĩa là “cuộc họp”.",
-    "context": "Nice meeting you today."
+    "context": "How was the meeting?"
   },
   {
     "id": "80-cloze",
@@ -3577,9 +3577,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “material”.",
     "options": [
-      "lặp lại",
-      "sách; đặt chỗ",
-      "năng suất",
+      "lâu hơn",
+      "rủi ro",
+      "nói cách khác",
       "vật liệu"
     ],
     "answer": "vật liệu",
@@ -3622,10 +3622,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “frequency”.",
     "options": [
-      "đã nhận",
+      "đã lên kế hoạch",
       "tần suất",
-      "có nghĩa là",
-      "quyết định"
+      "có hiệu quả",
+      "quy trình"
     ],
     "answer": "tần suất",
     "vocabId": "v-48a8832d1417",
@@ -3667,10 +3667,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “decision”.",
     "options": [
-      "cuối cùng",
-      "rất vui được gặp bạn",
+      "chủ đề",
+      "rảnh; miễn phí; tự do",
       "quyết định",
-      "phân công"
+      "nước"
     ],
     "answer": "quyết định",
     "vocabId": "v-8501a34f34de",
@@ -3712,10 +3712,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “deadline”.",
     "options": [
-      "đã xác nhận",
+      "đã tăng",
       "hạn chót",
-      "không đúng",
-      "ý kiến phản hồi"
+      "không có gì (đáp lại lời cảm ơn)",
+      "yêu cầu"
     ],
     "answer": "hạn chót",
     "vocabId": "v-e23839cd729a",
@@ -3758,10 +3758,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “because of”.",
     "options": [
-      "trạm xe buýt",
+      "trình tự",
       "bởi vì; do",
-      "vật liệu",
-      "ghế"
+      "văn phòng",
+      "dự án"
     ],
     "answer": "bởi vì; do",
     "vocabId": "v-e05584535f18",
@@ -3805,7 +3805,7 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “variation”.",
     "options": [
-      "đã được dán nhãn",
+      "đã đóng cửa",
       "được cập nhật",
       "sự biến thiên",
       "bất cứ lúc nào"
@@ -3852,9 +3852,9 @@
     "prompt": "Chọn nghĩa của “increased”.",
     "options": [
       "đã tăng",
-      "dày",
-      "đang chờ xử lý",
-      "có nghĩa là"
+      "do đó",
+      "ít hơn",
+      "có hiệu quả"
     ],
     "answer": "đã tăng",
     "vocabId": "v-fc399f91c8b8",
@@ -3900,9 +3900,9 @@
     "prompt": "Chọn nghĩa của “monitoring”.",
     "options": [
       "việc theo dõi",
-      "nghĩ",
-      "lái xe",
-      "dây chuyền sản xuất"
+      "nghe có vẻ",
+      "làm ơn; vui lòng",
+      "dài hạn"
     ],
     "answer": "việc theo dõi",
     "vocabId": "v-c1ab9924ecda",
@@ -3946,9 +3946,9 @@
     "prompt": "Chọn nghĩa của “although”.",
     "options": [
       "mặc dù",
-      "đã nhận",
-      "chờ",
-      "trân trọng; đánh giá cao"
+      "đã lên kế hoạch",
+      "chỗ ngồi",
+      "trung tâm thành phố"
     ],
     "answer": "mặc dù",
     "vocabId": "v-dea713fc735e",
@@ -3991,9 +3991,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “on the other hand”.",
     "options": [
-      "ghế cạnh cửa sổ",
-      "xin lỗi",
-      "cuối tuần",
+      "ga tàu",
+      "vị trí",
+      "cuối cùng",
       "mặt khác"
     ],
     "answer": "mặt khác",
@@ -4040,10 +4040,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “for example”.",
     "options": [
-      "chủ yếu; quan trọng",
-      "cần",
+      "chờ",
+      "cảm thấy",
       "ví dụ",
-      "tiến độ"
+      "thử; cố gắng (dạng -ing)"
     ],
     "answer": "ví dụ",
     "vocabId": "v-7e2fb968a45f",
@@ -4088,10 +4088,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “in addition”.",
     "options": [
-      "sớm",
-      "nhiệt độ",
+      "sẵn sàng",
+      "nhiều (danh từ đếm được)",
       "ngoài ra",
-      "tháng"
+      "thiết lập ban đầu"
     ],
     "answer": "ngoài ra",
     "vocabId": "v-f669be6f4697",
@@ -4135,10 +4135,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “in other words”.",
     "options": [
-      "tháng",
+      "thiết lập ban đầu",
       "nói cách khác",
-      "rất hân hạnh",
-      "xác định"
+      "ra mắt; triển khai",
+      "xu hướng"
     ],
     "answer": "nói cách khác",
     "vocabId": "v-321d2aeba490",
@@ -4186,10 +4186,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “focus on”.",
     "options": [
-      "sự tái diễn",
+      "sự phòng ngừa",
       "tập trung vào",
-      "danh sách kiểm tra",
-      "các tiêu chí"
+      "cứ tự nhiên",
+      "các thay đổi"
     ],
     "answer": "tập trung vào",
     "vocabId": "v-b6953ddde01e",
@@ -4234,10 +4234,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “variation”.",
     "options": [
-      "sẵn sàng",
-      "đã gửi",
+      "sản lượng",
+      "đã giảm",
       "sự biến thiên",
-      "sự kiên nhẫn"
+      "sự gia hạn"
     ],
     "answer": "sự biến thiên",
     "vocabId": "v-1ca7c5fd3464",
@@ -4281,9 +4281,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “approval”.",
     "options": [
-      "kỳ nghỉ",
-      "việc thay thế",
-      "mặc dù",
+      "kết quả kiểm thử",
+      "việc ngắt lời",
+      "mất điện",
       "sự phê duyệt"
     ],
     "answer": "sự phê duyệt",
@@ -4327,9 +4327,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “supplier”.",
     "options": [
-      "nhà vệ sinh",
+      "nhà",
       "nhà cung cấp",
-      "dừng lại",
+      "dây chuyền sản xuất",
       "đề xuất"
     ],
     "answer": "nhà cung cấp",
@@ -4376,8 +4376,8 @@
     "options": [
       "điều đó phụ thuộc vào",
       "ước",
-      "thư điện tử",
-      "muộn"
+      "thông tin",
+      "mua hàng"
     ],
     "answer": "điều đó phụ thuộc vào",
     "vocabId": "v-a9e7c6816e41",
@@ -4422,9 +4422,9 @@
     "prompt": "Chọn nghĩa của “stay home”.",
     "options": [
       "ở nhà",
-      "ga tàu",
-      "nguyên nhân gốc rễ",
-      "một lát"
+      "dữ liệu",
+      "nghỉ giải lao",
+      "một cách khác"
     ],
     "answer": "ở nhà",
     "vocabId": "v-217965bd1ded",
@@ -4467,10 +4467,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “take a break”.",
     "options": [
-      "có nghĩa là",
+      "có hiệu quả",
       "nghỉ giải lao",
-      "nước",
-      "phân tích"
+      "năm",
+      "phát hiện"
     ],
     "answer": "nghỉ giải lao",
     "vocabId": "v-7afc62b8cbf8",
@@ -4517,9 +4517,9 @@
     "prompt": "Chọn nghĩa của “go out”.",
     "options": [
       "đi ra ngoài",
-      "thời gian rảnh",
-      "dừng lại",
-      "sự phê duyệt"
+      "thời gian",
+      "dây chuyền sản xuất",
+      "sự nhiễm bẩn"
     ],
     "answer": "đi ra ngoài",
     "vocabId": "v-52f7f7cc6f8d",
@@ -4562,10 +4562,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “closed”.",
     "options": [
-      "việc theo dõi",
+      "việc ngủ",
       "đã đóng cửa",
-      "có rủi ro",
-      "trạm xe buýt"
+      "có liên quan",
+      "trình tự"
     ],
     "answer": "đã đóng cửa",
     "vocabId": "v-ea88fbaa99b7",
@@ -4606,9 +4606,9 @@
     "prompt": "Chọn nghĩa của “schedule”.",
     "options": [
       "lịch trình",
+      "vị trí",
       "xin lỗi",
-      "xác minh",
-      "phát hiện"
+      "năng suất"
     ],
     "answer": "lịch trình",
     "vocabId": "v-11e9ba26c91a",
@@ -4651,9 +4651,9 @@
     "prompt": "Chọn nghĩa của “early”.",
     "options": [
       "báo cáo",
-      "ý kiến phản hồi",
+      "yêu cầu",
       "sớm",
-      "dự án"
+      "dừng lại"
     ],
     "answer": "sớm",
     "vocabId": "v-818743b967a1",
@@ -4695,10 +4695,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “colleague”.",
     "options": [
-      "thời gian rảnh",
-      "lợi ích",
+      "thời gian",
+      "lớp học",
       "đồng nghiệp",
-      "tiến độ"
+      "thử; cố gắng (dạng -ing)"
     ],
     "answer": "đồng nghiệp",
     "vocabId": "v-ace6752be4cc",
@@ -4740,8 +4740,8 @@
     "prompt": "Chọn nghĩa của “explain”.",
     "options": [
       "buổi tối",
-      "phức tạp",
-      "xe đạp",
+      "phẳng",
+      "vết xước",
       "giải thích"
     ],
     "answer": "giải thích",
@@ -4786,9 +4786,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “call you back”.",
     "options": [
-      "hành động",
-      "thức ăn",
-      "tuần",
+      "hoàn thành; kết thúc",
+      "thời gian dừng máy",
+      "trạm xe buýt",
       "gọi lại cho bạn"
     ],
     "answer": "gọi lại cho bạn",
@@ -4831,9 +4831,9 @@
     "prompt": "Chọn nghĩa của “let me know”.",
     "options": [
       "hãy cho tôi biết",
-      "xin phép; xin lỗi để gây chú ý",
+      "xe đạp",
       "đồng nghiệp",
-      "các ý tưởng"
+      "các trách nhiệm"
     ],
     "answer": "hãy cho tôi biết",
     "vocabId": "v-85973bd151f0",
@@ -4874,9 +4874,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “thank you”.",
     "options": [
-      "gặp gỡ",
-      "không có gì (đáp lại lời cảm ơn)",
-      "phân tích",
+      "gần hơn",
+      "khó khăn",
+      "phát hiện",
       "cảm ơn"
     ],
     "answer": "cảm ơn",
@@ -4918,7 +4918,7 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “inconvenience”.",
     "options": [
-      "mục tiêu",
+      "mới",
       "độ ẩm không khí",
       "sự bất tiện",
       "được dự kiến"
@@ -4961,8 +4961,8 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “information”.",
     "options": [
-      "kỳ nghỉ",
-      "giá tiền",
+      "kết quả kiểm thử",
+      "gia đình",
       "đừng lo",
       "thông tin"
     ],
@@ -5006,10 +5006,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “excuse me”.",
     "options": [
-      "phức tạp",
+      "phẳng",
       "ổn định",
       "xin phép; xin lỗi để gây chú ý",
-      "việc mở"
+      "việc học"
     ],
     "answer": "xin phép; xin lỗi để gây chú ý",
     "vocabId": "v-25018d83422a",
@@ -5052,7 +5052,7 @@
     "prompt": "Chọn nghĩa của “no problem”.",
     "options": [
       "không có vấn đề gì",
-      "viết",
+      "từ",
       "bất cứ lúc nào",
       "đọc"
     ],
@@ -5095,10 +5095,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “you're welcome”.",
     "options": [
-      "thu thập",
-      "hiểu",
+      "thiết bị",
+      "gửi",
       "không có gì (đáp lại lời cảm ơn)",
-      "các bong bóng khí"
+      "cuộc họp"
     ],
     "answer": "không có gì (đáp lại lời cảm ơn)",
     "vocabId": "v-d1b38a28131e",
@@ -5136,10 +5136,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “another way”.",
     "options": [
-      "dữ liệu",
+      "dây chuyền; hàng",
       "một cách khác",
-      "đã được dán nhãn",
-      "không có vấn đề gì"
+      "đã đóng cửa",
+      "khóa học"
     ],
     "answer": "một cách khác",
     "vocabId": "v-6eae00bd772b",
@@ -5182,10 +5182,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “clarify”.",
     "options": [
-      "điều đó phụ thuộc vào",
+      "đi ra ngoài",
       "làm rõ",
       "độ ẩm không khí",
-      "trung tâm thành phố"
+      "tiếp tục"
     ],
     "answer": "làm rõ",
     "vocabId": "v-ef8fe782bf94",
@@ -5229,10 +5229,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “prefer”.",
     "options": [
-      "cải thiện",
-      "hai lần",
+      "cũ",
+      "gọi điện",
       "thích hơn",
-      "cửa sổ"
+      "cỡ mẫu"
     ],
     "answer": "thích hơn",
     "vocabId": "v-866e90dff0f0",
@@ -5278,9 +5278,9 @@
     "prompt": "Chọn nghĩa của “extension”.",
     "options": [
       "sự gia hạn",
-      "tăng; sự gia tăng",
-      "xem lại; ôn tập",
-      "danh sách kiểm tra"
+      "tìm thấy",
+      "về nhà",
+      "cứ tự nhiên"
     ],
     "answer": "sự gia hạn",
     "vocabId": "v-f98961015a0a",
@@ -5324,9 +5324,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “appreciate”.",
     "options": [
-      "cửa sổ",
-      "đang thử; đang cố gắng",
-      "không đúng",
+      "cỡ mẫu",
+      "đang chờ xử lý",
+      "không có gì (đáp lại lời cảm ơn)",
       "trân trọng; đánh giá cao"
     ],
     "answer": "trân trọng; đánh giá cao",
@@ -5371,9 +5371,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “feel free to”.",
     "options": [
-      "dây chuyền sản xuất",
-      "hành động",
-      "số lượng",
+      "dài hạn",
+      "hoàn thành; kết thúc",
+      "sản phẩm",
       "cứ tự nhiên"
     ],
     "answer": "cứ tự nhiên",
@@ -5416,9 +5416,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “improvement”.",
     "options": [
-      "giảm",
-      "con gái",
-      "thử; cố gắng",
+      "giúp đỡ",
+      "chủ yếu; quan trọng",
+      "thời gian rảnh",
       "sự cải tiến"
     ],
     "answer": "sự cải tiến",
@@ -5462,9 +5462,9 @@
     "prompt": "Chọn nghĩa của “night shift”.",
     "options": [
       "ca đêm",
-      "giải thích",
-      "sản phẩm",
-      "tiết kiệm chi phí"
+      "giá tiền",
+      "sân bay",
+      "tiếng Anh"
     ],
     "answer": "ca đêm",
     "vocabId": "v-6b03dd117d95",
@@ -5506,9 +5506,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “customer complaint”.",
     "options": [
-      "con gái",
+      "chủ yếu; quan trọng",
       "cao nhất",
-      "khiếu nại",
+      "hằng tháng",
       "khiếu nại của khách hàng"
     ],
     "answer": "khiếu nại của khách hàng",
@@ -5553,8 +5553,8 @@
     "options": [
       "ban đêm",
       "kiểm tra chất lượng",
-      "khó khăn",
-      "thay thế"
+      "khách hàng",
+      "sự tái diễn"
     ],
     "answer": "kiểm tra chất lượng",
     "vocabId": "v-90f9b69fcbf8",
@@ -5596,8 +5596,8 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “labor cost”.",
     "options": [
-      "giống nhau; cùng một",
-      "hoàn thành; kết thúc",
+      "giảm chi phí",
+      "hiểu",
       "chi phí nhân công",
       "ưu tiên"
     ],
@@ -5643,8 +5643,8 @@
     "prompt": "Chọn nghĩa của “root cause”.",
     "options": [
       "cho xuất; phát hành",
-      "thời gian dừng máy",
       "thư điện tử",
+      "thông tin",
       "nguyên nhân gốc rễ"
     ],
     "answer": "nguyên nhân gốc rễ",
@@ -5687,8 +5687,8 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “on track”.",
     "options": [
-      "tác động",
-      "thời gian rảnh",
+      "trả lời",
+      "thời gian",
       "đúng tiến độ",
       "bỏ qua"
     ],
@@ -5733,9 +5733,9 @@
     "prompt": "Chọn nghĩa của “completed”.",
     "options": [
       "đã hoàn thành",
-      "nguyên nhân; gây ra",
-      "gửi",
-      "sản lượng"
+      "ngoài ra",
+      "gọi lại cho bạn",
+      "sách; đặt chỗ"
     ],
     "answer": "đã hoàn thành",
     "vocabId": "v-231e564db4cd",
@@ -5777,9 +5777,9 @@
     "prompt": "Chọn nghĩa của “approval”.",
     "options": [
       "sự phê duyệt",
-      "đúng giờ",
-      "tin tưởng",
-      "sớm hơn tiến độ"
+      "đã được quan sát",
+      "thử; cố gắng",
+      "số lượng"
     ],
     "answer": "sự phê duyệt",
     "vocabId": "v-59494695a317",
@@ -5822,9 +5822,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “deadline”.",
     "options": [
-      "sự biến thiên",
-      "nhà cung cấp",
-      "khách hàng",
+      "sớm",
+      "nhiệt độ",
+      "khiếu nại của khách hàng",
       "hạn chót"
     ],
     "answer": "hạn chót",
@@ -5870,9 +5870,9 @@
     "prompt": "Chọn nghĩa của “ahead of schedule”.",
     "options": [
       "sớm hơn tiến độ",
-      "đã tìm thấy",
-      "mặt khác",
-      "kỳ nghỉ"
+      "đã nhận",
+      "mẫu",
+      "kết quả kiểm thử"
     ],
     "answer": "sớm hơn tiến độ",
     "vocabId": "v-8bb7858a79d6",
@@ -5912,10 +5912,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “on track”.",
     "options": [
-      "công việc; làm việc",
-      "ngày",
+      "có thể chấp nhận",
+      "nguyên nhân gốc rễ",
       "đúng tiến độ",
-      "người quản lý"
+      "ngày nghỉ"
     ],
     "answer": "đúng tiến độ",
     "vocabId": "v-464e4361f38b",
@@ -5958,10 +5958,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “variation”.",
     "options": [
-      "ra mắt; triển khai",
-      "muốn",
+      "quyết định",
+      "mua",
       "sự biến thiên",
-      "phức tạp"
+      "phẳng"
     ],
     "answer": "sự biến thiên",
     "vocabId": "v-1ca7c5fd3464",
@@ -6005,10 +6005,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “according to”.",
     "options": [
-      "dự án",
+      "dừng lại",
       "theo như",
-      "quan trọng",
-      "sự biến thiên"
+      "phế phẩm",
+      "sớm"
     ],
     "answer": "theo như",
     "vocabId": "v-3afbcfb4c94c",
@@ -6052,10 +6052,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “compared with”.",
     "options": [
-      "việc ngủ",
+      "việc lập kế hoạch",
       "so với",
-      "mệt mỏi",
-      "tìm thấy"
+      "mặc dù",
+      "tuần"
     ],
     "answer": "so với",
     "vocabId": "v-319f64f420c6",
@@ -6100,9 +6100,9 @@
     "prompt": "Chọn nghĩa của “productivity”.",
     "options": [
       "năng suất",
-      "sự gia hạn",
-      "nhà thuốc",
-      "thời gian"
+      "sự chậm trễ; trì hoãn",
+      "nhà",
+      "thú vị"
     ],
     "answer": "năng suất",
     "vocabId": "v-0d117e422ae6",
@@ -6144,10 +6144,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “temperature”.",
     "options": [
-      "cửa sổ",
+      "cỡ mẫu",
       "nhiệt độ",
-      "chậm rãi",
-      "ngày nghỉ"
+      "chất lượng",
+      "nguyên nhân; gây ra"
     ],
     "answer": "nhiệt độ",
     "vocabId": "v-7033e90fcdda",
@@ -6192,9 +6192,9 @@
     "prompt": "Chọn nghĩa của “cost reduction”.",
     "options": [
       "giảm chi phí",
-      "mới",
-      "dừng lại",
-      "năm"
+      "một lát",
+      "dây chuyền sản xuất",
+      "niềm vui"
     ],
     "answer": "giảm chi phí",
     "vocabId": "v-8288cac5588a",
@@ -6235,10 +6235,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “lack of”.",
     "options": [
-      "ví dụ",
+      "việc đọc",
       "an toàn",
       "sự thiếu",
-      "trả lời"
+      "trước; về phía trước"
     ],
     "answer": "sự thiếu",
     "vocabId": "v-dfe4754bfccf",
@@ -6280,9 +6280,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “root cause”.",
     "options": [
-      "cuộc họp",
+      "cuối cùng; vừa qua",
       "nguyên nhân gốc rễ",
-      "đã tăng",
+      "đã tìm thấy",
       "bất cứ lúc nào"
     ],
     "answer": "nguyên nhân gốc rễ",
@@ -6327,8 +6327,8 @@
     "prompt": "Chọn nghĩa của “night shift”.",
     "options": [
       "bất cứ lúc nào",
-      "đã được dán nhãn",
-      "sớm",
+      "đã đóng cửa",
+      "sẵn sàng",
       "ca đêm"
     ],
     "answer": "ca đêm",
@@ -6371,9 +6371,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “conditions”.",
     "options": [
-      "việc đi bộ",
-      "vui; tốt đẹp",
-      "thử; cố gắng",
+      "việc theo dõi",
+      "việc đặt chỗ",
+      "thời gian rảnh",
       "các điều kiện"
     ],
     "answer": "các điều kiện",
@@ -6420,7 +6420,7 @@
     "options": [
       "người vận hành",
       "buổi tối",
-      "do đó",
+      "cửa sổ",
       "bởi vì; do"
     ],
     "answer": "người vận hành",
@@ -6467,8 +6467,8 @@
     "options": [
       "bằng chứng",
       "mất điện",
-      "nước",
-      "nói cách khác"
+      "năm",
+      "những người vận hành"
     ],
     "answer": "mất điện",
     "vocabId": "v-2e8974b2e621",
@@ -6510,10 +6510,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “related to”.",
     "options": [
-      "nhà",
+      "nhiều hơn",
       "liên quan đến",
       "đề xuất",
-      "đã cải thiện"
+      "đáng kể"
     ],
     "answer": "liên quan đến",
     "vocabId": "v-fa8f906a23fd",
@@ -6557,10 +6557,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “inspection”.",
     "options": [
-      "câu trả lời",
+      "các đồ gá",
       "kiểm tra chất lượng",
-      "các điểm",
-      "tái diễn"
+      "các ý tưởng",
+      "tuy nhiên"
     ],
     "answer": "kiểm tra chất lượng",
     "vocabId": "v-90f9b69fcbf8",
@@ -6602,9 +6602,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “recurrence”.",
     "options": [
-      "trách nhiệm phụ trách",
-      "có sẵn; còn trống",
-      "tốt hơn",
+      "tiềm ẩn; có tiềm năng",
+      "có nghĩa là; muốn nói",
+      "tấm; đĩa",
       "sự tái diễn"
     ],
     "answer": "sự tái diễn",
@@ -6650,9 +6650,9 @@
     "prompt": "Chọn nghĩa của “as a result”.",
     "options": [
       "kết quả là",
-      "vật liệu",
-      "tấm; đĩa",
-      "nguyên nhân; gây ra"
+      "văn phòng",
+      "tóm tắt",
+      "ngoài ra"
     ],
     "answer": "kết quả là",
     "vocabId": "v-74d348a2d9fd",
@@ -6697,9 +6697,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “continue”.",
     "options": [
-      "các bong bóng khí",
-      "hành động khắc phục",
-      "chất lượng",
+      "cuộc họp",
+      "hy vọng",
+      "chương trình họp",
       "tiếp tục"
     ],
     "answer": "tiếp tục",
@@ -6743,10 +6743,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “action plan”.",
     "options": [
-      "ngoài ra",
+      "nghĩ",
       "kế hoạch hành động",
       "đợt chạy thử",
-      "làm ơn; vui lòng"
+      "loại bỏ"
     ],
     "answer": "kế hoạch hành động",
     "vocabId": "v-56019fb78ba4",
@@ -6789,10 +6789,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “corrective action”.",
     "options": [
+      "vấn đề; khó khăn",
       "về nhà",
-      "xem lại; ôn tập",
       "hành động khắc phục",
-      "ngăn ngừa"
+      "ngày"
     ],
     "answer": "hành động khắc phục",
     "vocabId": "v-ff4141bf61e1",
@@ -6835,10 +6835,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “decision”.",
     "options": [
-      "tình huống",
-      "đã cải thiện",
+      "tác động",
+      "đáng kể",
       "quyết định",
-      "mục đích"
+      "mục tiêu"
     ],
     "answer": "quyết định",
     "vocabId": "v-8501a34f34de",
@@ -6881,8 +6881,8 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “approval”.",
     "options": [
-      "quà tặng",
-      "chậm tiến độ",
+      "quy trình hướng dẫn",
+      "chậm rãi",
       "sự phê duyệt",
       "bị hỏng"
     ],
@@ -6928,8 +6928,8 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “sample size”.",
     "options": [
-      "được chào đón; hoan nghênh",
-      "gia hạn",
+      "đúng; chính xác",
+      "ghế",
       "đợt chạy thử",
       "cỡ mẫu"
     ],
@@ -6973,10 +6973,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “traceability”.",
     "options": [
-      "thức ăn",
-      "so với",
+      "thời gian dừng máy",
+      "rời đi",
       "khả năng truy xuất nguồn gốc",
-      "sự phòng ngừa"
+      "sự nhầm lẫn"
     ],
     "answer": "khả năng truy xuất nguồn gốc",
     "vocabId": "v-928c6786e637",
@@ -7017,10 +7017,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “contamination”.",
     "options": [
-      "đi bộ",
-      "quy trình hướng dẫn",
+      "đang mưa",
+      "quan trọng",
       "sự nhiễm bẩn",
-      "nhiều (danh từ không đếm được)"
+      "người quản lý"
     ],
     "answer": "sự nhiễm bẩn",
     "vocabId": "v-dcd5e5991d0c",
@@ -7062,9 +7062,9 @@
     "prompt": "Chọn nghĩa của “recurring”.",
     "options": [
       "tái diễn",
-      "giờ",
-      "trước; về phía trước",
-      "quà tặng"
+      "giảm; sự suy giảm",
+      "trách nhiệm phụ trách",
+      "quy trình hướng dẫn"
     ],
     "answer": "tái diễn",
     "vocabId": "v-e1a31b3e461a",
@@ -7108,9 +7108,9 @@
     "prompt": "Chọn nghĩa của “informed”.",
     "options": [
       "ổn; tốt",
-      "giảm chi phí",
+      "giải thích",
       "được thông báo",
-      "việc điều tra"
+      "việc thu thập"
     ],
     "answer": "được thông báo",
     "vocabId": "v-8c9922f76b3a",
@@ -7154,9 +7154,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “samples”.",
     "options": [
-      "cần",
-      "việc thay thế",
-      "nghi ngờ",
+      "cảm thấy",
+      "việc ngắt lời",
+      "mục đích",
       "các mẫu"
     ],
     "answer": "các mẫu",
@@ -7203,9 +7203,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “preventive actions”.",
     "options": [
-      "lớp học",
-      "sách; đặt chỗ",
-      "các tiêu chí",
+      "lịch trình",
+      "rủi ro",
+      "các thay đổi",
       "các hành động phòng ngừa"
     ],
     "answer": "các hành động phòng ngừa",
@@ -7249,15 +7249,15 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “meeting”.",
     "options": [
-      "thay đổi",
+      "tham gia",
       "cuộc họp",
-      "sớm hơn tiến độ",
-      "gia hạn"
+      "số lượng",
+      "ghế"
     ],
     "answer": "cuộc họp",
     "vocabId": "v-bd7580126b94",
     "explanation": "“meeting” trong bài này có nghĩa là “cuộc họp”.",
-    "context": "Nice meeting you today."
+    "context": "How was the meeting?"
   },
   {
     "id": "161-cloze",
@@ -7294,8 +7294,8 @@
     "options": [
       "kế hoạch hành động",
       "cha mẹ",
-      "tình huống",
-      "vui vẻ"
+      "tác động",
+      "việc đầu tư"
     ],
     "answer": "kế hoạch hành động",
     "vocabId": "v-56019fb78ba4",
@@ -7338,10 +7338,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “customer”.",
     "options": [
-      "sự thiếu",
-      "phân công",
+      "sự phê duyệt",
+      "nước",
       "khách hàng",
-      "tác động"
+      "trả lời"
     ],
     "answer": "khách hàng",
     "vocabId": "v-b39f008e318e",
@@ -7383,10 +7383,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “cost saving”.",
     "options": [
-      "cuộc họp",
+      "cuối cùng; vừa qua",
       "tiết kiệm chi phí",
-      "đi bộ",
-      "kiểm tra chất lượng"
+      "đang mưa",
+      "kiểm thử; phép thử"
     ],
     "answer": "tiết kiệm chi phí",
     "vocabId": "v-88a1cf74bc57",
@@ -7429,7 +7429,7 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “action plan”.",
     "options": [
-      "xu hướng",
+      "xem lại; ôn tập",
       "chuyến đi",
       "buổi tối",
       "kế hoạch hành động"
@@ -7475,9 +7475,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “definition”.",
     "options": [
-      "trung tâm thành phố",
-      "cứ tự nhiên",
-      "tóm tắt",
+      "tiếp tục",
+      "cập nhật",
+      "tái diễn",
       "định nghĩa"
     ],
     "answer": "định nghĩa",
@@ -7521,10 +7521,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “test result”.",
     "options": [
-      "gần nhất",
+      "giờ",
       "kết quả kiểm thử",
       "độ ẩm không khí",
-      "con gái"
+      "chủ yếu; quan trọng"
     ],
     "answer": "kết quả kiểm thử",
     "vocabId": "v-4377215cccd0",
@@ -7568,9 +7568,9 @@
     "prompt": "Chọn nghĩa của “single owner”.",
     "options": [
       "một người phụ trách duy nhất",
-      "điều đó phụ thuộc vào",
-      "các lựa chọn",
-      "sớm"
+      "đi ra ngoài",
+      "các kết quả",
+      "sẵn sàng"
     ],
     "answer": "một người phụ trách duy nhất",
     "vocabId": "v-6d88728d41dd",
@@ -7613,9 +7613,9 @@
     "prompt": "Chọn nghĩa của “team leader”.",
     "options": [
       "trưởng nhóm",
-      "hóa đơn thanh toán",
-      "tái diễn",
-      "sớm hơn tiến độ"
+      "hành động khắc phục",
+      "tuy nhiên",
+      "số lượng"
     ],
     "answer": "trưởng nhóm",
     "vocabId": "v-788497e72fe5",
@@ -7658,8 +7658,8 @@
     "prompt": "Chọn nghĩa của “customer”.",
     "options": [
       "khách hàng",
-      "đúng; chính xác",
-      "lớp lót",
+      "đúng tiến độ",
+      "lỗi sản phẩm",
       "đồng ý"
     ],
     "answer": "khách hàng",
@@ -7703,8 +7703,8 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “follow up”.",
     "options": [
-      "thiết lập ban đầu",
-      "đúng giờ",
+      "theo ý kiến của tôi",
+      "đã được quan sát",
       "đến nơi",
       "theo dõi tiếp; đôn đốc"
     ],
@@ -7749,9 +7749,9 @@
     "prompt": "Chọn nghĩa của “summarize”.",
     "options": [
       "tóm tắt",
-      "mua hàng",
-      "dừng lại",
-      "giúp đỡ"
+      "lợi ích",
+      "dây chuyền sản xuất",
+      "giai đoạn"
     ],
     "answer": "tóm tắt",
     "vocabId": "v-e7e5cb2f5eb7",
@@ -7794,9 +7794,9 @@
     "prompt": "Chọn nghĩa của “management”.",
     "options": [
       "ban quản lý",
-      "quyết định",
-      "loại bỏ",
-      "việc ngủ"
+      "quy trình",
+      "liên quan đến",
+      "việc lập kế hoạch"
     ],
     "answer": "ban quản lý",
     "vocabId": "v-982d46d22d95",
@@ -7840,7 +7840,7 @@
     "prompt": "Chọn nghĩa của “requirement”.",
     "options": [
       "yêu cầu",
-      "nhắn tin",
+      "nhấn mạnh",
       "ban đêm",
       "đến nơi"
     ],
@@ -7886,9 +7886,9 @@
     "prompt": "Chọn nghĩa của “customer complaint”.",
     "options": [
       "cao nhất",
-      "những người vận hành",
+      "nhắn tin",
       "khiếu nại của khách hàng",
-      "gọi điện"
+      "gặp gỡ"
     ],
     "answer": "khiếu nại của khách hàng",
     "vocabId": "v-5545a3812ab6",
@@ -7932,7 +7932,7 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “on hold”.",
     "options": [
-      "đã lên kế hoạch",
+      "đã khóa",
       "tạm hoãn",
       "bất cứ lúc nào",
       "chi phí"
@@ -7977,10 +7977,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “chicken rice”.",
     "options": [
-      "giảm",
+      "giúp đỡ",
       "cơm gà",
-      "nhiệt độ",
-      "rời đi"
+      "nhiều (danh từ đếm được)",
+      "rất hân hạnh"
     ],
     "answer": "cơm gà",
     "vocabId": "v-710e35bac934",
@@ -8023,10 +8023,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “window seat”.",
     "options": [
-      "các lỗi sản phẩm",
-      "phút",
+      "các khiếu nại",
+      "phòng",
       "ghế cạnh cửa sổ",
-      "theo ý kiến của tôi"
+      "theo dõi tiếp; đôn đốc"
     ],
     "answer": "ghế cạnh cửa sổ",
     "vocabId": "v-1435b2082842",
@@ -8069,9 +8069,9 @@
     "prompt": "Chọn nghĩa của “daughter”.",
     "options": [
       "đứa trẻ",
-      "các trách nhiệm",
+      "các thông số cài đặt",
       "con gái",
-      "ga tàu"
+      "dữ liệu"
     ],
     "answer": "con gái",
     "vocabId": "v-6490e67e8283",
@@ -8114,9 +8114,9 @@
     "prompt": "Chọn nghĩa của “train station”.",
     "options": [
       "ga tàu",
-      "chỗ ngồi",
-      "việc theo dõi",
-      "có liên quan"
+      "chịu trách nhiệm",
+      "việc ngủ",
+      "câu trả lời"
     ],
     "answer": "ga tàu",
     "vocabId": "v-cda0f61ff9e5",
@@ -8161,9 +8161,9 @@
     "prompt": "Chọn nghĩa của “window”.",
     "options": [
       "cửa sổ",
-      "các gợi ý",
-      "vấn đề",
-      "thức ăn"
+      "các bước",
+      "vui; tốt đẹp",
+      "thời gian dừng máy"
     ],
     "answer": "cửa sổ",
     "vocabId": "v-320ad267d8d9",
@@ -8207,10 +8207,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “day off”.",
     "options": [
-      "năng suất",
-      "gọi lại cho bạn",
+      "nói cách khác",
+      "gần nhất",
       "ngày nghỉ",
-      "mua hàng"
+      "lợi ích"
     ],
     "answer": "ngày nghỉ",
     "vocabId": "v-549a03e6231c",
@@ -8253,9 +8253,9 @@
     "prompt": "Chọn nghĩa của “stay home”.",
     "options": [
       "ở nhà",
-      "điều đó phụ thuộc vào",
-      "cuối cùng; vừa qua",
-      "các khiếu nại"
+      "đi ra ngoài",
+      "con gái",
+      "các gợi ý"
     ],
     "answer": "ở nhà",
     "vocabId": "v-217965bd1ded",
@@ -8296,10 +8296,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “approval”.",
     "options": [
-      "khí bị giữ lại",
+      "khuyến nghị",
       "sự phê duyệt",
       "biên lai",
-      "hiểu"
+      "gửi"
     ],
     "answer": "sự phê duyệt",
     "vocabId": "v-59494695a317",
@@ -8345,9 +8345,9 @@
     "prompt": "Chọn nghĩa của “vacation”.",
     "options": [
       "đề xuất",
-      "có thể chấp nhận",
+      "có rủi ro",
       "kỳ nghỉ",
-      "các lỗi sản phẩm"
+      "các khiếu nại"
     ],
     "answer": "kỳ nghỉ",
     "vocabId": "v-18c0f103187c",
@@ -8390,9 +8390,9 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “free time”.",
     "options": [
-      "người vận hành",
-      "việc lái xe",
-      "lỗi sản phẩm",
+      "ngăn ngừa",
+      "việc ghi nhớ",
+      "lặp lại",
       "thời gian rảnh"
     ],
     "answer": "thời gian rảnh",
@@ -8435,8 +8435,8 @@
     "prompt": "Chọn nghĩa của “weekend”.",
     "options": [
       "cuối tuần",
-      "mua hàng",
-      "phẳng",
+      "lợi ích",
+      "phản hồi",
       "đợt chạy thử"
     ],
     "answer": "cuối tuần",
@@ -8479,10 +8479,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “sequence”.",
     "options": [
-      "về nhà",
+      "vấn đề; khó khăn",
       "trình tự",
-      "được chào đón; hoan nghênh",
-      "giảm; sự suy giảm"
+      "đúng; chính xác",
+      "giảm"
     ],
     "answer": "trình tự",
     "vocabId": "v-92504616ed59",
@@ -8525,8 +8525,8 @@
     "options": [
       "đổi lịch",
       "các giả định",
-      "quy trình",
-      "đi ra ngoài"
+      "phức tạp",
+      "đi bộ"
     ],
     "answer": "các giả định",
     "vocabId": "v-1b42e4bbc090",
@@ -8570,9 +8570,9 @@
     "prompt": "Chọn nghĩa của “complicated”.",
     "options": [
       "phức tạp",
-      "chậm tiến độ",
-      "cảm thấy",
-      "đào tạo; tàu hỏa"
+      "chậm rãi",
+      "cải thiện",
+      "đào tạo lại"
     ],
     "answer": "phức tạp",
     "vocabId": "v-d27c7a190bdd",
@@ -8612,10 +8612,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “product”.",
     "options": [
-      "đã giảm",
-      "đúng tiến độ",
+      "đã cải thiện",
+      "đúng lịch",
       "sản phẩm",
-      "sự gia hạn"
+      "sự chậm trễ; trì hoãn"
     ],
     "answer": "sản phẩm",
     "vocabId": "v-38a007151abe",
@@ -8659,9 +8659,9 @@
     "prompt": "Chọn nghĩa của “suggestions”.",
     "options": [
       "các gợi ý",
-      "kiểm tra chất lượng",
+      "kiểm thử; phép thử",
       "ổn định",
-      "một cách khác"
+      "mặt khác"
     ],
     "answer": "các gợi ý",
     "vocabId": "v-7ca5c1bf6d37",
@@ -8706,10 +8706,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “understanding”.",
     "options": [
-      "thiết bị",
-      "đã hoàn thành",
+      "theo như",
+      "đã gửi",
       "việc hiểu",
-      "phân tích"
+      "phát hiện"
     ],
     "answer": "việc hiểu",
     "vocabId": "v-14a9d766458d",
@@ -8752,9 +8752,9 @@
     "prompt": "Chọn nghĩa của “investing”.",
     "options": [
       "đồng nghiệp",
-      "chúc một ... tốt lành",
+      "chính",
       "việc đầu tư",
-      "trung tâm thành phố"
+      "tiếp tục"
     ],
     "answer": "việc đầu tư",
     "vocabId": "v-1c3471ca3188",
@@ -8795,9 +8795,9 @@
     "prompt": "Chọn nghĩa của “vacation”.",
     "options": [
       "kỳ nghỉ",
-      "tiếp tục",
+      "tiến độ",
       "bị trộn lẫn",
-      "nghĩ"
+      "nghe có vẻ"
     ],
     "answer": "kỳ nghỉ",
     "vocabId": "v-18c0f103187c",
@@ -8840,10 +8840,10 @@
     "type": "choice",
     "prompt": "Chọn nghĩa của “on time”.",
     "options": [
-      "xe đạp",
-      "sách; đặt chỗ",
+      "vết xước",
+      "rủi ro",
       "đúng giờ",
-      "từ"
+      "tốt hơn"
     ],
     "answer": "đúng giờ",
     "vocabId": "v-5a94729cd8f5",
@@ -8888,8 +8888,8 @@
     "prompt": "Chọn nghĩa của “take a break”.",
     "options": [
       "nghỉ giải lao",
-      "các điều kiện",
-      "sự phòng ngừa",
+      "các từ",
+      "sự nhầm lẫn",
       "buổi sáng"
     ],
     "answer": "nghỉ giải lao",

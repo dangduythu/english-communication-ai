@@ -138,39 +138,6 @@
       ]
     },
     {
-      "id": "v-bd7580126b94",
-      "en": "meeting",
-      "vi": "cuộc họp",
-      "kind": "word",
-      "example": "Nice meeting you today.",
-      "translation": "Rất vui được gặp bạn hôm nay.",
-      "lessonIds": [
-        2,
-        6,
-        10,
-        11,
-        20,
-        28,
-        35,
-        38,
-        41,
-        48,
-        67,
-        80,
-        82,
-        85,
-        86,
-        97,
-        152,
-        161,
-        162,
-        171,
-        179,
-        192,
-        197
-      ]
-    },
-    {
       "id": "v-392d7871944a",
       "en": "meet",
       "vi": "gặp gỡ",
@@ -182,6 +149,19 @@
         117,
         130,
         187
+      ]
+    },
+    {
+      "id": "v-5929e58a5aa1",
+      "en": "nice",
+      "vi": "vui; tốt đẹp",
+      "kind": "word",
+      "example": "Nice to meet you, I'm Minh.",
+      "translation": "Rất vui được gặp bạn, tôi là Minh.",
+      "lessonIds": [
+        2,
+        7,
+        61
       ]
     },
     {
@@ -432,6 +412,38 @@
       ]
     },
     {
+      "id": "v-bd7580126b94",
+      "en": "meeting",
+      "vi": "cuộc họp",
+      "kind": "word",
+      "example": "How was the meeting?",
+      "translation": "Cuộc họp vừa rồi thế nào?",
+      "lessonIds": [
+        6,
+        10,
+        11,
+        20,
+        28,
+        35,
+        38,
+        41,
+        48,
+        67,
+        80,
+        82,
+        85,
+        86,
+        97,
+        152,
+        161,
+        162,
+        171,
+        179,
+        192,
+        197
+      ]
+    },
+    {
       "id": "v-fdd91fbac0e5",
       "en": "trip",
       "vi": "chuyến đi",
@@ -491,18 +503,6 @@
         21,
         56,
         122
-      ]
-    },
-    {
-      "id": "v-5929e58a5aa1",
-      "en": "nice",
-      "vi": "vui; tốt đẹp",
-      "kind": "word",
-      "example": "Have a nice evening!",
-      "translation": "Chúc một buổi tối vui vẻ!",
-      "lessonIds": [
-        7,
-        61
       ]
     },
     {
@@ -1300,7 +1300,7 @@
     {
       "id": "v-5f00f7a0a9f5",
       "en": "mean",
-      "vi": "có nghĩa là",
+      "vi": "có nghĩa là; muốn nói",
       "kind": "word",
       "example": "What does this word mean?",
       "translation": "Từ này có nghĩa gì?",
@@ -1671,7 +1671,7 @@
     {
       "id": "v-12625ba3c14e",
       "en": "waiting",
-      "vi": "đang chờ",
+      "vi": "chờ đợi (dạng -ing)",
       "kind": "word",
       "example": "Would you mind waiting a moment?",
       "translation": "Bạn có phiền chờ một chút không?",
@@ -1973,7 +1973,7 @@
     {
       "id": "v-cce55e4309a7",
       "en": "order",
-      "vi": "đặt món; đơn hàng",
+      "vi": "đặt món; đơn hàng; thứ tự",
       "kind": "word",
       "example": "I'd like to order coffee.",
       "translation": "Tôi muốn gọi cà phê.",
@@ -2012,7 +2012,7 @@
     {
       "id": "v-f84e2e2dadd8",
       "en": "copy",
-      "vi": "bản sao",
+      "vi": "bản sao; sao chép",
       "kind": "word",
       "example": "I'd like a copy of the report.",
       "translation": "Tôi muốn một bản báo cáo.",
@@ -2617,7 +2617,7 @@
     {
       "id": "v-d33f85fc81c5",
       "en": "trying",
-      "vi": "đang thử; đang cố gắng",
+      "vi": "thử; cố gắng (dạng -ing)",
       "kind": "word",
       "example": "I'm trying to sleep earlier.",
       "translation": "Tôi đang cố ngủ sớm hơn.",
@@ -3693,7 +3693,7 @@
     {
       "id": "v-c0b137fe2d79",
       "en": "welcome",
-      "vi": "được chào đón; hoan nghênh",
+      "vi": "chào đón; không có gì (đáp lời cảm ơn)",
       "kind": "word",
       "example": "You're welcome!",
       "translation": "Không có gì!",
@@ -5475,9 +5475,9 @@
       "v-a2a75a27ba7f",
       "v-59ea4ada2701",
       "v-8f4e3e3c24ba",
-      "v-bd7580126b94",
       "v-2dd2bed72567",
-      "v-392d7871944a"
+      "v-392d7871944a",
+      "v-5929e58a5aa1"
     ],
     "3": [
       "v-ace6752be4cc",
