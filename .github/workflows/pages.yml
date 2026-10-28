@@ -49,3 +49,22 @@ jobs:
           path: _site
       - uses: actions/deploy-pages@v4
         id: deployment
+
+  live-smoke:
+    needs: deploy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm ci
+      - run: npx playwright install --with-deps chromium
+      - run: npm test
+        env:
+          BASE_URL: https://dangduythu.github.io/english-communication-ai/
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: live-desktop-mobile-screenshots
+          path: test-results/

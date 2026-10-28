@@ -15,8 +15,8 @@ const server=http.createServer((req,res)=>{
  fs.readFile(file,(err,data)=>{if(err){res.writeHead(404).end();return}res.setHeader('Content-Type',types[path.extname(file)]||'application/octet-stream');res.end(data)});
 });
 (async()=>{
- await new Promise(resolve=>server.listen(0,'127.0.0.1',resolve));
- const url=`http://127.0.0.1:${server.address().port}/english-communication-ai/`;
+ if(!process.env.BASE_URL)await new Promise(resolve=>server.listen(0,'127.0.0.1',resolve));
+ const url=process.env.BASE_URL||`http://127.0.0.1:${server.address().port}/english-communication-ai/`;
  const browser=await chromium.launch({headless:true});
  try{
  for(const viewport of [{width:1440,height:1000},{width:390,height:844}]){
@@ -59,6 +59,9 @@ const server=http.createServer((req,res)=>{
   assert.ok((await page.evaluate(()=>caches.keys())).includes('unrelated-application'));
   await context.setOffline(true);await page.reload();await page.locator('[data-nav="library"]').first().click();assert.equal(await page.locator('[data-open]').count(),197);
   assert.deepEqual(errors,[]);
+  await page.locator('[data-nav="home"]').first().click();
+  fs.mkdirSync(path.join(root,'test-results'),{recursive:true});
+  await page.screenshot({path:path.join(root,'test-results',`home-${viewport.width}.png`),fullPage:true});
   console.log(`PASS ${viewport.width}px: all 197 lessons / 985 examples, filters, notes, completion, statistics, review, backup/import, reset cancellation, offline, layout`);
   await context.close();
  }

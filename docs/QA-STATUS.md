@@ -22,11 +22,12 @@
 - Không chạy được bộ kiểm thử trình duyệt: tải Chromium thất bại (gói tải về không phải ZIP hợp lệ).
 - Chưa kiểm tra phát âm bằng giọng đọc thật; chưa kiểm tra cài PWA trên điện thoại vật lý.
 
-## Chưa triển khai
-- Kết nối GitHub xác nhận người dùng dangduythu; truy vấn repository đích trả 404.
-- Công cụ GitHub hiện có không cung cấp tạo repository hay cấu hình Pages.
-- Chưa đẩy commit, chưa chạy Actions trên GitHub, chưa có URL website đã được xác nhận.
-- Không thao tác repository PE Management, không xóa dữ liệu người dùng, không thay đổi bảo mật tài khoản.
+## Theo dõi triển khai
+- Repository riêng: https://github.com/dangduythu/english-communication-ai
+- V1 gốc giữ tại archive/v1-original; bản sửa phát triển tại develop/v1-quality-pages, tích hợp qua PR.
+- Pages dùng GitHub Actions. Trạng thái cuối cùng và kết quả kiểm tra tại tab Actions, không suy ra thành công từ tệp báo cáo này.
+- Workflow kiểm tra desktop/mobile cục bộ trước deploy và trực tiếp URL sau deploy; ảnh kết quả trong artifact live-desktop-mobile-screenshots.
+- Không thao tác repository PE Management, không xóa dữ liệu người dùng, không đổi bảo mật tài khoản.
 
 ## Giới hạn V1
 - Chưa có hội thoại AI, chấm phát âm, thu âm, tài khoản hoặc đồng bộ thiết bị.
