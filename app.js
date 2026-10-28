@@ -26,7 +26,7 @@ const nextLesson=()=>lessons.find(l=>!finished(l))||lessons[lessons.length-1];
 const countDone=()=>lessons.filter(finished).length;
 function notice(msg){if(storageError)msg='Không lưu được tiến độ. Hãy xuất bản sao lưu trước khi đóng trang.';let t=$('#toast');if(!t)return;t.textContent=msg;t.hidden=false;clearTimeout(toastTimer);toastTimer=setTimeout(()=>t.hidden=true,2800)}
 function speak(text){if(!('speechSynthesis'in window))return notice('Trình duyệt không hỗ trợ đọc văn bản');speechSynthesis.cancel();const utter=new SpeechSynthesisUtterance(text);utter.lang='en-US';utter.rate=.85;speechSynthesis.speak(utter)}
-function navigate(v,id){view=v;if(id)selected=Number(id);render();window.scrollTo({top:0,behavior:'smooth'})}
+function navigate(v,id){view=v;if(id)selected=Number(id);render();window.scrollTo({top:0,behavior:window.matchMedia?.('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'})}
 function completion(id){if(!state.completed[id])state.completed[id]=today();else delete state.completed[id];delete state.reviews[id];save();render();notice(state.completed[id]?'Đã hoàn thành bài học!':'Đã chuyển về chưa học')}
 function setNote(id,val){state.notes[id]=val;save();notice('Đã lưu câu luyện tập trên thiết bị')}
 function markReview(id,quality){let x=state.reviews[id]||{step:-1};let stages=[1,3,7,14,30];const step=quality==='easy'?Math.min(x.step+1,4):0;state.reviews[id]={step,due:addDays(today(),stages[step]),last:today()};save();render();notice('Đã cập nhật lịch ôn')}

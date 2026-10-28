@@ -20,7 +20,7 @@ const server=http.createServer((req,res)=>{
  const browser=await chromium.launch({headless:true});
  try{
  for(const viewport of [{width:1440,height:1000},{width:390,height:844}]){
-  const context=await browser.newContext({viewport,acceptDownloads:true});
+  const context=await browser.newContext({viewport,acceptDownloads:true,reducedMotion:'reduce'});
   const page=await context.newPage();const errors=[];page.on('pageerror',e=>errors.push(e.message));
   await page.goto(url);await page.locator('[data-nav="library"]').first().click();
   assert.equal(await page.locator('[data-open]').count(),197);
@@ -30,6 +30,7 @@ const server=http.createServer((req,res)=>{
    for(let i=0;i<5;i++)assert.equal(await page.locator('.example strong').nth(i).textContent(),lesson.examples[i].en);
    assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),true,`overflow lesson ${lesson.id}, width ${viewport.width}`);
    await page.locator('[data-nav="library"]').first().click();
+   if(lesson.id%50===0)console.log(`Checked ${lesson.id}/197 lessons at ${viewport.width}px`);
   }
   await page.locator('#query').fill('zzzz-no-match');assert.equal(await page.locator('[data-open]').count(),0);
   await page.locator('#query').fill('');
@@ -47,13 +48,17 @@ const server=http.createServer((req,res)=>{
   const downloadPromise=page.waitForEvent('download');await page.locator('#export').click();
   const download=await downloadPromise;const backup=JSON.parse(fs.readFileSync(await download.path(),'utf8'));assert.deepEqual(backup.data,state);
   await page.locator('#import').setInputFiles({name:'bad.json',mimeType:'application/json',buffer:Buffer.from(JSON.stringify({version:1,data:{completed:null,notes:[],reviews:{}}}))});
-  assert.match(await page.locator('#toast').textContent(),/Không thể nhập/);
+  await page.waitForFunction(()=>document.querySelector('#toast')?.textContent.includes('Không thể nhập'),null,{timeout:5000});
   assert.deepEqual(await page.evaluate(()=>JSON.parse(localStorage.getItem('english-communication-ai:v1'))),state);
   page.once('dialog',d=>d.dismiss());await page.locator('#reset').click();
   assert.deepEqual(await page.evaluate(()=>JSON.parse(localStorage.getItem('english-communication-ai:v1'))),state);
   page.once('dialog',d=>d.accept());await page.locator('#import').setInputFiles({name:'backup.json',mimeType:'application/json',buffer:Buffer.from(JSON.stringify(backup))});
-  await page.waitForFunction(()=>document.querySelector('#toast')?.textContent.includes('thành công'));
+  await page.waitForFunction(()=>document.querySelector('#toast')?.textContent.includes('thành công'),null,{timeout:5000});
   assert.deepEqual(await page.evaluate(()=>JSON.parse(localStorage.getItem('english-communication-ai:v1'))),state);
+  page.once('dialog',d=>d.accept());await page.locator('#reset').click();
+  assert.deepEqual(await page.evaluate(()=>JSON.parse(localStorage.getItem('english-communication-ai:v1')).completed),{});
+  page.once('dialog',d=>d.accept());await page.locator('#import').setInputFiles({name:'restored.json',mimeType:'application/json',buffer:Buffer.from(JSON.stringify(backup))});
+  await page.waitForFunction(()=>document.querySelector('#toast')?.textContent.includes('thành công'),null,{timeout:5000});
   await page.evaluate(async()=>{await navigator.serviceWorker.ready;await caches.open('unrelated-application');});
   await page.reload();await page.waitForFunction(()=>!!navigator.serviceWorker.controller);
   assert.ok((await page.evaluate(()=>caches.keys())).includes('unrelated-application'));
