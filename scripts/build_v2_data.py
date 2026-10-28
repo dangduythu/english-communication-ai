@@ -478,9 +478,9 @@ for l in lessons:
  exercises.append({'id':f'{l["id"]}-cloze','lessonId':l['id'],'type':'cloze','prompt':blanked,'hint':ex['vi'],'answer':match(entry['en'],ex['en']).group(),'vocabId':entry['id'],'correctSentence':ex['en'],'explanation':f'Điền “{entry["en"]}” với nghĩa “{entry["vi"]}” trong câu này. Đối chiếu nghĩa tiếng Việt và giữ nguyên phần còn lại của câu.'})
  ex=l['examples'][2]
  sentence=ex['en'].lower()
- if re.match(r'^(how|what|where|when|why|which) (is|are|was|were|do|does|did|can|could|will|would|have|has)\b',sentence):
+ if ex['en'].rstrip().endswith('?') and re.match(r'^(how|what|where|when|why|which) (is|are|was|were|do|does|did|can|could|will|would|have|has)\b',sentence):
   rule='Câu hỏi dùng từ hỏi trước trợ động từ hoặc động từ to be, rồi đến chủ ngữ và phần còn lại.'
- elif re.match(r'^(is|are|was|were|do|does|did|can|could|will|would|have|has)\b',sentence):
+ elif ex['en'].rstrip().endswith('?') and re.match(r'^(is|are|was|were|do|does|did|can|could|will|would|have|has)\b',sentence):
   rule='Câu hỏi Yes/No thường đặt trợ động từ hoặc động từ to be trước chủ ngữ.'
  elif sentence.startswith("let's "):
   rule="Lời đề nghị dùng Let's + động từ nguyên mẫu, sau đó là phần bổ sung."
